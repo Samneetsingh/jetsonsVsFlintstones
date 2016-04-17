@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 1e5fd19e9526f4a41bc1615048dfe2bd
+timeCreated: 1460757682
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Background_0
+    21300002: Background_1
+    21300004: Background_2
+    21300006: Background_3
+    21300008: Background_4
+    21300010: Background_5
+    21300012: Background_6
+    21300014: Background_7
+    21300016: Background_8
+    21300018: Background_9
+    21300020: Background_10
+    21300022: Background_11
+    21300024: Background_12
+    21300026: Background_13
+    21300028: Background_14
+    21300030: Background_15
+    21300032: Background_16
+    21300034: Background_17
+    21300036: Background_18
+    21300038: Background_19
+    21300040: Background_20
+    21300042: Background_21
+    21300044: Background_22
+    21300046: Background_23
+    21300048: Background_24
+    21300050: Background_25
+    21300052: Background_26
+    21300054: Background_27
+    21300056: Background_28
+    21300058: Background_29
+    21300060: Background_30
+    21300062: Background_31
+    21300064: Background_32
+    21300066: Background_33
+    21300068: Background_34
+    21300070: Background_35
+    21300072: Background_36
+    21300074: Background_37
+    21300076: Background_38
+    21300078: Background_39
+    21300080: Background_40
+    21300082: Background_41
+    21300084: Background_42
+    21300086: Background_43
+    21300088: Background_44
+    21300090: Background_45
+    21300092: Background_46
+    21300094: Background_47
+    21300096: Background_48
+    21300098: Background_49
+    21300100: Background_50
+    21300102: Background_51
+    21300104: Background_52
+    21300106: Background_53
+    21300108: Background_54
+    21300110: Background_55
+    21300112: Background_56
+    21300114: Background_57
+    21300116: Background_58
+    21300118: Background_59
+    21300120: Background_60
+    21300122: Background_61
+    21300124: Background_62
+    21300126: Background_63
+    21300128: Background_64
+    21300130: Background_65
+    21300132: Background_66
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Background_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 177
+        width: 241
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120.5, y: 147.5}
+        - {x: -120.5, y: -147.5}
+        - {x: 120.5, y: -147.5}
+        - {x: 120.5, y: 147.5}
+    - name: Background_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 115
+        width: 241
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 1}
+        - {x: 108.5, y: 3}
+        - {x: 100.5, y: 31}
+        - {x: 83.5, y: 27}
+        - {x: 88.5, y: 96}
+        - {x: 79.5, y: 119}
+        - {x: 52.5, y: 144}
+        - {x: 59.5, y: 190}
+        - {x: 72.5, y: 190}
+        - {x: 80.5, y: 219}
+        - {x: 69.5, y: 240}
+        - {x: 11.5, y: 240}
+        - {x: -0.5, y: 214}
+        - {x: -1.5, y: 197}
+        - {x: 20.5, y: 139}
+        - {x: -13.5, y: 96}
+        - {x: -35.5, y: 120}
+        - {x: -52.5, y: 119}
+        - {x: -56.5, y: 118}
+        - {x: -92.5, y: 97}
+        - {x: -86.5, y: 56}
+        - {x: -104.5, y: 32}
+        - {x: -100.5, y: -76}
+        - {x: -120.5, y: -140}
+        - {x: -120.5, y: -240}
+        - {x: 120.5, y: -240}
+        - {x: 120.5, y: -82}
+        - {x: 110.5, y: -58}
+    - name: Background_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 115
+        width: 241
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.5, y: 16}
+        - {x: 96.5, y: 25}
+        - {x: 83.5, y: 27}
+        - {x: 91.5, y: 97}
+        - {x: 61.5, y: 132}
+        - {x: 54.5, y: 167}
+        - {x: 74.5, y: 187}
+        - {x: 80.5, y: 219}
+        - {x: 69.5, y: 240}
+        - {x: 10.5, y: 240}
+        - {x: -6.5, y: 215}
+        - {x: 14.5, y: 140}
+        - {x: 8.5, y: 123}
+        - {x: -11.5, y: 96}
+        - {x: -28.5, y: 43}
+        - {x: -19.5, y: 98}
+        - {x: -55.5, y: 110}
+        - {x: -79.5, y: 106}
+        - {x: -92.5, y: 100}
+        - {x: -88.5, y: 55}
+        - {x: -104.5, y: 32}
+        - {x: -100.5, y: -76}
+        - {x: -120.5, y: -140}
+        - {x: -120.5, y: -240}
+        - {x: 120.5, y: -240}
+        - {x: 120.5, y: -75}
+        - {x: 102.5, y: -59}
+    - name: Background_3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 448
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_4
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 448
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_5
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 448
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 384
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_7
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 320
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 320
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_9
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 256
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_10
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 272
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_11
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 272
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_12
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 192
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 116
+        width: 241
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120.5, y: 24}
+        - {x: -120.5, y: -24}
+        - {x: 120.5, y: -24}
+        - {x: 120.5, y: 24}
+    - name: Background_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 83
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 59
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 59
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 59
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 61
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 64
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 64
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 64
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 64
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 64
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_28
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 64
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 61
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 64
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_31
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 64
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_32
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 64
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 64
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_34
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 64
+        width: 75
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_35
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 64
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_36
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 64
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_37
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 64
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_38
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 64
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_39
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 64
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_40
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 64
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_41
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_42
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 64
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_43
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 64
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_44
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 64
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_45
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 64
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_46
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_47
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 64
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_48
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 45
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 42
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 42
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_52
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 42
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_53
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 24
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_54
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 24
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_55
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_56
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 24
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 24
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_58
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 24
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_60
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_62
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 6
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 6
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_64
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_65
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3
+        width: 190
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Background_66
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 798
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -338, y: -26.5}
+        - {x: -338, y: -48.5}
+        - {x: -126, y: -48.5}
+        - {x: -126, y: -32.5}
+        - {x: -155, y: -26.5}
+      - - {x: -397, y: -30.5}
+        - {x: -398, y: -32.5}
+        - {x: -398, y: -47.5}
+        - {x: -338, y: -47.5}
+        - {x: -338, y: -35.5}
+        - {x: -346, y: -30.5}
+      - - {x: -361, y: -14.5}
+        - {x: -368, y: -13.5}
+        - {x: -397, y: -13.5}
+        - {x: -398, y: -14.5}
+        - {x: -398, y: -28.5}
+        - {x: -393, y: -29.5}
+        - {x: -362, y: -29.5}
+        - {x: -358, y: -26.5}
+        - {x: -358, y: -20.5}
+      - - {x: -348, y: -12.5}
+        - {x: -355, y: -13.5}
+        - {x: -358, y: -20.5}
+        - {x: -358, y: -28.5}
+        - {x: -357, y: -29.5}
+        - {x: -307, y: -29.5}
+        - {x: -307, y: -13.5}
+        - {x: -311, y: -12.5}
+      - - {x: -307, y: -26.5}
+        - {x: -306, y: -29.5}
+        - {x: -260, y: -29.5}
+        - {x: -260, y: -17.5}
+        - {x: -262, y: -12.5}
+        - {x: -271, y: -12.5}
+        - {x: -307, y: -16.5}
+      - - {x: -259, y: -13.5}
+        - {x: -260, y: -17.5}
+        - {x: -260, y: -24.5}
+        - {x: -247, y: -24.5}
+        - {x: -247, y: -17.5}
+        - {x: -250, y: -13.5}
+      - - {x: -241, y: -13.5}
+        - {x: -242, y: -17.5}
+        - {x: -242, y: -24.5}
+        - {x: -229, y: -24.5}
+        - {x: -229, y: -17.5}
+        - {x: -232, y: -13.5}
+      - - {x: -378, y: 8.5}
+        - {x: -393, y: 7.5}
+        - {x: -395, y: 6.5}
+        - {x: -395, y: -10.5}
+        - {x: -386, y: -11.5}
+        - {x: -354, y: -11.5}
+        - {x: -336, y: -8.5}
+        - {x: -336, y: 8.5}
+      - - {x: -272, y: 8.5}
+        - {x: -336, y: 8.5}
+        - {x: -336, y: -11.5}
+        - {x: -255, y: -11.5}
+        - {x: -254, y: -10.5}
+        - {x: -253, y: -8.5}
+        - {x: -253, y: 3.5}
+      - - {x: -345, y: 23.5}
+        - {x: -356, y: 26.5}
+        - {x: -395, y: 26.5}
+        - {x: -395, y: 10.5}
+        - {x: -387, y: 7.5}
+        - {x: -363, y: 7.5}
+        - {x: -349, y: 10.5}
+        - {x: -345, y: 13.5}
+      - - {x: -147, y: 26.5}
+        - {x: -166, y: 26.5}
+        - {x: -166, y: 8.5}
+        - {x: -154, y: 7.5}
+        - {x: -128, y: 7.5}
+        - {x: -127, y: 11.5}
+        - {x: -127, y: 21.5}
+        - {x: -130, y: 23.5}
+      - - {x: 340, y: 27.5}
+        - {x: 337, y: 25.5}
+        - {x: 337, y: 7.5}
+        - {x: 389, y: 7.5}
+        - {x: 390, y: 10.5}
+        - {x: 390, y: 27.5}
+      - - {x: -333, y: 26.5}
+        - {x: -341, y: 26.5}
+        - {x: -345, y: 25.5}
+        - {x: -345, y: 12.5}
+        - {x: -342, y: 10.5}
+        - {x: -335, y: 10.5}
+        - {x: -331, y: 13.5}
+        - {x: -331, y: 24.5}
+      - - {x: -330, y: 26.5}
+        - {x: -330, y: 11.5}
+        - {x: -328, y: 10.5}
+        - {x: -281, y: 10.5}
+        - {x: -278, y: 11.5}
+        - {x: -278, y: 26.5}
+      - - {x: -258, y: 26.5}
+        - {x: -275, y: 26.5}
+        - {x: -278, y: 20.5}
+        - {x: -278, y: 10.5}
+        - {x: -236, y: 10.5}
+        - {x: -236, y: 22.5}
+        - {x: -238, y: 24.5}
+      - - {x: -235, y: 27.5}
+        - {x: -235, y: 10.5}
+        - {x: -167, y: 10.5}
+        - {x: -167, y: 26.5}
+        - {x: -168, y: 27.5}
+      - - {x: -126, y: 27.5}
+        - {x: -126, y: 12.5}
+        - {x: -124, y: 10.5}
+        - {x: -82, y: 10.5}
+        - {x: -82, y: 27.5}
+      - - {x: -81, y: 27.5}
+        - {x: -81, y: 13.5}
+        - {x: -80, y: 10.5}
+        - {x: -39, y: 10.5}
+        - {x: -39, y: 24.5}
+        - {x: -48, y: 27.5}
+      - - {x: -13, y: 27.5}
+        - {x: -34, y: 27.5}
+        - {x: -40, y: 26.5}
+        - {x: -40, y: 19.5}
+        - {x: -36, y: 10.5}
+        - {x: -8, y: 10.5}
+        - {x: -6, y: 11.5}
+        - {x: -6, y: 20.5}
+        - {x: -8, y: 26.5}
+      - - {x: 39, y: 27.5}
+        - {x: -5, y: 27.5}
+        - {x: -5, y: 10.5}
+        - {x: 87, y: 10.5}
+        - {x: 87, y: 22.5}
+        - {x: 85, y: 24.5}
+      - - {x: 113, y: 27.5}
+        - {x: 92, y: 27.5}
+        - {x: 86, y: 26.5}
+        - {x: 86, y: 19.5}
+        - {x: 90, y: 10.5}
+        - {x: 118, y: 10.5}
+        - {x: 120, y: 11.5}
+        - {x: 120, y: 20.5}
+        - {x: 118, y: 26.5}
+      - - {x: 119, y: 26.5}
+        - {x: 119, y: 18.5}
+        - {x: 121, y: 10.5}
+        - {x: 194, y: 10.5}
+        - {x: 194, y: 21.5}
+        - {x: 192, y: 26.5}
+      - - {x: 242, y: 27.5}
+        - {x: 198, y: 27.5}
+        - {x: 194, y: 21.5}
+        - {x: 194, y: 11.5}
+        - {x: 196, y: 10.5}
+        - {x: 268, y: 10.5}
+        - {x: 268, y: 23.5}
+        - {x: 267, y: 25.5}
+      - - {x: 270, y: 27.5}
+        - {x: 269, y: 26.5}
+        - {x: 269, y: 10.5}
+        - {x: 337, y: 10.5}
+        - {x: 337, y: 27.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

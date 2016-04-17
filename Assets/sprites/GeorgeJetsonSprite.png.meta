@@ -1,0 +1,2941 @@
+fileFormatVersion: 2
+guid: eac846d25eb714c4e98c1efc1afaf035
+timeCreated: 1460767442
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GeorgeJetsonSprite_0
+    21300002: GeorgeJetsonSprite_1
+    21300004: GeorgeJetsonSprite_2
+    21300006: GeorgeJetsonSprite_3
+    21300008: GeorgeJetsonSprite_4
+    21300010: GeorgeJetsonSprite_5
+    21300012: GeorgeJetsonSprite_6
+    21300014: GeorgeJetsonSprite_7
+    21300016: GeorgeJetsonSprite_8
+    21300018: GeorgeJetsonSprite_9
+    21300020: GeorgeJetsonSprite_10
+    21300022: GeorgeJetsonSprite_11
+    21300024: GeorgeJetsonSprite_12
+    21300026: GeorgeJetsonSprite_13
+    21300028: GeorgeJetsonSprite_14
+    21300030: GeorgeJetsonSprite_15
+    21300032: GeorgeJetsonSprite_16
+    21300034: GeorgeJetsonSprite_17
+    21300036: GeorgeJetsonSprite_18
+    21300038: GeorgeJetsonSprite_19
+    21300040: GeorgeJetsonSprite_20
+    21300042: GeorgeJetsonSprite_21
+    21300044: GeorgeJetsonSprite_22
+    21300046: GeorgeJetsonSprite_23
+    21300048: GeorgeJetsonSprite_24
+    21300050: GeorgeJetsonSprite_25
+    21300052: GeorgeJetsonSprite_26
+    21300054: GeorgeJetsonSprite_27
+    21300056: GeorgeJetsonSprite_28
+    21300058: GeorgeJetsonSprite_29
+    21300060: GeorgeJetsonSprite_30
+    21300062: GeorgeJetsonSprite_31
+    21300064: GeorgeJetsonSprite_32
+    21300066: GeorgeJetsonSprite_33
+    21300068: GeorgeJetsonSprite_34
+    21300070: GeorgeJetsonSprite_35
+    21300072: GeorgeJetsonSprite_36
+    21300074: GeorgeJetsonSprite_37
+    21300076: GeorgeJetsonSprite_38
+    21300078: GeorgeJetsonSprite_39
+    21300080: GeorgeJetsonSprite_40
+    21300082: GeorgeJetsonSprite_41
+    21300084: GeorgeJetsonSprite_42
+    21300086: GeorgeJetsonSprite_43
+    21300088: GeorgeJetsonSprite_44
+    21300090: GeorgeJetsonSprite_45
+    21300092: GeorgeJetsonSprite_46
+    21300094: GeorgeJetsonSprite_47
+    21300096: GeorgeJetsonSprite_48
+    21300098: GeorgeJetsonSprite_49
+    21300100: GeorgeJetsonSprite_50
+    21300102: GeorgeJetsonSprite_51
+    21300104: GeorgeJetsonSprite_52
+    21300106: GeorgeJetsonSprite_53
+    21300108: GeorgeJetsonSprite_54
+    21300110: GeorgeJetsonSprite_55
+    21300112: GeorgeJetsonSprite_56
+    21300114: GeorgeJetsonSprite_57
+    21300116: GeorgeJetsonSprite_58
+    21300118: GeorgeJetsonSprite_59
+    21300120: GeorgeJetsonSprite_60
+    21300122: GeorgeJetsonSprite_61
+    21300124: GeorgeJetsonSprite_62
+    21300126: GeorgeJetsonSprite_63
+    21300128: GeorgeJetsonSprite_64
+    21300130: GeorgeJetsonSprite_65
+    21300132: GeorgeJetsonSprite_66
+    21300134: GeorgeJetsonSprite_67
+    21300136: GeorgeJetsonSprite_68
+    21300138: GeorgeJetsonSprite_69
+    21300140: GeorgeJetsonSprite_70
+    21300142: GeorgeJetsonSprite_71
+    21300144: GeorgeJetsonSprite_72
+    21300146: GeorgeJetsonSprite_73
+    21300148: GeorgeJetsonSprite_74
+    21300150: GeorgeJetsonSprite_75
+    21300152: GeorgeJetsonSprite_76
+    21300154: GeorgeJetsonSprite_77
+    21300156: GeorgeJetsonSprite_78
+    21300158: GeorgeJetsonSprite_79
+    21300160: GeorgeJetsonSprite_80
+    21300162: GeorgeJetsonSprite_81
+    21300164: GeorgeJetsonSprite_82
+    21300166: GeorgeJetsonSprite_83
+    21300168: GeorgeJetsonSprite_84
+    21300170: GeorgeJetsonSprite_85
+    21300172: GeorgeJetsonSprite_86
+    21300174: GeorgeJetsonSprite_87
+    21300176: GeorgeJetsonSprite_88
+    21300178: GeorgeJetsonSprite_89
+    21300180: GeorgeJetsonSprite_90
+    21300182: GeorgeJetsonSprite_91
+    21300184: GeorgeJetsonSprite_92
+    21300186: GeorgeJetsonSprite_93
+    21300188: GeorgeJetsonSprite_94
+    21300190: GeorgeJetsonSprite_95
+    21300192: GeorgeJetsonSprite_96
+    21300194: GeorgeJetsonSprite_97
+    21300196: GeorgeJetsonSprite_98
+    21300198: GeorgeJetsonSprite_99
+    21300200: GeorgeJetsonSprite_100
+    21300202: GeorgeJetsonSprite_101
+    21300204: GeorgeJetsonSprite_102
+    21300206: GeorgeJetsonSprite_103
+    21300208: GeorgeJetsonSprite_104
+    21300210: GeorgeJetsonSprite_105
+    21300212: GeorgeJetsonSprite_106
+    21300214: GeorgeJetsonSprite_107
+    21300216: GeorgeJetsonSprite_108
+    21300218: GeorgeJetsonSprite_109
+    21300220: GeorgeJetsonSprite_110
+    21300222: GeorgeJetsonSprite_111
+    21300224: GeorgeJetsonSprite_112
+    21300226: GeorgeJetsonSprite_113
+    21300228: GeorgeJetsonSprite_114
+    21300230: GeorgeJetsonSprite_115
+    21300232: GeorgeJetsonSprite_116
+    21300234: GeorgeJetsonSprite_117
+    21300236: GeorgeJetsonSprite_118
+    21300238: GeorgeJetsonSprite_119
+    21300240: GeorgeJetsonSprite_120
+    21300242: GeorgeJetsonSprite_121
+    21300244: GeorgeJetsonSprite_122
+    21300246: GeorgeJetsonSprite_123
+    21300248: GeorgeJetsonSprite_124
+    21300250: GeorgeJetsonSprite_125
+    21300252: GeorgeJetsonSprite_126
+    21300254: GeorgeJetsonSprite_127
+    21300256: GeorgeJetsonSprite_128
+    21300258: GeorgeJetsonSprite_129
+    21300260: GeorgeJetsonSprite_130
+    21300262: GeorgeJetsonSprite_131
+    21300264: GeorgeJetsonSprite_132
+    21300266: GeorgeJetsonSprite_133
+    21300268: GeorgeJetsonSprite_134
+    21300270: GeorgeJetsonSprite_135
+    21300272: GeorgeJetsonSprite_136
+    21300274: GeorgeJetsonSprite_137
+    21300276: GeorgeJetsonSprite_138
+    21300278: GeorgeJetsonSprite_139
+    21300280: GeorgeJetsonSprite_140
+    21300282: GeorgeJetsonSprite_141
+    21300284: GeorgeJetsonSprite_142
+    21300286: GeorgeJetsonSprite_143
+    21300288: GeorgeJetsonSprite_144
+    21300290: GeorgeJetsonSprite_145
+    21300292: GeorgeJetsonSprite_146
+    21300294: GeorgeJetsonSprite_147
+    21300296: GeorgeJetsonSprite_148
+    21300298: GeorgeJetsonSprite_149
+    21300300: GeorgeJetsonSprite_150
+    21300302: GeorgeJetsonSprite_151
+    21300304: GeorgeJetsonSprite_152
+    21300306: GeorgeJetsonSprite_153
+    21300308: GeorgeJetsonSprite_154
+    21300310: GeorgeJetsonSprite_155
+    21300312: GeorgeJetsonSprite_156
+    21300314: GeorgeJetsonSprite_157
+    21300316: GeorgeJetsonSprite_158
+    21300318: GeorgeJetsonSprite_159
+    21300320: GeorgeJetsonSprite_160
+    21300322: GeorgeJetsonSprite_161
+    21300324: GeorgeJetsonSprite_162
+    21300326: GeorgeJetsonSprite_163
+    21300328: GeorgeJetsonSprite_164
+    21300330: GeorgeJetsonSprite_165
+    21300332: GeorgeJetsonSprite_166
+    21300334: GeorgeJetsonSprite_167
+    21300336: GeorgeJetsonSprite_168
+    21300338: GeorgeJetsonSprite_169
+    21300340: GeorgeJetsonSprite_170
+    21300342: GeorgeJetsonSprite_171
+    21300344: GeorgeJetsonSprite_172
+    21300346: GeorgeJetsonSprite_173
+    21300348: GeorgeJetsonSprite_174
+    21300350: GeorgeJetsonSprite_175
+    21300352: GeorgeJetsonSprite_176
+    21300354: GeorgeJetsonSprite_177
+    21300356: GeorgeJetsonSprite_178
+    21300358: GeorgeJetsonSprite_179
+    21300360: GeorgeJetsonSprite_180
+    21300362: GeorgeJetsonSprite_181
+    21300364: GeorgeJetsonSprite_182
+    21300366: GeorgeJetsonSprite_183
+    21300368: GeorgeJetsonSprite_184
+    21300370: GeorgeJetsonSprite_185
+    21300372: GeorgeJetsonSprite_186
+    21300374: GeorgeJetsonSprite_187
+    21300376: GeorgeJetsonSprite_188
+    21300378: GeorgeJetsonSprite_189
+    21300380: GeorgeJetsonSprite_190
+    21300382: GeorgeJetsonSprite_191
+    21300384: GeorgeJetsonSprite_192
+    21300386: GeorgeJetsonSprite_193
+    21300388: GeorgeJetsonSprite_194
+    21300390: GeorgeJetsonSprite_195
+    21300392: GeorgeJetsonSprite_196
+    21300394: GeorgeJetsonSprite_197
+    21300396: GeorgeJetsonSprite_198
+    21300398: GeorgeJetsonSprite_199
+    21300400: GeorgeJetsonSprite_200
+    21300402: GeorgeJetsonSprite_201
+    21300404: GeorgeJetsonSprite_202
+    21300406: GeorgeJetsonSprite_203
+    21300408: GeorgeJetsonSprite_204
+    21300410: GeorgeJetsonSprite_205
+    21300412: GeorgeJetsonSprite_206
+    21300414: GeorgeJetsonSprite_207
+    21300416: GeorgeJetsonSprite_208
+    21300418: GeorgeJetsonSprite_209
+    21300420: GeorgeJetsonSprite_210
+    21300422: GeorgeJetsonSprite_211
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GeorgeJetsonSprite_0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 516
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 515
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 514
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -16, y: 7}
+        - {x: -16, y: -17}
+        - {x: -14, y: -21}
+        - {x: 1, y: -21}
+        - {x: 16, y: -14}
+        - {x: 16, y: 2}
+        - {x: 6, y: 21}
+    - name: GeorgeJetsonSprite_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 550
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 550
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 550
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 550
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 494
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 494
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 494
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 532
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 538
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 522
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 494
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 495
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -16, y: 21}
+        - {x: -16, y: -24}
+        - {x: 15, y: -24}
+        - {x: 16, y: -23}
+        - {x: 16, y: 1}
+        - {x: 7, y: 24}
+    - name: GeorgeJetsonSprite_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 494
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 494
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_17
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 494
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 495
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25}
+        - {x: -16, y: 8}
+        - {x: -16, y: -25}
+        - {x: 16, y: -25}
+        - {x: 16, y: 25}
+    - name: GeorgeJetsonSprite_19
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 494
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_20
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 494
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 494
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 10}
+        - {x: -2.5, y: 21}
+        - {x: -3.5, y: 22}
+        - {x: -18.5, y: 22}
+        - {x: -18.5, y: -12}
+        - {x: -11.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: 15}
+        - {x: 6.5, y: 13}
+    - name: GeorgeJetsonSprite_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 494
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 494
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 494
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 494
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 487
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 494
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 495
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 418
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 23}
+        - {x: -20.5, y: 12}
+        - {x: -20.5, y: -23}
+        - {x: 6.5, y: -23}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 17}
+        - {x: 14.5, y: 23}
+      - - {x: -10.5, y: -21}
+        - {x: -10.5, y: -23}
+        - {x: -3.5, y: -23}
+        - {x: -2.5, y: -22}
+        - {x: -2.5, y: -20}
+        - {x: -5.5, y: -19}
+    - name: GeorgeJetsonSprite_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 416
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -5.5}
+        - {x: 24, y: 22.5}
+        - {x: -11, y: 22.5}
+        - {x: -24, y: -8.5}
+        - {x: -24, y: -22.5}
+        - {x: -10, y: -22.5}
+        - {x: -11, y: -19.5}
+        - {x: -4, y: -22.5}
+        - {x: 5, y: -22.5}
+    - name: GeorgeJetsonSprite_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 417
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -21.5}
+        - {x: -15.5, y: -23.5}
+        - {x: 7.5, y: -23.5}
+        - {x: 23.5, y: -10.5}
+        - {x: 23.5, y: 20.5}
+        - {x: 20.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -23.5, y: -11.5}
+        - {x: -23.5, y: -23.5}
+        - {x: -15.5, y: -23.5}
+        - {x: -15.5, y: -22.5}
+        - {x: -14.5, y: -15.5}
+        - {x: -11.5, y: -15.5}
+    - name: GeorgeJetsonSprite_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 424
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18.5}
+        - {x: -22, y: -10.5}
+        - {x: -22, y: -18.5}
+        - {x: 8, y: -18.5}
+        - {x: 22, y: -13.5}
+        - {x: 22, y: 18.5}
+    - name: GeorgeJetsonSprite_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 413
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 416
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 416
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23.5}
+        - {x: -17.5, y: -19.5}
+        - {x: -4.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 17.5, y: 15.5}
+        - {x: 13.5, y: 23.5}
+    - name: GeorgeJetsonSprite_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 422
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 433
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22.5}
+        - {x: -17, y: -22.5}
+        - {x: -2, y: -22.5}
+        - {x: 17, y: -4.5}
+        - {x: 17, y: 22.5}
+    - name: GeorgeJetsonSprite_38
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 433
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 434
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_40
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 435
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 414
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_42
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 414
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_43
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 414
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 8.5}
+        - {x: 12, y: 23.5}
+        - {x: -11, y: 23.5}
+        - {x: -20, y: 11.5}
+        - {x: -20, y: -1.5}
+        - {x: -3, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 11, y: -19.5}
+        - {x: 19, y: -10.5}
+        - {x: 20, y: -8.5}
+    - name: GeorgeJetsonSprite_44
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 414
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_45
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 414
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -18, y: -14}
+        - {x: -15, y: -24}
+        - {x: 9, y: -24}
+        - {x: 18, y: -13}
+        - {x: 18, y: 13}
+        - {x: 15, y: 24}
+    - name: GeorgeJetsonSprite_46
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 414
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_47
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 414
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 416
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_50
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 416
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 414
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 414
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_53
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 414
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 356
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 356
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 356
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 356
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 357
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 21.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -9.5, y: 20.5}
+        - {x: -30.5, y: -10.5}
+        - {x: -30.5, y: -21.5}
+        - {x: -0.5, y: -21.5}
+        - {x: 30.5, y: -4.5}
+        - {x: 30.5, y: 14.5}
+    - name: GeorgeJetsonSprite_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 367
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.5}
+        - {x: -16, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 16, y: 19.5}
+        - {x: 9, y: 22.5}
+    - name: GeorgeJetsonSprite_61
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 358
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_62
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 361
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 364
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_64
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 364
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_65
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 357
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_66
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 365
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -21.5}
+        - {x: -10, y: -23.5}
+        - {x: 17, y: -23.5}
+        - {x: 17, y: -5.5}
+        - {x: 13, y: 23.5}
+    - name: GeorgeJetsonSprite_67
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 360
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_68
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 365
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23.5}
+        - {x: -14, y: 22.5}
+        - {x: -19, y: 4.5}
+        - {x: -19, y: -23.5}
+        - {x: 6, y: -23.5}
+        - {x: 19, y: 2.5}
+        - {x: 19, y: 23.5}
+    - name: GeorgeJetsonSprite_69
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 372
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20}
+        - {x: -18.5, y: -11}
+        - {x: -6.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 18.5, y: 16}
+        - {x: 11.5, y: 20}
+    - name: GeorgeJetsonSprite_70
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 373
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 19.5}
+        - {x: -21.5, y: 9.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -5.5, y: -19.5}
+        - {x: 3.5, y: -17.5}
+        - {x: 21.5, y: -4.5}
+        - {x: 21.5, y: 19.5}
+    - name: GeorgeJetsonSprite_71
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 356
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_72
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 356
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 306
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17.5}
+        - {x: 18, y: -17.5}
+        - {x: 18, y: 10.5}
+        - {x: 16, y: 17.5}
+        - {x: -16, y: 17.5}
+        - {x: -18, y: 13.5}
+    - name: GeorgeJetsonSprite_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 307
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23.5}
+        - {x: -19, y: 8.5}
+        - {x: -14, y: -7.5}
+        - {x: -11, y: -14.5}
+        - {x: -3, y: -23.5}
+        - {x: 13, y: -23.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 23.5}
+    - name: GeorgeJetsonSprite_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 306
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 306
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_77
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 306
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_78
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 306
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 306
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_80
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 306
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_81
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 306
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_82
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 309
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_83
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 308
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: 2, y: 23}
+        - {x: -14, y: 23}
+        - {x: -17, y: 19}
+        - {x: -17, y: -21}
+        - {x: -16, y: -23}
+        - {x: 17, y: -23}
+        - {x: 17, y: -5}
+        - {x: 14, y: -2}
+    - name: GeorgeJetsonSprite_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 306
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_85
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 306
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 306
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_87
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 306
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_88
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 306
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_89
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 306
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_90
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 306
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 227
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_92
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 224
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_93
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 224
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_94
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 227
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_95
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 224
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_96
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 224
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_97
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 224
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 224
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 26.5}
+        - {x: -22.5, y: 7.5}
+        - {x: -10.5, y: -26.5}
+        - {x: 7.5, y: -26.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 26.5}
+    - name: GeorgeJetsonSprite_99
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 224
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 26.5}
+        - {x: -17.5, y: 26.5}
+        - {x: -22.5, y: 24.5}
+        - {x: -22.5, y: 6.5}
+        - {x: -18.5, y: -11.5}
+        - {x: -12.5, y: -24.5}
+        - {x: -9.5, y: -26.5}
+        - {x: 4.5, y: -26.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 22.5, y: -2.5}
+        - {x: 22.5, y: 24.5}
+    - name: GeorgeJetsonSprite_100
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 224
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 224
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_102
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 231
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20.5}
+        - {x: -16, y: -20.5}
+        - {x: 13, y: -20.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 20.5}
+    - name: GeorgeJetsonSprite_103
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 231
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_104
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 224
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_105
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 224
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_106
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 224
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_107
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 224
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 38.5}
+        - {x: -16, y: 34.5}
+        - {x: -16, y: -36.5}
+        - {x: -14, y: -38.5}
+        - {x: 15, y: -38.5}
+        - {x: 16, y: -4.5}
+        - {x: 16, y: 38.5}
+    - name: GeorgeJetsonSprite_108
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 224
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 35.5}
+        - {x: -8, y: 29.5}
+        - {x: -22, y: 11.5}
+        - {x: -22, y: -30.5}
+        - {x: -21, y: -35.5}
+        - {x: 16, y: -35.5}
+        - {x: 22, y: -0.5}
+        - {x: 22, y: 35.5}
+    - name: GeorgeJetsonSprite_109
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 228
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 21.5}
+        - {x: 21.5, y: 25.5}
+        - {x: -0.5, y: 25.5}
+        - {x: -23.5, y: 17.5}
+        - {x: -23.5, y: -25.5}
+        - {x: -12.5, y: -25.5}
+        - {x: -10.5, y: -17.5}
+        - {x: 16.5, y: -0.5}
+        - {x: 23.5, y: 9.5}
+    - name: GeorgeJetsonSprite_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_111
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 161
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -17}
+        - {x: 25, y: -17}
+        - {x: 34, y: -9}
+        - {x: 34, y: 17}
+        - {x: 3, y: 17}
+        - {x: -34, y: 7}
+    - name: GeorgeJetsonSprite_112
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 161
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 20}
+        - {x: -30, y: -5}
+        - {x: -30, y: -20}
+        - {x: 26, y: -20}
+        - {x: 30, y: -17}
+        - {x: 30, y: 20}
+    - name: GeorgeJetsonSprite_113
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 161
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 27.5}
+        - {x: -18, y: -5.5}
+        - {x: -18, y: -27.5}
+        - {x: 18, y: -27.5}
+        - {x: 18, y: 27.5}
+    - name: GeorgeJetsonSprite_114
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 178
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 177
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_116
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 176
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -16, y: 7}
+        - {x: -16, y: -17}
+        - {x: -14, y: -21}
+        - {x: 1, y: -21}
+        - {x: 16, y: -14}
+        - {x: 16, y: 2}
+        - {x: 6, y: 21}
+    - name: GeorgeJetsonSprite_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_118
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 156
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_119
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 157
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 12.5}
+        - {x: 9, y: 11.5}
+        - {x: 8, y: 16.5}
+        - {x: 4, y: 23.5}
+        - {x: -1, y: 23.5}
+        - {x: -8, y: 16.5}
+        - {x: -9, y: 10.5}
+        - {x: -9, y: 7.5}
+        - {x: -9, y: 12.5}
+        - {x: -11, y: 16.5}
+        - {x: -19, y: 19.5}
+        - {x: -24, y: 19.5}
+        - {x: -24, y: -23.5}
+        - {x: 24, y: -23.5}
+        - {x: 24, y: 23.5}
+        - {x: 23, y: 23.5}
+        - {x: 10, y: 18.5}
+    - name: GeorgeJetsonSprite_120
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -10}
+        - {x: -13, y: -20}
+        - {x: 5, y: -20}
+        - {x: 20, y: -13}
+        - {x: 20, y: 13}
+        - {x: 19, y: 16}
+        - {x: 5, y: 20}
+        - {x: -9, y: 20}
+        - {x: -20, y: 5}
+    - name: GeorgeJetsonSprite_121
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 168
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_122
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 173
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_123
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_124
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 175
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_125
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 156
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_126
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 156
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_127
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 156
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_128
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 154
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_129
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 156
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_130
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 156
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_131
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 156
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_132
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 156
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_133
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 156
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_134
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 154
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_135
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 156
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_136
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 156
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_137
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 156
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_138
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 154
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_139
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 99
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_140
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 100
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_141
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 101
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_142
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 137
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_143
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 134
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_144
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 134
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_145
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 21.5}
+        - {x: -15.5, y: 4.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 9.5, y: -21.5}
+        - {x: 18.5, y: -16.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 10.5, y: 21.5}
+    - name: GeorgeJetsonSprite_146
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 80
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 24}
+        - {x: -18.5, y: -4}
+        - {x: -18.5, y: -24}
+        - {x: -4.5, y: -24}
+        - {x: 18.5, y: -8}
+        - {x: 18.5, y: 15}
+        - {x: 15.5, y: 24}
+    - name: GeorgeJetsonSprite_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 23.5}
+        - {x: -23, y: 13.5}
+        - {x: -23, y: -23.5}
+        - {x: -10, y: -23.5}
+        - {x: 23, y: -11.5}
+        - {x: 23, y: 17.5}
+        - {x: 17, y: 23.5}
+    - name: GeorgeJetsonSprite_148
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_149
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 81
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -23}
+        - {x: -14, y: -24}
+        - {x: 16, y: -24}
+        - {x: 16, y: 14}
+        - {x: 7, y: 24}
+    - name: GeorgeJetsonSprite_150
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 80
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_151
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 80
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_152
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 80
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_153
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 81
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 25}
+        - {x: -16, y: 5}
+        - {x: -16, y: -24}
+        - {x: -8, y: -25}
+        - {x: 16, y: -25}
+        - {x: 16, y: 19}
+        - {x: 4, y: 25}
+    - name: GeorgeJetsonSprite_154
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 80
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_155
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 80
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_156
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 83
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18.5}
+        - {x: -22, y: 2.5}
+        - {x: -22, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 22, y: -9.5}
+        - {x: 22, y: 12.5}
+        - {x: 8, y: 18.5}
+    - name: GeorgeJetsonSprite_157
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 80
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_158
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 80
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_159
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 80
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_160
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 80
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_161
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 35}
+        - {x: -24, y: -35}
+        - {x: 8, y: -35}
+        - {x: 24, y: -27}
+        - {x: 24, y: 35}
+    - name: GeorgeJetsonSprite_162
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 69
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_163
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_164
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 69
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_165
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 69
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_166
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 67
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_167
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 60
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_168
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 69
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_169
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_170
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_171
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_172
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 69
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_173
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 69
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_174
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_175
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_176
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_177
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_178
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_179
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_180
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 69
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_181
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_182
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 30}
+        - {x: -24, y: 25}
+        - {x: -24, y: -30}
+        - {x: 24, y: -30}
+        - {x: 24, y: 19}
+        - {x: 10, y: 30}
+    - name: GeorgeJetsonSprite_183
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 6
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -2.5}
+        - {x: 23.5, y: 5.5}
+        - {x: 19.5, y: 14.5}
+        - {x: 4.5, y: 30.5}
+        - {x: -25.5, y: 30.5}
+        - {x: -25.5, y: -26.5}
+        - {x: -17.5, y: -30.5}
+        - {x: -3.5, y: -30.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 25.5, y: -15.5}
+        - {x: 25.5, y: -6.5}
+    - name: GeorgeJetsonSprite_184
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 31.5}
+        - {x: -18, y: 27.5}
+        - {x: -24, y: 15.5}
+        - {x: -24, y: -31.5}
+        - {x: 20, y: -31.5}
+        - {x: 24, y: -30.5}
+        - {x: 24, y: 5.5}
+        - {x: 10, y: 31.5}
+    - name: GeorgeJetsonSprite_185
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 30}
+        - {x: -24, y: 27}
+        - {x: -24, y: -30}
+        - {x: 24, y: -30}
+        - {x: 24, y: 6}
+        - {x: 9, y: 30}
+    - name: GeorgeJetsonSprite_186
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_187
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 58
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_188
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_189
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_190
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_191
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_192
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 60
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_193
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_194
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_195
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_196
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_197
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_198
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_199
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_200
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_201
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 59
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_202
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_203
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 60
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_204
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_205
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 60
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_206
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1
+        width: 281
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140.5, y: 31.5}
+        - {x: -140.5, y: -31.5}
+        - {x: 140.5, y: -31.5}
+        - {x: 140.5, y: 31.5}
+    - name: GeorgeJetsonSprite_207
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 50
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_208
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_209
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_210
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GeorgeJetsonSprite_211
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

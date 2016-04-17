@@ -1,0 +1,2109 @@
+fileFormatVersion: 2
+guid: cb729be7d61054740b825d61fddc4ad9
+timeCreated: 1460757194
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FredFlintstoneSprite_0
+    21300002: FredFlintstoneSprite_1
+    21300004: FredFlintstoneSprite_2
+    21300006: FredFlintstoneSprite_3
+    21300008: FredFlintstoneSprite_4
+    21300010: FredFlintstoneSprite_5
+    21300012: FredFlintstoneSprite_6
+    21300014: FredFlintstoneSprite_7
+    21300016: FredFlintstoneSprite_8
+    21300018: FredFlintstoneSprite_9
+    21300020: FredFlintstoneSprite_10
+    21300022: FredFlintstoneSprite_11
+    21300024: FredFlintstoneSprite_12
+    21300026: FredFlintstoneSprite_13
+    21300028: FredFlintstoneSprite_14
+    21300030: FredFlintstoneSprite_15
+    21300032: FredFlintstoneSprite_16
+    21300034: FredFlintstoneSprite_17
+    21300036: FredFlintstoneSprite_18
+    21300038: FredFlintstoneSprite_19
+    21300040: FredFlintstoneSprite_20
+    21300042: FredFlintstoneSprite_21
+    21300044: FredFlintstoneSprite_22
+    21300046: FredFlintstoneSprite_23
+    21300048: FredFlintstoneSprite_24
+    21300050: FredFlintstoneSprite_25
+    21300052: FredFlintstoneSprite_26
+    21300054: FredFlintstoneSprite_27
+    21300056: FredFlintstoneSprite_28
+    21300058: FredFlintstoneSprite_29
+    21300060: FredFlintstoneSprite_30
+    21300062: FredFlintstoneSprite_31
+    21300064: FredFlintstoneSprite_32
+    21300066: FredFlintstoneSprite_33
+    21300068: FredFlintstoneSprite_34
+    21300070: FredFlintstoneSprite_35
+    21300072: FredFlintstoneSprite_36
+    21300074: FredFlintstoneSprite_37
+    21300076: FredFlintstoneSprite_38
+    21300078: FredFlintstoneSprite_39
+    21300080: FredFlintstoneSprite_40
+    21300082: FredFlintstoneSprite_41
+    21300084: FredFlintstoneSprite_42
+    21300086: FredFlintstoneSprite_43
+    21300088: FredFlintstoneSprite_44
+    21300090: FredFlintstoneSprite_45
+    21300092: FredFlintstoneSprite_46
+    21300094: FredFlintstoneSprite_47
+    21300096: FredFlintstoneSprite_48
+    21300098: FredFlintstoneSprite_49
+    21300100: FredFlintstoneSprite_50
+    21300102: FredFlintstoneSprite_51
+    21300104: FredFlintstoneSprite_52
+    21300106: FredFlintstoneSprite_53
+    21300108: FredFlintstoneSprite_54
+    21300110: FredFlintstoneSprite_55
+    21300112: FredFlintstoneSprite_56
+    21300114: FredFlintstoneSprite_57
+    21300116: FredFlintstoneSprite_58
+    21300118: FredFlintstoneSprite_59
+    21300120: FredFlintstoneSprite_60
+    21300122: FredFlintstoneSprite_61
+    21300124: FredFlintstoneSprite_62
+    21300126: FredFlintstoneSprite_63
+    21300128: FredFlintstoneSprite_64
+    21300130: FredFlintstoneSprite_65
+    21300132: FredFlintstoneSprite_66
+    21300134: FredFlintstoneSprite_67
+    21300136: FredFlintstoneSprite_68
+    21300138: FredFlintstoneSprite_69
+    21300140: FredFlintstoneSprite_70
+    21300142: FredFlintstoneSprite_71
+    21300144: FredFlintstoneSprite_72
+    21300146: FredFlintstoneSprite_73
+    21300148: FredFlintstoneSprite_74
+    21300150: FredFlintstoneSprite_75
+    21300152: FredFlintstoneSprite_76
+    21300154: FredFlintstoneSprite_77
+    21300156: FredFlintstoneSprite_78
+    21300158: FredFlintstoneSprite_79
+    21300160: FredFlintstoneSprite_80
+    21300162: FredFlintstoneSprite_81
+    21300164: FredFlintstoneSprite_82
+    21300166: FredFlintstoneSprite_83
+    21300168: FredFlintstoneSprite_84
+    21300170: FredFlintstoneSprite_85
+    21300172: FredFlintstoneSprite_86
+    21300174: FredFlintstoneSprite_87
+    21300176: FredFlintstoneSprite_88
+    21300178: FredFlintstoneSprite_89
+    21300180: FredFlintstoneSprite_90
+    21300182: FredFlintstoneSprite_91
+    21300184: FredFlintstoneSprite_92
+    21300186: FredFlintstoneSprite_93
+    21300188: FredFlintstoneSprite_94
+    21300190: FredFlintstoneSprite_95
+    21300192: FredFlintstoneSprite_96
+    21300194: FredFlintstoneSprite_97
+    21300196: FredFlintstoneSprite_98
+    21300198: FredFlintstoneSprite_99
+    21300200: FredFlintstoneSprite_100
+    21300202: FredFlintstoneSprite_101
+    21300204: FredFlintstoneSprite_102
+    21300206: FredFlintstoneSprite_103
+    21300208: FredFlintstoneSprite_104
+    21300210: FredFlintstoneSprite_105
+    21300212: FredFlintstoneSprite_106
+    21300214: FredFlintstoneSprite_107
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FredFlintstoneSprite_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 911
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 911
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 922
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 913
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: FredFlintstoneSprite_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 912
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 18}
+        - {x: -18.5, y: 17}
+        - {x: -18.5, y: -13}
+        - {x: -12.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 18.5, y: -15}
+        - {x: 18.5, y: 14}
+        - {x: 15.5, y: 18}
+    - name: FredFlintstoneSprite_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 910
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -20, y: 15}
+        - {x: -20, y: -16}
+        - {x: -14, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 18}
+        - {x: 16, y: 20}
+      - - {x: -11, y: 3}
+        - {x: 2, y: 11}
+        - {x: 10, y: -1}
+        - {x: -1, y: -11}
+    - name: FredFlintstoneSprite_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 865
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 865
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 865
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20.5}
+        - {x: -16, y: -20.5}
+        - {x: 15, y: -20.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: 9.5}
+        - {x: 10, y: 20.5}
+    - name: FredFlintstoneSprite_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 865
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20.5}
+        - {x: -16, y: -20.5}
+        - {x: 15, y: -20.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: 9.5}
+        - {x: 10, y: 20.5}
+    - name: FredFlintstoneSprite_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 865
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 865
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 852
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 22.5}
+        - {x: -20, y: 22.5}
+        - {x: -24, y: -3.5}
+        - {x: -24, y: -22.5}
+        - {x: 14, y: -22.5}
+        - {x: 17, y: -19.5}
+        - {x: 24, y: -4.5}
+        - {x: 24, y: 19.5}
+    - name: FredFlintstoneSprite_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 852
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 22.5}
+        - {x: -17, y: 22.5}
+        - {x: -21, y: 19.5}
+        - {x: -19, y: 0.5}
+        - {x: -25, y: -12.5}
+        - {x: -25, y: -22.5}
+        - {x: 14, y: -22.5}
+        - {x: 25, y: 6.5}
+        - {x: 25, y: 17.5}
+    - name: FredFlintstoneSprite_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 874
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 815
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: -3, y: -20}
+        - {x: 20, y: -6}
+        - {x: 20, y: 16}
+        - {x: 7, y: 20}
+    - name: FredFlintstoneSprite_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 814
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 20}
+        - {x: -20.5, y: 20}
+        - {x: -21.5, y: 13}
+        - {x: -21.5, y: -20}
+        - {x: 15.5, y: -20}
+        - {x: 21.5, y: -11}
+        - {x: 21.5, y: 15}
+    - name: FredFlintstoneSprite_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 814
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -20.5, y: 10}
+        - {x: -20.5, y: -21}
+        - {x: -1.5, y: -21}
+        - {x: 5.5, y: -19}
+        - {x: 20.5, y: -4}
+        - {x: 20.5, y: 17}
+        - {x: 8.5, y: 21}
+    - name: FredFlintstoneSprite_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 793
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -24.5}
+        - {x: 16, y: -24.5}
+        - {x: 31, y: -17.5}
+        - {x: 31, y: 10.5}
+        - {x: 19, y: 24.5}
+        - {x: -31, y: 24.5}
+        - {x: -31, y: -11.5}
+    - name: FredFlintstoneSprite_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 793
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -31, y: 9}
+        - {x: -31, y: -15}
+        - {x: -26, y: -24}
+        - {x: 8, y: -24}
+        - {x: 31, y: -10}
+        - {x: 31, y: 12}
+        - {x: 15, y: 24}
+    - name: FredFlintstoneSprite_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 786
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 27.5}
+        - {x: -15.5, y: 27.5}
+        - {x: -29.5, y: 9.5}
+        - {x: -29.5, y: -3.5}
+        - {x: -25.5, y: -3.5}
+        - {x: -19.5, y: -27.5}
+        - {x: 12.5, y: -27.5}
+        - {x: 21.5, y: -26.5}
+        - {x: 29.5, y: -3.5}
+        - {x: 29.5, y: 15.5}
+    - name: FredFlintstoneSprite_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 762
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -15.5}
+        - {x: -11, y: -20.5}
+        - {x: 12, y: -20.5}
+        - {x: 16, y: -9.5}
+        - {x: 16, y: 7.5}
+        - {x: 6, y: 20.5}
+    - name: FredFlintstoneSprite_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 762
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -16, y: -15.5}
+        - {x: -12, y: -17.5}
+        - {x: 12, y: -17.5}
+        - {x: 16, y: -5.5}
+        - {x: 16, y: 7.5}
+        - {x: 5, y: 17.5}
+    - name: FredFlintstoneSprite_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 762
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -16, y: -14.5}
+        - {x: -13, y: -17.5}
+        - {x: 12, y: -17.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 8.5}
+        - {x: -1, y: 17.5}
+    - name: FredFlintstoneSprite_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 762
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 728
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 24.5}
+        - {x: -30, y: -8.5}
+        - {x: -14, y: -24.5}
+        - {x: 17, y: -24.5}
+        - {x: 30, y: -3.5}
+        - {x: 30, y: 24.5}
+    - name: FredFlintstoneSprite_26
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 728
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 24}
+        - {x: -18, y: 23}
+        - {x: -30, y: 10}
+        - {x: -30, y: -12}
+        - {x: -23, y: -24}
+        - {x: 13, y: -24}
+        - {x: 30, y: 2}
+        - {x: 30, y: 20}
+        - {x: 22, y: 24}
+    - name: FredFlintstoneSprite_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 721
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 20.5}
+        - {x: 13.5, y: 21.5}
+        - {x: 11.5, y: 27.5}
+        - {x: -14.5, y: 27.5}
+        - {x: -19.5, y: 26.5}
+        - {x: -28.5, y: 5.5}
+        - {x: -28.5, y: -3.5}
+        - {x: -24.5, y: -3.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 17.5, y: -27.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 28.5, y: -1.5}
+    - name: FredFlintstoneSprite_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 713
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 22}
+        - {x: -11, y: 22}
+        - {x: -16, y: 16}
+        - {x: -16, y: -5}
+        - {x: -8, y: -22}
+        - {x: 9, y: -22}
+        - {x: 16, y: -8}
+        - {x: 16, y: 9}
+        - {x: 11, y: 21}
+    - name: FredFlintstoneSprite_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 713
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21.5}
+        - {x: -16, y: 11.5}
+        - {x: -16, y: -11.5}
+        - {x: -3, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 16, y: -9.5}
+        - {x: 16, y: 21.5}
+    - name: FredFlintstoneSprite_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 714
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20.5}
+        - {x: -17, y: 5.5}
+        - {x: -17, y: -17.5}
+        - {x: -10, y: -20.5}
+        - {x: 17, y: -20.5}
+        - {x: 17, y: 20.5}
+    - name: FredFlintstoneSprite_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 664
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 18.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -15.5, y: -18.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 18.5}
+    - name: FredFlintstoneSprite_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 652
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25.5}
+        - {x: -20, y: 12.5}
+        - {x: -20, y: -19.5}
+        - {x: -10, y: -25.5}
+        - {x: 20, y: -25.5}
+        - {x: 20, y: 21.5}
+        - {x: 11, y: 25.5}
+    - name: FredFlintstoneSprite_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 662
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23.5}
+        - {x: -21, y: 20.5}
+        - {x: -24, y: -3.5}
+        - {x: -24, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 24, y: -5.5}
+        - {x: 24, y: 15.5}
+        - {x: 14, y: 23.5}
+    - name: FredFlintstoneSprite_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 662
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 23.5}
+        - {x: -19, y: 23.5}
+        - {x: -24, y: 7.5}
+        - {x: -24, y: -23.5}
+        - {x: 9, y: -23.5}
+        - {x: 22, y: -19.5}
+        - {x: 24, y: -11.5}
+        - {x: 24, y: 14.5}
+    - name: FredFlintstoneSprite_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 595
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21.5}
+        - {x: -21.5, y: 2.5}
+        - {x: -11.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 21.5, y: -5.5}
+        - {x: 18.5, y: 8.5}
+        - {x: 13.5, y: 21.5}
+    - name: FredFlintstoneSprite_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 595
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 19}
+        - {x: -20.5, y: -1}
+        - {x: -14.5, y: -19}
+        - {x: 20.5, y: -19}
+        - {x: 20.5, y: 14}
+        - {x: 12.5, y: 19}
+    - name: FredFlintstoneSprite_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 586
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 22.5}
+        - {x: -26.5, y: 2.5}
+        - {x: -26.5, y: -13.5}
+        - {x: 0.5, y: -22.5}
+        - {x: 26.5, y: -22.5}
+        - {x: 26.5, y: 22.5}
+    - name: FredFlintstoneSprite_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 586
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 22.5}
+        - {x: -10.5, y: 16.5}
+        - {x: -24.5, y: 0.5}
+        - {x: -24.5, y: -9.5}
+        - {x: -19.5, y: -13.5}
+        - {x: 4.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 2.5}
+        - {x: 22.5, y: 22.5}
+    - name: FredFlintstoneSprite_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 604
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23.5}
+        - {x: -22, y: 20.5}
+        - {x: -25, y: -3.5}
+        - {x: -25, y: -23.5}
+        - {x: 13, y: -23.5}
+        - {x: 25, y: 5.5}
+        - {x: 25, y: 19.5}
+        - {x: 12, y: 23.5}
+    - name: FredFlintstoneSprite_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 603
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23.5}
+        - {x: -21, y: 23.5}
+        - {x: -25, y: 22.5}
+        - {x: -25, y: -23.5}
+        - {x: 8, y: -23.5}
+        - {x: 21, y: -19.5}
+        - {x: 25, y: -0.5}
+        - {x: 25, y: 19.5}
+    - name: FredFlintstoneSprite_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 537
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 17.5}
+        - {x: 5, y: 20.5}
+        - {x: -14, y: 20.5}
+        - {x: -16, y: 17.5}
+        - {x: -16, y: -11.5}
+        - {x: -9, y: -19.5}
+        - {x: -8, y: -20.5}
+        - {x: 5, y: -20.5}
+        - {x: 12, y: -12.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 5.5}
+    - name: FredFlintstoneSprite_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 537
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -19}
+        - {x: 13, y: -19}
+        - {x: 16, y: -14}
+        - {x: 16, y: 9}
+        - {x: 10, y: 19}
+    - name: FredFlintstoneSprite_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 537
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -14, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -9, y: -20}
+        - {x: 8, y: -20}
+        - {x: 16, y: -9}
+        - {x: 16, y: 3}
+        - {x: 8, y: 17}
+    - name: FredFlintstoneSprite_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 537
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20.5}
+        - {x: -14, y: 20.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -17.5}
+        - {x: -10, y: -20.5}
+        - {x: 13, y: -20.5}
+        - {x: 15, y: -18.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 6.5}
+    - name: FredFlintstoneSprite_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 537
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -4.5}
+        - {x: 16, y: -1.5}
+        - {x: 16, y: 0.5}
+        - {x: 6, y: 17.5}
+        - {x: 3, y: 19.5}
+        - {x: -17, y: 19.5}
+        - {x: -18, y: 18.5}
+        - {x: -18, y: -19.5}
+        - {x: 16, y: -19.5}
+        - {x: 18, y: -15.5}
+        - {x: 18, y: -6.5}
+        - {x: 16, y: -4.5}
+    - name: FredFlintstoneSprite_46
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 537
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -20}
+        - {x: 16, y: 8}
+        - {x: 12, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -20}
+    - name: FredFlintstoneSprite_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 537
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 19.5}
+        - {x: -21.5, y: 3.5}
+        - {x: -21.5, y: -14.5}
+        - {x: -16.5, y: -19.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 21.5, y: 1.5}
+        - {x: 7.5, y: 19.5}
+    - name: FredFlintstoneSprite_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 536
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -28, y: 13}
+        - {x: -28, y: -20}
+        - {x: 28, y: -20}
+        - {x: 28, y: 7}
+        - {x: 22, y: 20}
+    - name: FredFlintstoneSprite_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 536
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 20}
+        - {x: -26, y: 19}
+        - {x: -28, y: 6}
+        - {x: -28, y: -20}
+        - {x: 28, y: -20}
+        - {x: 28, y: 18}
+        - {x: 27, y: 20}
+    - name: FredFlintstoneSprite_50
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 536
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 10}
+        - {x: -28, y: -20}
+        - {x: 28, y: -20}
+        - {x: 28, y: 20}
+        - {x: -25, y: 20}
+    - name: FredFlintstoneSprite_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 482
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22.5}
+        - {x: -21, y: 3.5}
+        - {x: -10, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 21, y: 1.5}
+        - {x: 20, y: 9.5}
+        - {x: 14, y: 22.5}
+    - name: FredFlintstoneSprite_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 467
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 470
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -27}
+        - {x: 0.5, y: -28}
+        - {x: 7.5, y: -28}
+        - {x: 7.5, y: -27}
+        - {x: 5.5, y: -23}
+        - {x: 1.5, y: -23}
+        - {x: -0.5, y: -24}
+      - - {x: 4.5, y: -23}
+        - {x: 7.5, y: -26}
+        - {x: 10.5, y: -25}
+        - {x: 10.5, y: -22}
+        - {x: 7.5, y: -19}
+        - {x: 4.5, y: -20}
+      - - {x: -18.5, y: 28}
+        - {x: -18.5, y: 5}
+        - {x: -14.5, y: -9}
+        - {x: 0.5, y: -18}
+        - {x: 10.5, y: -18}
+        - {x: 18.5, y: -10}
+        - {x: 18.5, y: 24}
+        - {x: 14.5, y: 28}
+    - name: FredFlintstoneSprite_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 482
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 24.5}
+        - {x: -18.5, y: 8.5}
+        - {x: -6.5, y: -13.5}
+        - {x: 2.5, y: -24.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 18.5, y: 16.5}
+        - {x: 17.5, y: 24.5}
+    - name: FredFlintstoneSprite_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 482
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20}
+        - {x: -18.5, y: 6}
+        - {x: -0.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 18.5, y: 16}
+        - {x: 12.5, y: 20}
+    - name: FredFlintstoneSprite_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 467
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 469
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -28}
+        - {x: -6.5, y: -30}
+        - {x: -5.5, y: -31}
+        - {x: 1.5, y: -31}
+        - {x: 1.5, y: -30}
+        - {x: -2.5, y: -26}
+        - {x: -4.5, y: -26}
+      - - {x: -1.5, y: -26}
+        - {x: 1.5, y: -29}
+        - {x: 4.5, y: -28}
+        - {x: 4.5, y: -25}
+        - {x: 1.5, y: -22}
+        - {x: -1.5, y: -23}
+      - - {x: 0.5, y: 31}
+        - {x: -21.5, y: 31}
+        - {x: -21.5, y: 10}
+        - {x: -16.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 20}
+        - {x: 11.5, y: 27}
+    - name: FredFlintstoneSprite_58
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 481
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21}
+        - {x: -24.5, y: 0}
+        - {x: -18.5, y: -21}
+        - {x: 24.5, y: -21}
+        - {x: 24.5, y: -2}
+        - {x: 20.5, y: 16}
+        - {x: 11.5, y: 21}
+    - name: FredFlintstoneSprite_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 476
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 25.5}
+        - {x: -18.5, y: 25.5}
+        - {x: -30.5, y: 23.5}
+        - {x: -30.5, y: -17.5}
+        - {x: -25.5, y: -23.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 8.5, y: -25.5}
+        - {x: 29.5, y: -14.5}
+        - {x: 30.5, y: -10.5}
+        - {x: 30.5, y: 11.5}
+    - name: FredFlintstoneSprite_60
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 476
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 25.5}
+        - {x: -28.5, y: 16.5}
+        - {x: -30.5, y: 13.5}
+        - {x: -30.5, y: -11.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 30.5, y: -11.5}
+        - {x: 30.5, y: 19.5}
+        - {x: 17.5, y: 25.5}
+    - name: FredFlintstoneSprite_61
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 476
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 9.5}
+        - {x: 11.5, y: 9.5}
+        - {x: 0.5, y: 14.5}
+        - {x: -1.5, y: 14.5}
+        - {x: 3.5, y: 14.5}
+        - {x: 6.5, y: 17.5}
+        - {x: 8.5, y: 25.5}
+        - {x: -5.5, y: 25.5}
+        - {x: -28.5, y: 16.5}
+        - {x: -30.5, y: 14.5}
+        - {x: -30.5, y: -11.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -19.5, y: -25.5}
+        - {x: -3.5, y: -25.5}
+        - {x: 25.5, y: -11.5}
+        - {x: 30.5, y: -7.5}
+        - {x: 30.5, y: 5.5}
+    - name: FredFlintstoneSprite_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 21.5}
+        - {x: -7.5, y: 19.5}
+        - {x: -8.5, y: 17.5}
+        - {x: -9.5, y: 20.5}
+        - {x: -12.5, y: 21.5}
+        - {x: -17.5, y: 21.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: 17.5}
+        - {x: -18.5, y: 10.5}
+        - {x: -13.5, y: 6.5}
+        - {x: -19.5, y: 0.5}
+        - {x: -19.5, y: -10.5}
+        - {x: -6.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 19.5, y: -9.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 13.5, y: 21.5}
+    - name: FredFlintstoneSprite_63
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 424
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21.5}
+        - {x: -6, y: 21.5}
+        - {x: -16, y: 15.5}
+        - {x: -14, y: 11.5}
+        - {x: -12, y: 8.5}
+        - {x: -17, y: 8.5}
+        - {x: -19, y: 6.5}
+        - {x: -19, y: -4.5}
+        - {x: -14, y: -17.5}
+        - {x: -10, y: -21.5}
+        - {x: -3, y: -21.5}
+        - {x: 19, y: -5.5}
+        - {x: 19, y: 7.5}
+        - {x: 12, y: 20.5}
+    - name: FredFlintstoneSprite_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 424
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 21}
+        - {x: -9, y: 19}
+        - {x: -10, y: 17}
+        - {x: -11, y: 20}
+        - {x: -14, y: 21}
+        - {x: -18, y: 21}
+        - {x: -18, y: -12}
+        - {x: -12, y: -21}
+        - {x: 2, y: -21}
+        - {x: 18, y: -8}
+        - {x: 18, y: 9}
+        - {x: 13, y: 21}
+    - name: FredFlintstoneSprite_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 424
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -21}
+        - {x: 17, y: -21}
+        - {x: 17, y: 21}
+        - {x: -17, y: 21}
+    - name: FredFlintstoneSprite_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 424
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 19}
+        - {x: -5.5, y: 19}
+        - {x: -17.5, y: 13}
+        - {x: -19.5, y: 3}
+        - {x: -19.5, y: -17}
+        - {x: -18.5, y: -19}
+        - {x: 19.5, y: -19}
+        - {x: 19.5, y: 10}
+        - {x: 12.5, y: 18}
+      - - {x: -19.5, y: 19}
+        - {x: -19.5, y: 11}
+        - {x: -16.5, y: 11}
+        - {x: -12.5, y: 15}
+        - {x: -12.5, y: 19}
+    - name: FredFlintstoneSprite_67
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 424
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 19}
+        - {x: -19.5, y: 9}
+        - {x: -19.5, y: 5}
+        - {x: -14.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 19.5, y: -7}
+        - {x: 19.5, y: 10}
+        - {x: 15.5, y: 19}
+      - - {x: -19.5, y: 19}
+        - {x: -19.5, y: 11}
+        - {x: -16.5, y: 11}
+        - {x: -12.5, y: 15}
+        - {x: -12.5, y: 19}
+    - name: FredFlintstoneSprite_68
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 410
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 26}
+        - {x: -27.5, y: 17}
+        - {x: -29.5, y: 10}
+        - {x: -29.5, y: -11}
+        - {x: -5.5, y: -26}
+        - {x: 23.5, y: -26}
+        - {x: 24.5, y: -25}
+        - {x: 29.5, y: -15}
+        - {x: 29.5, y: 26}
+    - name: FredFlintstoneSprite_69
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 410
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 26}
+        - {x: -9.5, y: 26}
+        - {x: -12.5, y: 25}
+        - {x: -26.5, y: 16}
+        - {x: -29.5, y: 8}
+        - {x: -29.5, y: -11}
+        - {x: -1.5, y: -26}
+        - {x: 22.5, y: -26}
+        - {x: 28.5, y: -15}
+        - {x: 29.5, y: -9}
+        - {x: 29.5, y: 18}
+    - name: FredFlintstoneSprite_70
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 410
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 7}
+        - {x: 29.5, y: 18}
+        - {x: 13.5, y: 26}
+        - {x: -13.5, y: 26}
+        - {x: -29.5, y: 9}
+        - {x: -29.5, y: -8}
+        - {x: -24.5, y: -12}
+        - {x: 0.5, y: -26}
+        - {x: 22.5, y: -26}
+        - {x: 24.5, y: -25}
+        - {x: 24.5, y: -15}
+        - {x: 19.5, y: -8}
+        - {x: 26.5, y: 2}
+    - name: FredFlintstoneSprite_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 374
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 19.5}
+        - {x: -13.5, y: 2.5}
+        - {x: -20.5, y: -3.5}
+        - {x: -20.5, y: -19.5}
+        - {x: 1.5, y: -19.5}
+        - {x: 20.5, y: -14.5}
+        - {x: 20.5, y: 19.5}
+    - name: FredFlintstoneSprite_72
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 367
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_73
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 381
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 17.5}
+        - {x: -19.5, y: -15.5}
+        - {x: -11.5, y: -17.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: -5.5}
+        - {x: 4.5, y: 17.5}
+    - name: FredFlintstoneSprite_74
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 376
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19.5}
+        - {x: -18, y: 5.5}
+        - {x: -18, y: -18.5}
+        - {x: -17, y: -19.5}
+        - {x: -3, y: -19.5}
+        - {x: 17, y: -8.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 19.5}
+    - name: FredFlintstoneSprite_75
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 374
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19.5}
+        - {x: -22, y: 6.5}
+        - {x: -22, y: -5.5}
+        - {x: -13, y: -19.5}
+        - {x: 10, y: -19.5}
+        - {x: 18, y: -17.5}
+        - {x: 22, y: -8.5}
+        - {x: 22, y: 19.5}
+    - name: FredFlintstoneSprite_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 378
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 18.5}
+        - {x: -10, y: 10.5}
+        - {x: -16, y: -1.5}
+        - {x: -16, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 17.5}
+        - {x: 15, y: 18.5}
+    - name: FredFlintstoneSprite_77
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 358
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -28, y: 1}
+        - {x: -28, y: -18}
+        - {x: 27, y: -18}
+        - {x: 28, y: -17}
+        - {x: 28, y: -2}
+        - {x: 11, y: 18}
+    - name: FredFlintstoneSprite_78
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 358
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -28, y: 1}
+        - {x: -28, y: -18}
+        - {x: 28, y: -18}
+        - {x: 28, y: -1}
+        - {x: 16, y: 18}
+    - name: FredFlintstoneSprite_79
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 358
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -28, y: 1}
+        - {x: -28, y: -18}
+        - {x: 28, y: -18}
+        - {x: 28, y: -1}
+        - {x: 16, y: 18}
+    - name: FredFlintstoneSprite_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 314
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23}
+        - {x: -16.5, y: 21}
+        - {x: -16.5, y: -17}
+        - {x: -15.5, y: -23}
+        - {x: 12.5, y: -23}
+        - {x: 16.5, y: -14}
+        - {x: 16.5, y: 23}
+    - name: FredFlintstoneSprite_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 313
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_82
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 314
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -16, y: 18}
+        - {x: -16, y: -23}
+        - {x: 5, y: -23}
+        - {x: 16, y: -9}
+        - {x: 16, y: 14}
+        - {x: 11, y: 23}
+    - name: FredFlintstoneSprite_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 314
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_84
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 302
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 21.5}
+        - {x: -26.5, y: -21.5}
+        - {x: -2.5, y: -21.5}
+        - {x: 26.5, y: -4.5}
+        - {x: 26.5, y: 13.5}
+        - {x: 10.5, y: 21.5}
+    - name: FredFlintstoneSprite_85
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 300
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 21.5}
+        - {x: -26.5, y: 21.5}
+        - {x: -26.5, y: -21.5}
+        - {x: -2.5, y: -21.5}
+        - {x: 21.5, y: -7.5}
+        - {x: 26.5, y: -3.5}
+        - {x: 26.5, y: 12.5}
+    - name: FredFlintstoneSprite_86
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 298
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 21.5}
+        - {x: -26.5, y: 21.5}
+        - {x: -26.5, y: -21.5}
+        - {x: 6.5, y: -21.5}
+        - {x: 26.5, y: -8.5}
+        - {x: 26.5, y: 12.5}
+        - {x: 24.5, y: 17.5}
+    - name: FredFlintstoneSprite_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 254
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 24.5}
+        - {x: -10.5, y: 24.5}
+        - {x: -22.5, y: 15.5}
+        - {x: -22.5, y: -3.5}
+        - {x: -14.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 22.5, y: -20.5}
+        - {x: 22.5, y: 5.5}
+        - {x: 18.5, y: 20.5}
+    - name: FredFlintstoneSprite_88
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 248
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 22}
+        - {x: -24.5, y: 17}
+        - {x: -25.5, y: 15}
+        - {x: -25.5, y: -8}
+        - {x: 3.5, y: -22}
+        - {x: 25.5, y: -22}
+        - {x: 25.5, y: 22}
+    - name: FredFlintstoneSprite_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 248
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 15}
+        - {x: -25.5, y: -8}
+        - {x: 1.5, y: -22}
+        - {x: 25.5, y: -22}
+        - {x: 25.5, y: 12}
+        - {x: 24.5, y: 18}
+        - {x: 19.5, y: 22}
+        - {x: -7.5, y: 22}
+        - {x: -24.5, y: 17}
+    - name: FredFlintstoneSprite_90
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 246
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 22}
+        - {x: -7.5, y: 22}
+        - {x: -24.5, y: 17}
+        - {x: -25.5, y: 15}
+        - {x: -25.5, y: -8}
+        - {x: 1.5, y: -22}
+        - {x: 25.5, y: -22}
+        - {x: 25.5, y: 7}
+        - {x: 24.5, y: 18}
+    - name: FredFlintstoneSprite_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 205
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 19.5}
+        - {x: -2.5, y: 19.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -24.5, y: -18.5}
+        - {x: -23.5, y: -19.5}
+        - {x: 22.5, y: -19.5}
+        - {x: 24.5, y: -5.5}
+        - {x: 24.5, y: 17.5}
+    - name: FredFlintstoneSprite_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 204
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 19.5}
+        - {x: -1, y: 19.5}
+        - {x: -25, y: -7.5}
+        - {x: -25, y: -18.5}
+        - {x: -24, y: -19.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -4.5}
+        - {x: 25, y: 18.5}
+    - name: FredFlintstoneSprite_93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 203
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 19.5}
+        - {x: -24, y: -7.5}
+        - {x: -24, y: -18.5}
+        - {x: -23, y: -19.5}
+        - {x: 23, y: -19.5}
+        - {x: 24, y: -9.5}
+        - {x: 24, y: 19.5}
+    - name: FredFlintstoneSprite_94
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 197
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 17.5}
+        - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: -17.5}
+        - {x: 5.5, y: -17.5}
+        - {x: 18.5, y: 3.5}
+        - {x: 18.5, y: 17.5}
+    - name: FredFlintstoneSprite_95
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 138
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 2}
+        - {x: 18.5, y: 18}
+        - {x: -10.5, y: 18}
+        - {x: -26.5, y: 2}
+        - {x: -26.5, y: -18}
+        - {x: 26.5, y: -18}
+    - name: FredFlintstoneSprite_96
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 138
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 18}
+        - {x: -26.5, y: -1}
+        - {x: -26.5, y: -18}
+        - {x: 26.5, y: -18}
+        - {x: 26.5, y: 1}
+        - {x: 18.5, y: 18}
+    - name: FredFlintstoneSprite_97
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 138
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 18}
+        - {x: -26.5, y: 2}
+        - {x: -26.5, y: -18}
+        - {x: 26.5, y: -18}
+        - {x: 26.5, y: 0}
+        - {x: 11.5, y: 18}
+    - name: FredFlintstoneSprite_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 204
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: 48}
+        - {x: -102, y: 45}
+        - {x: -102, y: -45}
+        - {x: -99, y: -48}
+        - {x: 102, y: -48}
+        - {x: 102, y: 48}
+    - name: FredFlintstoneSprite_99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 83
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 14.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 2.5, y: 16.5}
+        - {x: -1.5, y: 21.5}
+        - {x: -24.5, y: 21.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -1.5, y: -21.5}
+        - {x: 24.5, y: -4.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 23.5, y: 13.5}
+    - name: FredFlintstoneSprite_100
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 83
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 14.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 2.5, y: 16.5}
+        - {x: -1.5, y: 21.5}
+        - {x: -24.5, y: 21.5}
+        - {x: -24.5, y: -21.5}
+        - {x: 6.5, y: -21.5}
+        - {x: 24.5, y: -7.5}
+        - {x: 24.5, y: 15.5}
+    - name: FredFlintstoneSprite_101
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 83
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 21.5}
+        - {x: -24.5, y: 21.5}
+        - {x: -24.5, y: -21.5}
+        - {x: 4.5, y: -21.5}
+        - {x: 20.5, y: -16.5}
+        - {x: 24.5, y: -8.5}
+        - {x: 24.5, y: 19.5}
+    - name: FredFlintstoneSprite_102
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 27
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -25, y: 11}
+        - {x: -25, y: -10}
+        - {x: 3, y: -21}
+        - {x: 25, y: -21}
+        - {x: 25, y: 21}
+    - name: FredFlintstoneSprite_103
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 27
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -25, y: 15}
+        - {x: -25, y: -15}
+        - {x: -5, y: -21}
+        - {x: 25, y: -21}
+        - {x: 25, y: 21}
+    - name: FredFlintstoneSprite_104
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 27
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -25, y: 9}
+        - {x: -25, y: -10}
+        - {x: -2, y: -21}
+        - {x: 25, y: -21}
+        - {x: 25, y: 21}
+    - name: FredFlintstoneSprite_105
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 5
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FredFlintstoneSprite_107
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 4
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
