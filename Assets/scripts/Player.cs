@@ -76,12 +76,12 @@ public class Player : MonoBehaviour {
 	}
 
 	// Handle player movements
-	void HandleMovement()
+	void HandleHMovements()
 	{
 		float h = Input.GetAxis ("Horizontal");
 		if (Input.GetKey (KeyCode.LeftArrow)) 
 		{
-			if (Mathf.Abs(maxSpeed * h) > 1) {
+			if (Mathf.Abs(h) * maxSpeed > 1) {
 				currentState = State.Run;
 			} else 
 			{
@@ -91,22 +91,33 @@ public class Player : MonoBehaviour {
 
 		} else if (Input.GetKey (KeyCode.RightArrow)) 
 		{
-			if (Mathf.Abs(maxSpeed * h) > 1) {
+			if (Mathf.Abs(maxSpeed * h) > 1) 
+			{
 				currentState = State.Run;
+
 			} else 
 			{
 				currentState = State.Walk;
+
 			}
 			rbody2d.velocity = new Vector2 (maxSpeed * h, rbody2d.velocity.y);
 	
-		} else if (Input.GetKeyDown (KeyCode.UpArrow)) 
-		{
-			currentState = State.Stand;
-			rbody2d.velocity = new Vector2 (rbody2d.velocity.y, maxSpeed );
 		} else 
 		{
 			currentState = State.Stand;
+
 		}
+	}
+
+	void HandleVMovements()
+	{
+		
+		if (Input.GetKeyDown (KeyCode.Space) && onGround == true) 
+		{
+			rbody2d.velocity = new Vector2 (rbody2d.velocity.x, maxSpeed);
+
+		} 
+	
 	}
 		
 	// Update is called once per frame
@@ -119,15 +130,19 @@ public class Player : MonoBehaviour {
 	void GroundCheck()
 	{
 		onGround = Physics2D.OverlapCircle (groundCheck.position, groundCheckRadius, whatIsGround);
+		Debug.Log (onGround);
 		//animator.SetBool ("Ground", onGround);
 		
 	}
+
 	// FixedUpdate is called once per frame at same interval of time
 	void FixedUpdate () 
 	{
 		HandleDirection ();
-		HandleMovement ();
+		HandleHMovements ();
+		HandleVMovements ();
 		HandleAnimation ();
+		GroundCheck ();
 
 	}
 }
