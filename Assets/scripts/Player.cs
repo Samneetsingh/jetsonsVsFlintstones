@@ -10,7 +10,8 @@ public class Player : MonoBehaviour {
 		Idle,
 		Walk,
 		Run,
-		Fall
+		Fall,
+		Fight
 	}
 
 	[SerializeField]
@@ -32,8 +33,23 @@ public class Player : MonoBehaviour {
 	}
 		
 
+	// Function handles characters animation
 	void HandleAnimation()
 	{
+		
+		if (Mathf.Abs (rbody2d.velocity.x) > 0 && Mathf.Abs (rbody2d.velocity.x) < 1 && onGround == true) 
+		{
+			currentState = State.Walk;
+		} else if (Mathf.Abs (rbody2d.velocity.x) > 1 && onGround == true && Input.GetKey(KeyCode.LeftShift)) 
+		{
+			currentState = State.Run;
+			
+		} else if (onGround == false) 
+		{
+			currentState = State.Fall;
+			
+		}
+
 		switch(currentState)
 		{
 		case State.Idle:
@@ -55,12 +71,15 @@ public class Player : MonoBehaviour {
 		case State.Fall:
 			animator.SetBool("Ground", false);
 			break;
+		case State.Fight:
+			animator.SetTrigger ("Danger");
+			break;
 		default:
 			break;
 		}
 	}
 
-	// Handles players direction
+	// Funtion handles players direction
 	void HandleDirection()
 	{
 		if (transform.localScale.x > 0 && Input.GetKeyDown(KeyCode.LeftArrow)) 
@@ -75,31 +94,17 @@ public class Player : MonoBehaviour {
 		
 	}
 
-	// Handle player movements
+	// Function handle characters horizontal movements
 	void HandleHMovements()
 	{
 		float h = Input.GetAxis ("Horizontal");
 		if (Input.GetKey (KeyCode.LeftArrow)) 
 		{
-			if (Mathf.Abs(h) * maxSpeed > 1) {
-				currentState = State.Run;
-			} else 
-			{
-				currentState = State.Walk;
-			}
+
 			rbody2d.velocity = new Vector2 (maxSpeed * h, rbody2d.velocity.y);
 
 		} else if (Input.GetKey (KeyCode.RightArrow)) 
 		{
-			if (Mathf.Abs(maxSpeed * h) > 1) 
-			{
-				currentState = State.Run;
-
-			} else 
-			{
-				currentState = State.Walk;
-
-			}
 			rbody2d.velocity = new Vector2 (maxSpeed * h, rbody2d.velocity.y);
 	
 		} else 
@@ -109,39 +114,43 @@ public class Player : MonoBehaviour {
 		}
 	}
 
+	// Function handles characters vertical movements
 	void HandleVMovements()
 	{
-		
-		if (Input.GetKeyDown (KeyCode.Space) && onGround == true) 
-		{
-			rbody2d.velocity = new Vector2 (rbody2d.velocity.x, maxSpeed);
+		if (Input.GetKeyDown (KeyCode.Space) && onGround == true) {
+			rbody2d.velocity = new Vector2 (rbody2d.velocity.x, maxSpeed * 2);
 
-		} 
+		} else if (Input.GetKeyDown (KeyCode.Z) && onGround == true) 
+		{
+			currentState = State.Fight;
+		
+		}
 	
 	}
-		
-	// Update is called once per frame
-	void Update()
-	{
-		
 
-	}
-
+	// Function checks characters ground level
 	void GroundCheck()
 	{
 		onGround = Physics2D.OverlapCircle (groundCheck.position, groundCheckRadius, whatIsGround);
 		Debug.Log (onGround);
-		//animator.SetBool ("Ground", onGround);
-		
 	}
+
+
+	// Update is called once per frame
+	void Update()
+	{
+		HandleDirection ();
+		HandleAnimation ();
+
+	}
+		
 
 	// FixedUpdate is called once per frame at same interval of time
 	void FixedUpdate () 
 	{
-		HandleDirection ();
+		
 		HandleHMovements ();
 		HandleVMovements ();
-		HandleAnimation ();
 		GroundCheck ();
 
 	}
