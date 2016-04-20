@@ -15,7 +15,8 @@ public class CharacterAnimationController : MonoBehaviour
 		Walk,
 		Run,
 		Fall,
-		Fight
+		Fight,
+		Die
 	}
 
 
@@ -56,6 +57,9 @@ public class CharacterAnimationController : MonoBehaviour
 		case State.Fight:
 			animator.SetTrigger ("Danger");
 			break;
+		case State.Die:
+			animator.SetBool("IsAlive", false);
+			break;
 		default:
 			break;
 		}
@@ -80,7 +84,10 @@ public class CharacterAnimationController : MonoBehaviour
 		{
 			CharacterStates(State.Fight);
 
-		} else 
+		} else if ( HealthManager.isAlive == false)
+		{
+			CharacterStates(State.Die);
+		} else
 		{
 			CharacterStates (State.Stand);
 		}

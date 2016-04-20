@@ -4,14 +4,34 @@ using System.Collections;
 public class BarrelController : MonoBehaviour {
 
 
-	void BlastBarrel()
+	private Animator barrelAnimator;
+	// Use this for initialization
+
+	void Start ()
 	{
-		Destroy (gameObject);
+		barrelAnimator = GetComponent<Animator> ();
+	}
+
+	void Update()
+	{
+		
+		
 	}
 
 
-	void OnCollisionEnter2D(Collision2D col)
+	IEnumerator OnCollisionEnter2D(Collision2D col)
 	{
-		BlastBarrel ();
+		Debug.Log(col.gameObject.tag);
+		if (col.gameObject.tag == "Club") {
+			barrelAnimator.SetTrigger ("Destroy");
+			yield return new WaitForSeconds (1);
+			Destroy (gameObject);
+
+		} else if (col.gameObject.tag == "Player") 
+		{
+			HealthManager.ReduceHealth (10);
+		}
+
+
 	}
 }
