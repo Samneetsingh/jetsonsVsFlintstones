@@ -8,36 +8,18 @@ public class GroundCollisionController : MonoBehaviour
 	void Start ()
 	{
 		boxCollider2d = GetComponent<BoxCollider2D> ();
-	
-	}
-	
-	void OnTriggerEnter2D(Collider2D col)
-	{
-		if (col.gameObject.tag == "Ground") {
-			boxCollider2d.isTrigger = true;
-		} else if (col.gameObject.tag == "Player") {
-			boxCollider2d.isTrigger = false;
-		} 
-	}
-		
-
-	void OnTriggerExit2D(Collider2D col)
-	{
-		boxCollider2d.isTrigger = true; 
 	}
 
 	void OnCollisionEnter2D(Collision2D col)
 	{
-		if (col.gameObject.tag == "Ground") {
+		if (col.gameObject.tag == "player" && col.gameObject.GetComponent<Rigidbody2D> ().velocity.y > 0) {
 			boxCollider2d.isTrigger = true;
-		} else if (col.gameObject.tag == "Player") {
-			boxCollider2d.isTrigger = false;
-		} 
+		}
 	}
 
-	void OnCollisionExit2D(Collision2D col)
+	void OnTriggerExit2d(Collider2D col)
 	{
-		boxCollider2d.isTrigger = true;
+		boxCollider2d.isTrigger = false;
 	}
 }
 

@@ -15,7 +15,7 @@ public class CharacterMovementController : MonoBehaviour {
 	}
 
 	[SerializeField]
-	private int maxSpeed = 3;
+	private int maxSpeed;
 	private Rigidbody2D rigidBody2D;
 	private GroundCheck groundCheck;
 
@@ -24,23 +24,23 @@ public class CharacterMovementController : MonoBehaviour {
 	void Start () 
 	{
 		rigidBody2D = GetComponent<Rigidbody2D> ();
-		groundCheck = GetComponent<GroundCheck> ();
+		groundCheck = GetComponentInChildren<GroundCheck> ();
 	}
 		
 
 	// Funtion handles players direction
 	void HandleDirection()
 	{
-		if (transform.localScale.x > 0 && Input.GetKeyDown(KeyCode.LeftArrow)) 
+		if (transform.localScale.x > 0 && Input.GetKeyDown(KeyCode.LeftArrow) && HealthManager.isAlive == true) 
 		{
 			transform.localScale = new Vector2 (-transform.localScale.x, transform.localScale.y);
 			
-		} else if (transform.localScale.x < 0 && Input.GetKeyDown(KeyCode.RightArrow)) 
+		} else if (transform.localScale.x < 0 && Input.GetKeyDown(KeyCode.RightArrow) && HealthManager.isAlive == true) 
 		{
 			transform.localScale = new Vector2 (-transform.localScale.x, transform.localScale.y);
 			
 		}
-		
+			
 	}
 
 	// Function handle characters horizontal movements
@@ -50,13 +50,16 @@ public class CharacterMovementController : MonoBehaviour {
 		if (Input.GetKey (KeyCode.LeftArrow)) 
 		{
 
-			rigidBody2D.velocity = new Vector2 (maxSpeed * h, rigidBody2D.velocity.y);
+			rigidBody2D.velocity = new Vector2 (this.maxSpeed * h, rigidBody2D.velocity.y);
 
 		} else if (Input.GetKey (KeyCode.RightArrow)) 
 		{
-			rigidBody2D.velocity = new Vector2 (maxSpeed * h, rigidBody2D.velocity.y);
+			rigidBody2D.velocity = new Vector2 (this.maxSpeed * h, rigidBody2D.velocity.y);
 	
-		} 
+		}
+
+
+
 	}
 
 	// Function handles characters vertical movements
@@ -69,6 +72,17 @@ public class CharacterMovementController : MonoBehaviour {
 	
 	}
 		
+	// Function handles characters maximum speed
+	void HandleMaxSpeed()
+	{
+		if (Input.GetKey (KeyCode.R)) {
+			this.maxSpeed = 3;
+		} else 
+		{
+			this.maxSpeed = 2;
+		}
+		
+	}
 
 	// Update is called once per frame
 	void Update()
@@ -76,6 +90,10 @@ public class CharacterMovementController : MonoBehaviour {
 		HandleDirection ();
 	}
 		
+	void HandleDeathMovement()
+	{
+		if (HealthManager.isAlive == false) rigidBody2D.constraints = RigidbodyConstraints2D.FreezePositionX;
+	}
 
 	// FixedUpdate is called once per frame at same interval of time
 	void FixedUpdate () 
@@ -83,6 +101,8 @@ public class CharacterMovementController : MonoBehaviour {
 		
 		HandleHMovements ();
 		HandleVMovements ();
+		HandleDeathMovement ();
+		HandleMaxSpeed ();
 
 	}
 }

@@ -4,7 +4,9 @@ using System.Collections;
 public class HealthManager : MonoBehaviour
 {
 
-	private static int playerHealth;
+	private const int MAX_HEALTH = 100;
+	private const int MIN_HEALTH = 0;
+	public static int playerHealth;
 	public static bool isAlive;
 
 	// Use this for initialization
@@ -27,11 +29,15 @@ public class HealthManager : MonoBehaviour
 		
 
 	// Update is called once per frame
-	void Update ()
+	void FixedUpdate ()
 	{
-		if (playerHealth < 0) 
+		if (playerHealth < MIN_HEALTH) 
 		{
 			isAlive = false;
+		}
+		else if(playerHealth > MAX_HEALTH) 
+		{
+			playerHealth = MAX_HEALTH;
 		}
 	}
 }
