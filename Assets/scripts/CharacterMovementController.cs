@@ -50,16 +50,14 @@ public class CharacterMovementController : MonoBehaviour {
 		if (Input.GetKey (KeyCode.LeftArrow)) 
 		{
 
-			rigidBody2D.velocity = new Vector2 (this.maxSpeed * h, rigidBody2D.velocity.y);
+			rigidBody2D.velocity = new Vector2 (this.maxSpeed * h , rigidBody2D.velocity.y);
 
 		} else if (Input.GetKey (KeyCode.RightArrow)) 
 		{
 			rigidBody2D.velocity = new Vector2 (this.maxSpeed * h, rigidBody2D.velocity.y);
 	
 		}
-
-
-
+			
 	}
 
 	// Function handles characters vertical movements
