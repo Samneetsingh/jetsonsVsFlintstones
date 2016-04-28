@@ -52,9 +52,11 @@
      <Compile Include="Assets\scripts\GroundCollisionController.cs" />
      <Compile Include="Assets\scripts\HealthBarScript.cs" />
      <Compile Include="Assets\scripts\HealthManager.cs" />
+     <Compile Include="Assets\scripts\MoveCameraScript.cs" />
      <Compile Include="Assets\scripts\SeaCollisionScript.cs" />
      <Compile Include="Assets\scripts\StartGameScript.cs" />
      <Compile Include="Assets\scripts\WeaponController.cs" />
+     <Compile Include="Assets\scripts\WelcomeSceneScript.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
