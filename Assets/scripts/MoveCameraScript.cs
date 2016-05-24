@@ -3,23 +3,40 @@ using System.Collections;
 
 public class MoveCameraScript : MonoBehaviour {
 
-	private Vector3 offset;
+	private float cameraSpeed;
 	// Use this for initialization
 	void Start () 
 	{
-		offset = new Vector3 (0.01f, 0f, 0f);
 	
+	}
+
+	void CheckCameraSpeed()
+	{
+		if (Input.GetKey (KeyCode.R)) {
+			cameraSpeed = 2;
+		} else 
+		{
+			cameraSpeed = 1;
+		}
 	}
 
 	void MoveCameraPosition()
 	{
-		transform.position = transform.position + offset;
+		if (Input.GetKey(KeyCode.RightArrow)) 
+		{
+			transform.position = transform.position + new Vector3 (0.02f * cameraSpeed, 0f, 0f);
+		}
+		else if (Input.GetKey(KeyCode.LeftArrow))
+		{
+			transform.position = transform.position + new Vector3 (-0.02f * cameraSpeed, 0f, 0f);
+		}
 
 	}
 	
 	// Update is called once per frame
 	void FixedUpdate () 
 	{
+		CheckCameraSpeed ();
 		MoveCameraPosition ();
 	
 	}
