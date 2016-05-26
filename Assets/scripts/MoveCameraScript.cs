@@ -9,7 +9,7 @@ public class MoveCameraScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
-		player = GameObject.FindGameObjectWithTag ("Player");
+		//player = GameObject.FindGameObjectWithTag ("Player");
 
 
 	}
@@ -28,11 +28,11 @@ public class MoveCameraScript : MonoBehaviour {
 	{
 		if (Input.GetKey(KeyCode.RightArrow)) 
 		{
-			transform.position = transform.position + new Vector3 (cameraVelocity, 0f, 0f);
+			//transform.position = transform.position + new Vector3 (cameraVelocity, 0f, 0f);
 		}
 		else if (Input.GetKey(KeyCode.LeftArrow))
 		{
-			transform.position = transform.position + new Vector3 (-cameraVelocity, 0f, 0f);
+			//transform.position = transform.position + new Vector3 (-cameraVelocity, 0f, 0f);
 		}
 
 	}
@@ -40,7 +40,7 @@ public class MoveCameraScript : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () 
 	{
-		Debug.Log (cameraVelocity);
+		//Debug.Log (cameraVelocity);
 		//CheckCameraSpeed ();
 		MoveCameraPosition ();
 	
