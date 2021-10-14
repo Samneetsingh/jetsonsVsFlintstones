@@ -40,7 +40,6 @@ public class HealthBarScript : MonoBehaviour
 			heart1.showMaskGraphic = false;
 			heart2.showMaskGraphic = false;
 		}
-		Debug.Log (HealthManager.playerHealth);
 	}
 }
 

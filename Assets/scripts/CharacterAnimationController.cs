@@ -48,7 +48,7 @@ public class CharacterAnimationController : MonoBehaviour
 			animator.SetBool("Ground", true);
 			break;
 		case State.Run:
-			animator.SetFloat ("horizontalSpeed", Mathf.Abs (4));
+			animator.SetFloat ("horizontalSpeed", Mathf.Abs (3));
 			animator.SetBool("Ground", true);
 			break;
 		case State.Fall:
@@ -82,7 +82,7 @@ public class CharacterAnimationController : MonoBehaviour
 	}
 
 	// Update is called once per frame
-	void Update ()
+	void LateUpdate ()
 	{
 		if (Mathf.Abs (rigidBody2D.velocity.x) > 0 && Mathf.Abs (rigidBody2D.velocity.x) <= 2 && groundCheck.onGround == true) 
 		{
@@ -104,4 +104,5 @@ public class CharacterAnimationController : MonoBehaviour
 		DeathAnimationHandler ();
 	}
 }
+
 

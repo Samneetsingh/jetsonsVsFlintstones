@@ -86,6 +86,10 @@ public class CharacterMovementController : MonoBehaviour {
 	void Update()
 	{
 		HandleDirection ();
+		HandleHMovements ();
+		HandleVMovements ();
+		HandleDeathMovement ();
+		HandleMaxSpeed ();
 	}
 		
 	void HandleDeathMovement()
@@ -93,14 +97,4 @@ public class CharacterMovementController : MonoBehaviour {
 		if (HealthManager.isAlive == false) rigidBody2D.constraints = RigidbodyConstraints2D.FreezePositionX;
 	}
 
-	// FixedUpdate is called once per frame at same interval of time
-	void FixedUpdate () 
-	{
-		
-		HandleHMovements ();
-		HandleVMovements ();
-		HandleDeathMovement ();
-		HandleMaxSpeed ();
-
-	}
 }

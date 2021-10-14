@@ -1,48 +1,24 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
 public class MoveCameraScript : MonoBehaviour {
 
-	//private CharacterMovementController controller;
-	private Vector2 velocity;
-	private GameObject player;
+	public Transform target;
+	public float relativeDistanceThreshold = 4.0f;
+	public float speed = 0.005f;
+
 	// Use this for initialization
 	void Start () 
-	{
-		//player = GameObject.FindGameObjectWithTag ("Player");
-
-
+	{	
 	}
 
-	/*void CheckCameraSpeed()
-	{
-		if (Input.GetKey (KeyCode.R)) {
-			cameraSpeed = 2;
-		} else 
-		{
-			cameraSpeed = 1;
-		}
-	}*/
-
-	void MoveCameraPosition()
-	{
-		if (Input.GetKey(KeyCode.RightArrow)) 
-		{
-			//transform.position = transform.position + new Vector3 (cameraVelocity, 0f, 0f);
-		}
-		else if (Input.GetKey(KeyCode.LeftArrow))
-		{
-			//transform.position = transform.position + new Vector3 (-cameraVelocity, 0f, 0f);
-		}
-
-	}
-	
 	// Update is called once per frame
-	void FixedUpdate () 
-	{
-		//Debug.Log (cameraVelocity);
-		//CheckCameraSpeed ();
-		MoveCameraPosition ();
-	
+	void LateUpdate () 
+	{	
+		var relativeHorizontalPosition = Mathf.Abs(this.target.localPosition.x - this.transform.localPosition.x);
+		if (relativeHorizontalPosition > this.relativeDistanceThreshold && (this.target.localPosition.x > 0 || this.transform.localPosition.x > 0)) {
+			transform.position = Vector3.Lerp(transform.position, new Vector3(this.target.position.x, transform.position.y, transform.position.z), speed);
+		}
 	}
 }
