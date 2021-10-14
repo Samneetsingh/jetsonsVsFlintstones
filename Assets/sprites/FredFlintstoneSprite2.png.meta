@@ -1,186 +1,525 @@
 fileFormatVersion: 2
 guid: 3a3e29ae484704d4893434b6ae9b02e4
-timeCreated: 1461700328
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: FredFlintstoneSprite2_0
-    21300002: FredFlintstoneSprite2_1
-    21300004: FredFlintstoneSprite2_2
-    21300006: FredFlintstoneSprite2_3
-    21300008: FredFlintstoneSprite2_4
-    21300010: FredFlintstoneSprite2_5
-    21300012: FredFlintstoneSprite2_6
-    21300014: FredFlintstoneSprite2_7
-    21300016: FredFlintstoneSprite2_8
-    21300018: FredFlintstoneSprite2_9
-    21300020: FredFlintstoneSprite2_10
-    21300022: FredFlintstoneSprite2_11
-    21300024: FredFlintstoneSprite2_12
-    21300026: FredFlintstoneSprite2_13
-    21300028: FredFlintstoneSprite2_14
-    21300030: FredFlintstoneSprite2_15
-    21300032: FredFlintstoneSprite2_16
-    21300034: FredFlintstoneSprite2_17
-    21300036: FredFlintstoneSprite2_18
-    21300038: FredFlintstoneSprite2_19
-    21300040: FredFlintstoneSprite2_20
-    21300042: FredFlintstoneSprite2_21
-    21300044: FredFlintstoneSprite2_22
-    21300046: FredFlintstoneSprite2_23
-    21300048: FredFlintstoneSprite2_24
-    21300050: FredFlintstoneSprite2_25
-    21300052: FredFlintstoneSprite2_26
-    21300054: FredFlintstoneSprite2_27
-    21300056: FredFlintstoneSprite2_28
-    21300058: FredFlintstoneSprite2_29
-    21300060: FredFlintstoneSprite2_30
-    21300062: FredFlintstoneSprite2_31
-    21300064: FredFlintstoneSprite2_32
-    21300066: FredFlintstoneSprite2_33
-    21300068: FredFlintstoneSprite2_34
-    21300070: FredFlintstoneSprite2_35
-    21300072: FredFlintstoneSprite2_36
-    21300074: FredFlintstoneSprite2_37
-    21300076: FredFlintstoneSprite2_38
-    21300078: FredFlintstoneSprite2_39
-    21300080: FredFlintstoneSprite2_40
-    21300082: FredFlintstoneSprite2_41
-    21300084: FredFlintstoneSprite2_42
-    21300086: FredFlintstoneSprite2_43
-    21300088: FredFlintstoneSprite2_44
-    21300090: FredFlintstoneSprite2_45
-    21300092: FredFlintstoneSprite2_46
-    21300094: FredFlintstoneSprite2_47
-    21300096: FredFlintstoneSprite2_48
-    21300098: FredFlintstoneSprite2_49
-    21300100: FredFlintstoneSprite2_50
-    21300102: FredFlintstoneSprite2_51
-    21300104: FredFlintstoneSprite2_52
-    21300106: FredFlintstoneSprite2_53
-    21300108: FredFlintstoneSprite2_54
-    21300110: FredFlintstoneSprite2_55
-    21300112: FredFlintstoneSprite2_56
-    21300114: FredFlintstoneSprite2_57
-    21300116: FredFlintstoneSprite2_58
-    21300118: FredFlintstoneSprite2_59
-    21300120: FredFlintstoneSprite2_60
-    21300122: FredFlintstoneSprite2_61
-    21300124: FredFlintstoneSprite2_62
-    21300126: FredFlintstoneSprite2_63
-    21300128: FredFlintstoneSprite2_64
-    21300130: FredFlintstoneSprite2_65
-    21300132: FredFlintstoneSprite2_66
-    21300134: FredFlintstoneSprite2_67
-    21300136: FredFlintstoneSprite2_68
-    21300138: FredFlintstoneSprite2_69
-    21300140: FredFlintstoneSprite2_70
-    21300142: FredFlintstoneSprite2_71
-    21300144: FredFlintstoneSprite2_72
-    21300146: FredFlintstoneSprite2_73
-    21300148: FredFlintstoneSprite2_74
-    21300150: FredFlintstoneSprite2_75
-    21300152: FredFlintstoneSprite2_76
-    21300154: FredFlintstoneSprite2_77
-    21300156: FredFlintstoneSprite2_78
-    21300158: FredFlintstoneSprite2_79
-    21300160: FredFlintstoneSprite2_80
-    21300162: FredFlintstoneSprite2_81
-    21300164: FredFlintstoneSprite2_82
-    21300166: FredFlintstoneSprite2_83
-    21300168: FredFlintstoneSprite2_84
-    21300170: FredFlintstoneSprite2_85
-    21300172: FredFlintstoneSprite2_86
-    21300174: FredFlintstoneSprite2_87
-    21300176: FredFlintstoneSprite2_88
-    21300178: FredFlintstoneSprite2_89
-    21300180: FredFlintstoneSprite2_90
-    21300182: FredFlintstoneSprite2_91
-    21300184: FredFlintstoneSprite2_92
-    21300186: FredFlintstoneSprite2_93
-    21300188: FredFlintstoneSprite2_94
-    21300190: FredFlintstoneSprite2_95
-    21300192: FredFlintstoneSprite2_96
-    21300194: FredFlintstoneSprite2_97
-    21300196: FredFlintstoneSprite2_98
-    21300198: FredFlintstoneSprite2_99
-    21300200: FredFlintstoneSprite2_100
-    21300202: FredFlintstoneSprite2_101
-    21300204: FredFlintstoneSprite2_102
-    21300206: FredFlintstoneSprite2_103
-    21300208: FredFlintstoneSprite2_104
-    21300210: FredFlintstoneSprite2_105
-    21300212: FredFlintstoneSprite2_106
-    21300214: FredFlintstoneSprite2_107
-    21300216: FredFlintstoneSprite2_108
-    21300218: FredFlintstoneSprite2_109
-    21300220: FredFlintstoneSprite2_110
-    21300222: FredFlintstoneSprite2_111
-    21300224: FredFlintstoneSprite2_112
-    21300226: FredFlintstoneSprite2_113
-    21300228: FredFlintstoneSprite2_114
-    21300230: FredFlintstoneSprite2_115
-    21300232: FredFlintstoneSprite2_116
-    21300234: FredFlintstoneSprite2_117
-    21300236: FredFlintstoneSprite2_118
-    21300238: FredFlintstoneSprite2_119
-    21300240: FredFlintstoneSprite2_120
-    21300242: FredFlintstoneSprite2_121
-    21300244: FredFlintstoneSprite2_122
-    21300246: FredFlintstoneSprite2_123
-    21300248: FredFlintstoneSprite2_124
-    21300250: FredFlintstoneSprite2_125
-    21300252: FredFlintstoneSprite2_126
-    21300254: FredFlintstoneSprite2_127
-    21300256: FredFlintstoneSprite2_128
-    21300258: FredFlintstoneSprite2_129
-    21300260: FredFlintstoneSprite2_130
-    21300262: FredFlintstoneSprite2_131
-    21300264: FredFlintstoneSprite2_132
-    21300266: FredFlintstoneSprite2_133
-    21300268: FredFlintstoneSprite2_134
-    21300270: FredFlintstoneSprite2_135
-    21300272: FredFlintstoneSprite2_136
-    21300274: FredFlintstoneSprite2_137
-    21300276: FredFlintstoneSprite2_138
-    21300278: FredFlintstoneSprite2_139
-    21300280: FredFlintstoneSprite2_140
-    21300282: FredFlintstoneSprite2_141
-    21300284: FredFlintstoneSprite2_142
-    21300286: FredFlintstoneSprite2_143
-    21300288: FredFlintstoneSprite2_144
-    21300290: FredFlintstoneSprite2_145
-    21300292: FredFlintstoneSprite2_146
-    21300294: FredFlintstoneSprite2_147
-    21300296: FredFlintstoneSprite2_148
-    21300298: FredFlintstoneSprite2_149
-    21300300: FredFlintstoneSprite2_150
-    21300302: FredFlintstoneSprite2_151
-    21300304: FredFlintstoneSprite2_152
-    21300306: FredFlintstoneSprite2_153
-    21300308: FredFlintstoneSprite2_154
-    21300310: FredFlintstoneSprite2_155
-    21300312: FredFlintstoneSprite2_156
-    21300314: FredFlintstoneSprite2_157
-    21300316: FredFlintstoneSprite2_158
-    21300318: FredFlintstoneSprite2_159
-    21300320: FredFlintstoneSprite2_160
-    21300322: FredFlintstoneSprite2_161
-    21300324: FredFlintstoneSprite2_162
-    21300326: FredFlintstoneSprite2_163
-    21300328: FredFlintstoneSprite2_164
-    21300330: FredFlintstoneSprite2_165
-    21300332: FredFlintstoneSprite2_166
-    21300334: FredFlintstoneSprite2_167
-    21300336: FredFlintstoneSprite2_168
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FredFlintstoneSprite2_0
+  - first:
+      213: 21300002
+    second: FredFlintstoneSprite2_1
+  - first:
+      213: 21300004
+    second: FredFlintstoneSprite2_2
+  - first:
+      213: 21300006
+    second: FredFlintstoneSprite2_3
+  - first:
+      213: 21300008
+    second: FredFlintstoneSprite2_4
+  - first:
+      213: 21300010
+    second: FredFlintstoneSprite2_5
+  - first:
+      213: 21300012
+    second: FredFlintstoneSprite2_6
+  - first:
+      213: 21300014
+    second: FredFlintstoneSprite2_7
+  - first:
+      213: 21300016
+    second: FredFlintstoneSprite2_8
+  - first:
+      213: 21300018
+    second: FredFlintstoneSprite2_9
+  - first:
+      213: 21300020
+    second: FredFlintstoneSprite2_10
+  - first:
+      213: 21300022
+    second: FredFlintstoneSprite2_11
+  - first:
+      213: 21300024
+    second: FredFlintstoneSprite2_12
+  - first:
+      213: 21300026
+    second: FredFlintstoneSprite2_13
+  - first:
+      213: 21300028
+    second: FredFlintstoneSprite2_14
+  - first:
+      213: 21300030
+    second: FredFlintstoneSprite2_15
+  - first:
+      213: 21300032
+    second: FredFlintstoneSprite2_16
+  - first:
+      213: 21300034
+    second: FredFlintstoneSprite2_17
+  - first:
+      213: 21300036
+    second: FredFlintstoneSprite2_18
+  - first:
+      213: 21300038
+    second: FredFlintstoneSprite2_19
+  - first:
+      213: 21300040
+    second: FredFlintstoneSprite2_20
+  - first:
+      213: 21300042
+    second: FredFlintstoneSprite2_21
+  - first:
+      213: 21300044
+    second: FredFlintstoneSprite2_22
+  - first:
+      213: 21300046
+    second: FredFlintstoneSprite2_23
+  - first:
+      213: 21300048
+    second: FredFlintstoneSprite2_24
+  - first:
+      213: 21300050
+    second: FredFlintstoneSprite2_25
+  - first:
+      213: 21300052
+    second: FredFlintstoneSprite2_26
+  - first:
+      213: 21300054
+    second: FredFlintstoneSprite2_27
+  - first:
+      213: 21300056
+    second: FredFlintstoneSprite2_28
+  - first:
+      213: 21300058
+    second: FredFlintstoneSprite2_29
+  - first:
+      213: 21300060
+    second: FredFlintstoneSprite2_30
+  - first:
+      213: 21300062
+    second: FredFlintstoneSprite2_31
+  - first:
+      213: 21300064
+    second: FredFlintstoneSprite2_32
+  - first:
+      213: 21300066
+    second: FredFlintstoneSprite2_33
+  - first:
+      213: 21300068
+    second: FredFlintstoneSprite2_34
+  - first:
+      213: 21300070
+    second: FredFlintstoneSprite2_35
+  - first:
+      213: 21300072
+    second: FredFlintstoneSprite2_36
+  - first:
+      213: 21300074
+    second: FredFlintstoneSprite2_37
+  - first:
+      213: 21300076
+    second: FredFlintstoneSprite2_38
+  - first:
+      213: 21300078
+    second: FredFlintstoneSprite2_39
+  - first:
+      213: 21300080
+    second: FredFlintstoneSprite2_40
+  - first:
+      213: 21300082
+    second: FredFlintstoneSprite2_41
+  - first:
+      213: 21300084
+    second: FredFlintstoneSprite2_42
+  - first:
+      213: 21300086
+    second: FredFlintstoneSprite2_43
+  - first:
+      213: 21300088
+    second: FredFlintstoneSprite2_44
+  - first:
+      213: 21300090
+    second: FredFlintstoneSprite2_45
+  - first:
+      213: 21300092
+    second: FredFlintstoneSprite2_46
+  - first:
+      213: 21300094
+    second: FredFlintstoneSprite2_47
+  - first:
+      213: 21300096
+    second: FredFlintstoneSprite2_48
+  - first:
+      213: 21300098
+    second: FredFlintstoneSprite2_49
+  - first:
+      213: 21300100
+    second: FredFlintstoneSprite2_50
+  - first:
+      213: 21300102
+    second: FredFlintstoneSprite2_51
+  - first:
+      213: 21300104
+    second: FredFlintstoneSprite2_52
+  - first:
+      213: 21300106
+    second: FredFlintstoneSprite2_53
+  - first:
+      213: 21300108
+    second: FredFlintstoneSprite2_54
+  - first:
+      213: 21300110
+    second: FredFlintstoneSprite2_55
+  - first:
+      213: 21300112
+    second: FredFlintstoneSprite2_56
+  - first:
+      213: 21300114
+    second: FredFlintstoneSprite2_57
+  - first:
+      213: 21300116
+    second: FredFlintstoneSprite2_58
+  - first:
+      213: 21300118
+    second: FredFlintstoneSprite2_59
+  - first:
+      213: 21300120
+    second: FredFlintstoneSprite2_60
+  - first:
+      213: 21300122
+    second: FredFlintstoneSprite2_61
+  - first:
+      213: 21300124
+    second: FredFlintstoneSprite2_62
+  - first:
+      213: 21300126
+    second: FredFlintstoneSprite2_63
+  - first:
+      213: 21300128
+    second: FredFlintstoneSprite2_64
+  - first:
+      213: 21300130
+    second: FredFlintstoneSprite2_65
+  - first:
+      213: 21300132
+    second: FredFlintstoneSprite2_66
+  - first:
+      213: 21300134
+    second: FredFlintstoneSprite2_67
+  - first:
+      213: 21300136
+    second: FredFlintstoneSprite2_68
+  - first:
+      213: 21300138
+    second: FredFlintstoneSprite2_69
+  - first:
+      213: 21300140
+    second: FredFlintstoneSprite2_70
+  - first:
+      213: 21300142
+    second: FredFlintstoneSprite2_71
+  - first:
+      213: 21300144
+    second: FredFlintstoneSprite2_72
+  - first:
+      213: 21300146
+    second: FredFlintstoneSprite2_73
+  - first:
+      213: 21300148
+    second: FredFlintstoneSprite2_74
+  - first:
+      213: 21300150
+    second: FredFlintstoneSprite2_75
+  - first:
+      213: 21300152
+    second: FredFlintstoneSprite2_76
+  - first:
+      213: 21300154
+    second: FredFlintstoneSprite2_77
+  - first:
+      213: 21300156
+    second: FredFlintstoneSprite2_78
+  - first:
+      213: 21300158
+    second: FredFlintstoneSprite2_79
+  - first:
+      213: 21300160
+    second: FredFlintstoneSprite2_80
+  - first:
+      213: 21300162
+    second: FredFlintstoneSprite2_81
+  - first:
+      213: 21300164
+    second: FredFlintstoneSprite2_82
+  - first:
+      213: 21300166
+    second: FredFlintstoneSprite2_83
+  - first:
+      213: 21300168
+    second: FredFlintstoneSprite2_84
+  - first:
+      213: 21300170
+    second: FredFlintstoneSprite2_85
+  - first:
+      213: 21300172
+    second: FredFlintstoneSprite2_86
+  - first:
+      213: 21300174
+    second: FredFlintstoneSprite2_87
+  - first:
+      213: 21300176
+    second: FredFlintstoneSprite2_88
+  - first:
+      213: 21300178
+    second: FredFlintstoneSprite2_89
+  - first:
+      213: 21300180
+    second: FredFlintstoneSprite2_90
+  - first:
+      213: 21300182
+    second: FredFlintstoneSprite2_91
+  - first:
+      213: 21300184
+    second: FredFlintstoneSprite2_92
+  - first:
+      213: 21300186
+    second: FredFlintstoneSprite2_93
+  - first:
+      213: 21300188
+    second: FredFlintstoneSprite2_94
+  - first:
+      213: 21300190
+    second: FredFlintstoneSprite2_95
+  - first:
+      213: 21300192
+    second: FredFlintstoneSprite2_96
+  - first:
+      213: 21300194
+    second: FredFlintstoneSprite2_97
+  - first:
+      213: 21300196
+    second: FredFlintstoneSprite2_98
+  - first:
+      213: 21300198
+    second: FredFlintstoneSprite2_99
+  - first:
+      213: 21300200
+    second: FredFlintstoneSprite2_100
+  - first:
+      213: 21300202
+    second: FredFlintstoneSprite2_101
+  - first:
+      213: 21300204
+    second: FredFlintstoneSprite2_102
+  - first:
+      213: 21300206
+    second: FredFlintstoneSprite2_103
+  - first:
+      213: 21300208
+    second: FredFlintstoneSprite2_104
+  - first:
+      213: 21300210
+    second: FredFlintstoneSprite2_105
+  - first:
+      213: 21300212
+    second: FredFlintstoneSprite2_106
+  - first:
+      213: 21300214
+    second: FredFlintstoneSprite2_107
+  - first:
+      213: 21300216
+    second: FredFlintstoneSprite2_108
+  - first:
+      213: 21300218
+    second: FredFlintstoneSprite2_109
+  - first:
+      213: 21300220
+    second: FredFlintstoneSprite2_110
+  - first:
+      213: 21300222
+    second: FredFlintstoneSprite2_111
+  - first:
+      213: 21300224
+    second: FredFlintstoneSprite2_112
+  - first:
+      213: 21300226
+    second: FredFlintstoneSprite2_113
+  - first:
+      213: 21300228
+    second: FredFlintstoneSprite2_114
+  - first:
+      213: 21300230
+    second: FredFlintstoneSprite2_115
+  - first:
+      213: 21300232
+    second: FredFlintstoneSprite2_116
+  - first:
+      213: 21300234
+    second: FredFlintstoneSprite2_117
+  - first:
+      213: 21300236
+    second: FredFlintstoneSprite2_118
+  - first:
+      213: 21300238
+    second: FredFlintstoneSprite2_119
+  - first:
+      213: 21300240
+    second: FredFlintstoneSprite2_120
+  - first:
+      213: 21300242
+    second: FredFlintstoneSprite2_121
+  - first:
+      213: 21300244
+    second: FredFlintstoneSprite2_122
+  - first:
+      213: 21300246
+    second: FredFlintstoneSprite2_123
+  - first:
+      213: 21300248
+    second: FredFlintstoneSprite2_124
+  - first:
+      213: 21300250
+    second: FredFlintstoneSprite2_125
+  - first:
+      213: 21300252
+    second: FredFlintstoneSprite2_126
+  - first:
+      213: 21300254
+    second: FredFlintstoneSprite2_127
+  - first:
+      213: 21300256
+    second: FredFlintstoneSprite2_128
+  - first:
+      213: 21300258
+    second: FredFlintstoneSprite2_129
+  - first:
+      213: 21300260
+    second: FredFlintstoneSprite2_130
+  - first:
+      213: 21300262
+    second: FredFlintstoneSprite2_131
+  - first:
+      213: 21300264
+    second: FredFlintstoneSprite2_132
+  - first:
+      213: 21300266
+    second: FredFlintstoneSprite2_133
+  - first:
+      213: 21300268
+    second: FredFlintstoneSprite2_134
+  - first:
+      213: 21300270
+    second: FredFlintstoneSprite2_135
+  - first:
+      213: 21300272
+    second: FredFlintstoneSprite2_136
+  - first:
+      213: 21300274
+    second: FredFlintstoneSprite2_137
+  - first:
+      213: 21300276
+    second: FredFlintstoneSprite2_138
+  - first:
+      213: 21300278
+    second: FredFlintstoneSprite2_139
+  - first:
+      213: 21300280
+    second: FredFlintstoneSprite2_140
+  - first:
+      213: 21300282
+    second: FredFlintstoneSprite2_141
+  - first:
+      213: 21300284
+    second: FredFlintstoneSprite2_142
+  - first:
+      213: 21300286
+    second: FredFlintstoneSprite2_143
+  - first:
+      213: 21300288
+    second: FredFlintstoneSprite2_144
+  - first:
+      213: 21300290
+    second: FredFlintstoneSprite2_145
+  - first:
+      213: 21300292
+    second: FredFlintstoneSprite2_146
+  - first:
+      213: 21300294
+    second: FredFlintstoneSprite2_147
+  - first:
+      213: 21300296
+    second: FredFlintstoneSprite2_148
+  - first:
+      213: 21300298
+    second: FredFlintstoneSprite2_149
+  - first:
+      213: 21300300
+    second: FredFlintstoneSprite2_150
+  - first:
+      213: 21300302
+    second: FredFlintstoneSprite2_151
+  - first:
+      213: 21300304
+    second: FredFlintstoneSprite2_152
+  - first:
+      213: 21300306
+    second: FredFlintstoneSprite2_153
+  - first:
+      213: 21300308
+    second: FredFlintstoneSprite2_154
+  - first:
+      213: 21300310
+    second: FredFlintstoneSprite2_155
+  - first:
+      213: 21300312
+    second: FredFlintstoneSprite2_156
+  - first:
+      213: 21300314
+    second: FredFlintstoneSprite2_157
+  - first:
+      213: 21300316
+    second: FredFlintstoneSprite2_158
+  - first:
+      213: 21300318
+    second: FredFlintstoneSprite2_159
+  - first:
+      213: 21300320
+    second: FredFlintstoneSprite2_160
+  - first:
+      213: 21300322
+    second: FredFlintstoneSprite2_161
+  - first:
+      213: 21300324
+    second: FredFlintstoneSprite2_162
+  - first:
+      213: 21300326
+    second: FredFlintstoneSprite2_163
+  - first:
+      213: 21300328
+    second: FredFlintstoneSprite2_164
+  - first:
+      213: 21300330
+    second: FredFlintstoneSprite2_165
+  - first:
+      213: 21300332
+    second: FredFlintstoneSprite2_166
+  - first:
+      213: 21300334
+    second: FredFlintstoneSprite2_167
+  - first:
+      213: 21300336
+    second: FredFlintstoneSprite2_168
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -189,37 +528,65 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: FredFlintstoneSprite2_0
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_0
       rect:
         serializedVersion: 2
         x: 16
@@ -230,7 +597,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_1
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_1
       rect:
         serializedVersion: 2
         x: 14
@@ -241,7 +618,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_2
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_2
       rect:
         serializedVersion: 2
         x: 65
@@ -252,7 +639,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_3
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_3
       rect:
         serializedVersion: 2
         x: 109
@@ -263,7 +660,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_4
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_4
       rect:
         serializedVersion: 2
         x: 158
@@ -273,13 +680,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12.5, y: 19}
-        - {x: -16.5, y: 17}
-        - {x: -16.5, y: -19}
-        - {x: 16.5, y: -19}
-        - {x: 16.5, y: 19}
-    - name: FredFlintstoneSprite2_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_5
       rect:
         serializedVersion: 2
         x: 213
@@ -290,7 +702,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_6
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_6
       rect:
         serializedVersion: 2
         x: 260
@@ -301,7 +723,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_7
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_7
       rect:
         serializedVersion: 2
         x: 426
@@ -312,7 +744,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_8
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_8
       rect:
         serializedVersion: 2
         x: 463
@@ -323,7 +765,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_9
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_9
       rect:
         serializedVersion: 2
         x: 500
@@ -334,7 +786,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_10
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_10
       rect:
         serializedVersion: 2
         x: 575
@@ -345,7 +807,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_11
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_11
       rect:
         serializedVersion: 2
         x: 613
@@ -356,7 +828,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_12
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_12
       rect:
         serializedVersion: 2
         x: 645
@@ -367,7 +849,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_13
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_13
       rect:
         serializedVersion: 2
         x: 462
@@ -378,7 +870,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_14
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_14
       rect:
         serializedVersion: 2
         x: 491
@@ -389,7 +891,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_15
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_15
       rect:
         serializedVersion: 2
         x: 500
@@ -400,7 +912,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_16
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_16
       rect:
         serializedVersion: 2
         x: 560
@@ -411,7 +933,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_17
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_17
       rect:
         serializedVersion: 2
         x: 578
@@ -422,7 +954,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_18
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_18
       rect:
         serializedVersion: 2
         x: 625
@@ -433,7 +975,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_19
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_19
       rect:
         serializedVersion: 2
         x: 690
@@ -444,7 +996,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_20
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_20
       rect:
         serializedVersion: 2
         x: 697
@@ -455,7 +1017,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_21
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_21
       rect:
         serializedVersion: 2
         x: 732
@@ -466,7 +1038,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_22
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_22
       rect:
         serializedVersion: 2
         x: 462
@@ -477,7 +1059,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_23
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_23
       rect:
         serializedVersion: 2
         x: 515
@@ -488,7 +1080,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_24
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_24
       rect:
         serializedVersion: 2
         x: 537
@@ -499,7 +1101,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_25
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_25
       rect:
         serializedVersion: 2
         x: 462
@@ -510,7 +1122,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_26
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_26
       rect:
         serializedVersion: 2
         x: 498
@@ -521,7 +1143,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_27
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_27
       rect:
         serializedVersion: 2
         x: 544
@@ -532,7 +1164,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_28
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_28
       rect:
         serializedVersion: 2
         x: 557
@@ -543,7 +1185,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_29
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_29
       rect:
         serializedVersion: 2
         x: 602
@@ -554,7 +1206,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_30
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_30
       rect:
         serializedVersion: 2
         x: 621
@@ -565,7 +1227,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_31
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_31
       rect:
         serializedVersion: 2
         x: 13
@@ -575,17 +1247,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 19}
-        - {x: -16, y: 15}
-        - {x: -17, y: 8}
-        - {x: -17, y: -12}
-        - {x: -11, y: -19}
-        - {x: 13, y: -19}
-        - {x: 17, y: -12}
-        - {x: 17, y: 9}
-        - {x: 11, y: 19}
-    - name: FredFlintstoneSprite2_32
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_32
       rect:
         serializedVersion: 2
         x: 66
@@ -595,18 +1268,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 10, y: 20}
-        - {x: -11, y: 20}
-        - {x: -15, y: 15}
-        - {x: -16, y: 13}
-        - {x: -16, y: -15}
-        - {x: -13, y: -20}
-        - {x: 10, y: -20}
-        - {x: 14, y: -17}
-        - {x: 16, y: -13}
-        - {x: 16, y: 8}
-    - name: FredFlintstoneSprite2_33
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_33
       rect:
         serializedVersion: 2
         x: 112
@@ -617,7 +1290,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_34
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_34
       rect:
         serializedVersion: 2
         x: 156
@@ -627,13 +1310,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16.5, y: 19.5}
-        - {x: -16.5, y: -19.5}
-        - {x: 16.5, y: -19.5}
-        - {x: 16.5, y: 9.5}
-        - {x: 5.5, y: 19.5}
-    - name: FredFlintstoneSprite2_35
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_35
       rect:
         serializedVersion: 2
         x: 210
@@ -644,7 +1332,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_36
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_36
       rect:
         serializedVersion: 2
         x: 256
@@ -655,7 +1353,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_37
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_37
       rect:
         serializedVersion: 2
         x: 462
@@ -666,7 +1374,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_38
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_38
       rect:
         serializedVersion: 2
         x: 478
@@ -677,7 +1395,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_39
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_39
       rect:
         serializedVersion: 2
         x: 516
@@ -688,7 +1416,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_40
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_40
       rect:
         serializedVersion: 2
         x: 674
@@ -699,7 +1437,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_41
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_41
       rect:
         serializedVersion: 2
         x: 18
@@ -710,7 +1458,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_42
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_42
       rect:
         serializedVersion: 2
         x: 71
@@ -721,7 +1479,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_43
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_43
       rect:
         serializedVersion: 2
         x: 120
@@ -732,7 +1500,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_44
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_44
       rect:
         serializedVersion: 2
         x: 20
@@ -742,13 +1520,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.5, y: 19}
-        - {x: -17.5, y: -9}
-        - {x: -13.5, y: -19}
-        - {x: 17.5, y: -19}
-        - {x: 17.5, y: 19}
-    - name: FredFlintstoneSprite2_45
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_45
       rect:
         serializedVersion: 2
         x: 75
@@ -758,15 +1541,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9.5, y: 26}
-        - {x: -17.5, y: 20}
-        - {x: -17.5, y: -15}
-        - {x: -11.5, y: -26}
-        - {x: 17.5, y: -26}
-        - {x: 17.5, y: 19}
-        - {x: 8.5, y: 26}
-    - name: FredFlintstoneSprite2_46
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_46
       rect:
         serializedVersion: 2
         x: 19
@@ -776,17 +1562,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 20.5}
-        - {x: -17, y: 12.5}
-        - {x: -17, y: -3.5}
-        - {x: -9, y: -20.5}
-        - {x: 7, y: -20.5}
-        - {x: 12, y: -18.5}
-        - {x: 17, y: -9.5}
-        - {x: 17, y: 15.5}
-        - {x: 13, y: 20.5}
-    - name: FredFlintstoneSprite2_47
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_47
       rect:
         serializedVersion: 2
         x: 74
@@ -796,28 +1583,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 20}
-        - {x: -18.5, y: -2}
-        - {x: -11.5, y: -24}
-        - {x: 18.5, y: -24}
-        - {x: 18.5, y: 14}
-        - {x: 15.5, y: 20}
-      - - {x: -15.5, y: 18}
-        - {x: -14.5, y: 15}
-        - {x: -9.5, y: 15}
-        - {x: -7.5, y: 16}
-        - {x: -7.5, y: 18}
-        - {x: -9.5, y: 22}
-        - {x: -13.5, y: 22}
-        - {x: -15.5, y: 21}
-      - - {x: -10.5, y: 24}
-        - {x: -10.5, y: 22}
-        - {x: -7.5, y: 19}
-        - {x: -4.5, y: 20}
-        - {x: -4.5, y: 23}
-        - {x: -5.5, y: 24}
-    - name: FredFlintstoneSprite2_48
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_48
       rect:
         serializedVersion: 2
         x: 134
@@ -827,13 +1604,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.5, y: 22}
-        - {x: -17.5, y: -22}
-        - {x: 17.5, y: -22}
-        - {x: 17.5, y: 19}
-        - {x: 14.5, y: 22}
-    - name: FredFlintstoneSprite2_49
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_49
       rect:
         serializedVersion: 2
         x: 142
@@ -844,7 +1626,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_50
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_50
       rect:
         serializedVersion: 2
         x: 192
@@ -854,28 +1646,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 20}
-        - {x: -18.5, y: -2}
-        - {x: -11.5, y: -24}
-        - {x: 18.5, y: -24}
-        - {x: 18.5, y: 14}
-        - {x: 15.5, y: 20}
-      - - {x: -15.5, y: 18}
-        - {x: -14.5, y: 15}
-        - {x: -9.5, y: 15}
-        - {x: -7.5, y: 16}
-        - {x: -7.5, y: 18}
-        - {x: -9.5, y: 22}
-        - {x: -13.5, y: 22}
-        - {x: -15.5, y: 21}
-      - - {x: -10.5, y: 24}
-        - {x: -10.5, y: 22}
-        - {x: -7.5, y: 19}
-        - {x: -4.5, y: 20}
-        - {x: -4.5, y: 23}
-        - {x: -5.5, y: 24}
-    - name: FredFlintstoneSprite2_51
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_51
       rect:
         serializedVersion: 2
         x: 308
@@ -885,15 +1667,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9.5, y: 26}
-        - {x: -17.5, y: 20}
-        - {x: -17.5, y: -15}
-        - {x: -11.5, y: -26}
-        - {x: 17.5, y: -26}
-        - {x: 17.5, y: 19}
-        - {x: 8.5, y: 26}
-    - name: FredFlintstoneSprite2_52
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_52
       rect:
         serializedVersion: 2
         x: 252
@@ -903,17 +1688,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 20.5}
-        - {x: -17, y: 12.5}
-        - {x: -17, y: -3.5}
-        - {x: -9, y: -20.5}
-        - {x: 7, y: -20.5}
-        - {x: 12, y: -18.5}
-        - {x: 17, y: -9.5}
-        - {x: 17, y: 15.5}
-        - {x: 13, y: 20.5}
-    - name: FredFlintstoneSprite2_53
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_53
       rect:
         serializedVersion: 2
         x: 17
@@ -923,13 +1709,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22, y: 19.5}
-        - {x: -22, y: -19.5}
-        - {x: 22, y: -19.5}
-        - {x: 22, y: 6.5}
-        - {x: 8, y: 19.5}
-    - name: FredFlintstoneSprite2_54
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_54
       rect:
         serializedVersion: 2
         x: 73
@@ -939,16 +1730,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10.5, y: 19.5}
-        - {x: -21.5, y: 14.5}
-        - {x: -22.5, y: 3.5}
-        - {x: -22.5, y: -18.5}
-        - {x: -21.5, y: -19.5}
-        - {x: 22.5, y: -19.5}
-        - {x: 22.5, y: 4.5}
-        - {x: 11.5, y: 19.5}
-    - name: FredFlintstoneSprite2_55
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_55
       rect:
         serializedVersion: 2
         x: 128
@@ -958,16 +1751,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23, y: 9.5}
-        - {x: -23, y: -19.5}
-        - {x: 23, y: -19.5}
-        - {x: 23, y: -6.5}
-        - {x: 21, y: 2.5}
-        - {x: 10, y: 19.5}
-        - {x: -12, y: 19.5}
-        - {x: -22, y: 15.5}
-    - name: FredFlintstoneSprite2_56
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_56
       rect:
         serializedVersion: 2
         x: 186
@@ -977,14 +1772,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.5, y: 19.5}
-        - {x: -23.5, y: 14.5}
-        - {x: -23.5, y: -19.5}
-        - {x: 23.5, y: -19.5}
-        - {x: 23.5, y: 3.5}
-        - {x: 14.5, y: 19.5}
-    - name: FredFlintstoneSprite2_57
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_57
       rect:
         serializedVersion: 2
         x: 247
@@ -994,14 +1793,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.5, y: 19.5}
-        - {x: -23.5, y: 17.5}
-        - {x: -23.5, y: -19.5}
-        - {x: 23.5, y: -19.5}
-        - {x: 23.5, y: -10.5}
-        - {x: 13.5, y: 19.5}
-    - name: FredFlintstoneSprite2_58
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_58
       rect:
         serializedVersion: 2
         x: 307
@@ -1011,16 +1814,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 19.5}
-        - {x: -23, y: 14.5}
-        - {x: -24, y: 2.5}
-        - {x: -24, y: -18.5}
-        - {x: -23, y: -19.5}
-        - {x: 24, y: -19.5}
-        - {x: 24, y: 3.5}
-        - {x: 15, y: 19.5}
-    - name: FredFlintstoneSprite2_59
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_59
       rect:
         serializedVersion: 2
         x: 370
@@ -1030,14 +1835,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 19.5}
-        - {x: -24.5, y: 11.5}
-        - {x: -24.5, y: -19.5}
-        - {x: 24.5, y: -19.5}
-        - {x: 24.5, y: 3.5}
-        - {x: 15.5, y: 19.5}
-    - name: FredFlintstoneSprite2_60
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_60
       rect:
         serializedVersion: 2
         x: 431
@@ -1048,7 +1857,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_61
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_61
       rect:
         serializedVersion: 2
         x: 444
@@ -1059,7 +1878,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_62
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_62
       rect:
         serializedVersion: 2
         x: 487
@@ -1070,7 +1899,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_63
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_63
       rect:
         serializedVersion: 2
         x: 491
@@ -1081,7 +1920,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_64
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_64
       rect:
         serializedVersion: 2
         x: 496
@@ -1092,7 +1941,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_65
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_65
       rect:
         serializedVersion: 2
         x: 501
@@ -1103,7 +1962,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_66
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_66
       rect:
         serializedVersion: 2
         x: 552
@@ -1114,7 +1983,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_67
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_67
       rect:
         serializedVersion: 2
         x: 16
@@ -1124,13 +2003,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22, y: 17}
-        - {x: -22, y: -17}
-        - {x: 22, y: -17}
-        - {x: 22, y: 6}
-        - {x: 13, y: 17}
-    - name: FredFlintstoneSprite2_68
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_68
       rect:
         serializedVersion: 2
         x: 72
@@ -1140,13 +2024,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: 17}
-        - {x: -22.5, y: -17}
-        - {x: 22.5, y: -17}
-        - {x: 22.5, y: 6}
-        - {x: 8.5, y: 17}
-    - name: FredFlintstoneSprite2_69
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_69
       rect:
         serializedVersion: 2
         x: 127
@@ -1156,17 +2045,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 17}
-        - {x: -19, y: 16}
-        - {x: -18, y: 9}
-        - {x: -23, y: 0}
-        - {x: -23, y: -16}
-        - {x: -22, y: -17}
-        - {x: 23, y: -17}
-        - {x: 23, y: 2}
-        - {x: 4, y: 17}
-    - name: FredFlintstoneSprite2_70
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_70
       rect:
         serializedVersion: 2
         x: 185
@@ -1176,13 +2066,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23.5, y: 17}
-        - {x: -23.5, y: -17}
-        - {x: 23.5, y: -17}
-        - {x: 23.5, y: 1}
-        - {x: 8.5, y: 17}
-    - name: FredFlintstoneSprite2_71
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_71
       rect:
         serializedVersion: 2
         x: 246
@@ -1192,13 +2087,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23.5, y: 17}
-        - {x: -23.5, y: -17}
-        - {x: 23.5, y: -17}
-        - {x: 23.5, y: 3}
-        - {x: 6.5, y: 17}
-    - name: FredFlintstoneSprite2_72
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_72
       rect:
         serializedVersion: 2
         x: 306
@@ -1208,13 +2108,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -24, y: 17}
-        - {x: -24, y: -17}
-        - {x: 24, y: -17}
-        - {x: 24, y: 7}
-        - {x: 14, y: 17}
-    - name: FredFlintstoneSprite2_73
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_73
       rect:
         serializedVersion: 2
         x: 369
@@ -1224,14 +2129,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -21.5, y: 17}
-        - {x: -24.5, y: 13}
-        - {x: -24.5, y: -17}
-        - {x: 24.5, y: -17}
-        - {x: 24.5, y: -3}
-        - {x: 13.5, y: 17}
-    - name: FredFlintstoneSprite2_74
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_74
       rect:
         serializedVersion: 2
         x: 430
@@ -1242,7 +2151,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_75
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_75
       rect:
         serializedVersion: 2
         x: 443
@@ -1253,7 +2172,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_76
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_76
       rect:
         serializedVersion: 2
         x: 486
@@ -1264,7 +2193,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_77
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_77
       rect:
         serializedVersion: 2
         x: 490
@@ -1275,7 +2214,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_78
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_78
       rect:
         serializedVersion: 2
         x: 495
@@ -1286,7 +2235,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_79
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_79
       rect:
         serializedVersion: 2
         x: 500
@@ -1297,7 +2256,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_80
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_80
       rect:
         serializedVersion: 2
         x: 551
@@ -1308,7 +2277,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_81
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_81
       rect:
         serializedVersion: 2
         x: 24
@@ -1318,15 +2297,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.5, y: 25}
-        - {x: -17.5, y: 25}
-        - {x: -17.5, y: -1}
-        - {x: -9.5, y: -25}
-        - {x: 17.5, y: -25}
-        - {x: 17.5, y: 9}
-        - {x: 8.5, y: 22}
-    - name: FredFlintstoneSprite2_82
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_82
       rect:
         serializedVersion: 2
         x: 75
@@ -1336,16 +2318,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 13.5, y: 19}
-        - {x: 9.5, y: 22}
-        - {x: -23.5, y: 22}
-        - {x: -24.5, y: 18}
-        - {x: -24.5, y: -22}
-        - {x: 24.5, y: -22}
-        - {x: 24.5, y: 17}
-        - {x: 17.5, y: 21}
-    - name: FredFlintstoneSprite2_83
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_83
       rect:
         serializedVersion: 2
         x: 137
@@ -1355,16 +2339,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13, y: 22}
-        - {x: -24, y: 4}
-        - {x: -24, y: -10}
-        - {x: -23, y: -13}
-        - {x: 5, y: -22}
-        - {x: 24, y: -22}
-        - {x: 24, y: 0}
-        - {x: 11, y: 22}
-    - name: FredFlintstoneSprite2_84
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_84
       rect:
         serializedVersion: 2
         x: 195
@@ -1374,15 +2360,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23.5, y: -21}
-        - {x: -12.5, y: -22}
-        - {x: 23.5, y: -22}
-        - {x: 23.5, y: -6}
-        - {x: 10.5, y: 22}
-        - {x: -12.5, y: 22}
-        - {x: -23.5, y: 4}
-    - name: FredFlintstoneSprite2_85
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_85
       rect:
         serializedVersion: 2
         x: 29
@@ -1393,7 +2382,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_86
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_86
       rect:
         serializedVersion: 2
         x: 74
@@ -1404,7 +2403,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_87
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_87
       rect:
         serializedVersion: 2
         x: 118
@@ -1415,7 +2424,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_88
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_88
       rect:
         serializedVersion: 2
         x: 27
@@ -1425,16 +2444,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: 22.5}
-        - {x: -17.5, y: 18.5}
-        - {x: -17.5, y: -4.5}
-        - {x: -7.5, y: -22.5}
-        - {x: 9.5, y: -22.5}
-        - {x: 17.5, y: -18.5}
-        - {x: 17.5, y: 5.5}
-        - {x: 10.5, y: 22.5}
-    - name: FredFlintstoneSprite2_89
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_89
       rect:
         serializedVersion: 2
         x: 82
@@ -1444,18 +2465,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15, y: 13}
-        - {x: 6, y: 23}
-        - {x: -9, y: 23}
-        - {x: -16, y: 15}
-        - {x: -16, y: -5}
-        - {x: -9, y: -21}
-        - {x: -7, y: -23}
-        - {x: 3, y: -23}
-        - {x: 16, y: -6}
-        - {x: 16, y: 12}
-    - name: FredFlintstoneSprite2_90
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_90
       rect:
         serializedVersion: 2
         x: 129
@@ -1465,15 +2486,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 22.5}
-        - {x: -16, y: -18.5}
-        - {x: -10, y: -22.5}
-        - {x: 5, y: -22.5}
-        - {x: 16, y: -7.5}
-        - {x: 16, y: 19.5}
-        - {x: 14, y: 22.5}
-    - name: FredFlintstoneSprite2_91
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_91
       rect:
         serializedVersion: 2
         x: 176
@@ -1483,20 +2507,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 14, y: -21}
-        - {x: 16, y: -13}
-        - {x: 16, y: 14}
-        - {x: 9, y: 23}
-        - {x: -8, y: 23}
-        - {x: -11, y: 20}
-        - {x: -16, y: 10}
-        - {x: -16, y: -6}
-        - {x: -4, y: -23}
-        - {x: 7, y: -23}
-        - {x: 8, y: -20}
-        - {x: 8, y: -17}
-    - name: FredFlintstoneSprite2_92
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_92
       rect:
         serializedVersion: 2
         x: 221
@@ -1506,16 +2528,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: 22.5}
-        - {x: -17.5, y: 18.5}
-        - {x: -17.5, y: -4.5}
-        - {x: -7.5, y: -22.5}
-        - {x: 9.5, y: -22.5}
-        - {x: 17.5, y: -18.5}
-        - {x: 17.5, y: 5.5}
-        - {x: 10.5, y: 22.5}
-    - name: FredFlintstoneSprite2_93
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_93
       rect:
         serializedVersion: 2
         x: 269
@@ -1525,18 +2549,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15, y: 13}
-        - {x: 6, y: 23}
-        - {x: -9, y: 23}
-        - {x: -16, y: 15}
-        - {x: -16, y: -5}
-        - {x: -9, y: -21}
-        - {x: -7, y: -23}
-        - {x: 3, y: -23}
-        - {x: 16, y: -6}
-        - {x: 16, y: 12}
-    - name: FredFlintstoneSprite2_94
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_94
       rect:
         serializedVersion: 2
         x: 316
@@ -1546,15 +2570,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 22.5}
-        - {x: -16, y: -18.5}
-        - {x: -10, y: -22.5}
-        - {x: 5, y: -22.5}
-        - {x: 16, y: -7.5}
-        - {x: 16, y: 19.5}
-        - {x: 14, y: 22.5}
-    - name: FredFlintstoneSprite2_95
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_95
       rect:
         serializedVersion: 2
         x: 363
@@ -1564,20 +2591,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 14, y: -21}
-        - {x: 16, y: -13}
-        - {x: 16, y: 14}
-        - {x: 9, y: 23}
-        - {x: -8, y: 23}
-        - {x: -11, y: 20}
-        - {x: -16, y: 10}
-        - {x: -16, y: -6}
-        - {x: -4, y: -23}
-        - {x: 7, y: -23}
-        - {x: 8, y: -20}
-        - {x: 8, y: -17}
-    - name: FredFlintstoneSprite2_96
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_96
       rect:
         serializedVersion: 2
         x: 32
@@ -1587,16 +2612,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10.5, y: 23.5}
-        - {x: -17.5, y: 22.5}
-        - {x: -17.5, y: -17.5}
-        - {x: -7.5, y: -23.5}
-        - {x: 8.5, y: -23.5}
-        - {x: 17.5, y: -4.5}
-        - {x: 17.5, y: 19.5}
-        - {x: 12.5, y: 23.5}
-    - name: FredFlintstoneSprite2_97
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_97
       rect:
         serializedVersion: 2
         x: 82
@@ -1606,15 +2633,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 20.5}
-        - {x: -13, y: 19.5}
-        - {x: -16, y: 6.5}
-        - {x: -16, y: -20.5}
-        - {x: 16, y: -20.5}
-        - {x: 16, y: 15.5}
-        - {x: 13, y: 20.5}
-    - name: FredFlintstoneSprite2_98
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_98
       rect:
         serializedVersion: 2
         x: 31
@@ -1624,13 +2654,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17, y: 19}
-        - {x: -17, y: -19}
-        - {x: 17, y: -19}
-        - {x: 17, y: 12}
-        - {x: 13, y: 19}
-    - name: FredFlintstoneSprite2_99
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_99
       rect:
         serializedVersion: 2
         x: 41
@@ -1641,7 +2676,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_100
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_100
       rect:
         serializedVersion: 2
         x: 79
@@ -1651,37 +2696,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17.5, y: -7.5}
-        - {x: 17.5, y: 9.5}
-        - {x: 8.5, y: 19.5}
-        - {x: -7.5, y: 19.5}
-        - {x: -17.5, y: 16.5}
-        - {x: -17.5, y: 3.5}
-        - {x: -14.5, y: 0.5}
-        - {x: -17.5, y: -1.5}
-        - {x: -17.5, y: -12.5}
-        - {x: -14.5, y: -22.5}
-        - {x: -2.5, y: -25.5}
-        - {x: 9.5, y: -25.5}
-        - {x: 12.5, y: -22.5}
-        - {x: 12.5, y: -20.5}
-        - {x: 11.5, y: -18.5}
-      - - {x: -14.5, y: 19.5}
-        - {x: -13.5, y: 16.5}
-        - {x: -8.5, y: 16.5}
-        - {x: -6.5, y: 17.5}
-        - {x: -6.5, y: 19.5}
-        - {x: -8.5, y: 23.5}
-        - {x: -12.5, y: 23.5}
-        - {x: -14.5, y: 22.5}
-      - - {x: -9.5, y: 25.5}
-        - {x: -9.5, y: 23.5}
-        - {x: -6.5, y: 20.5}
-        - {x: -3.5, y: 21.5}
-        - {x: -3.5, y: 24.5}
-        - {x: -4.5, y: 25.5}
-    - name: FredFlintstoneSprite2_101
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_101
       rect:
         serializedVersion: 2
         x: 222
@@ -1691,31 +2717,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 3.5, y: 19}
-        - {x: -13.5, y: 16}
-        - {x: -17.5, y: 15}
-        - {x: -17.5, y: -3}
-        - {x: -11.5, y: -25}
-        - {x: 4.5, y: -25}
-        - {x: 17.5, y: -13}
-        - {x: 17.5, y: 7}
-        - {x: 13.5, y: 18}
-      - - {x: -14.5, y: 19}
-        - {x: -13.5, y: 16}
-        - {x: -8.5, y: 16}
-        - {x: -6.5, y: 17}
-        - {x: -6.5, y: 19}
-        - {x: -8.5, y: 23}
-        - {x: -12.5, y: 23}
-        - {x: -14.5, y: 22}
-      - - {x: -9.5, y: 25}
-        - {x: -9.5, y: 23}
-        - {x: -6.5, y: 20}
-        - {x: -3.5, y: 21}
-        - {x: -3.5, y: 24}
-        - {x: -4.5, y: 25}
-    - name: FredFlintstoneSprite2_102
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_102
       rect:
         serializedVersion: 2
         x: 127
@@ -1725,18 +2738,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17, y: 22}
-        - {x: -15, y: 22}
-        - {x: -18, y: 17}
-        - {x: -18, y: -14}
-        - {x: -16, y: -21}
-        - {x: -14, y: -22}
-        - {x: 1, y: -22}
-        - {x: 11, y: -12}
-        - {x: 18, y: -4}
-        - {x: 18, y: 16}
-    - name: FredFlintstoneSprite2_103
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_103
       rect:
         serializedVersion: 2
         x: 176
@@ -1746,15 +2759,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17, y: 19}
-        - {x: -17, y: -6}
-        - {x: -13, y: -19}
-        - {x: 6, y: -19}
-        - {x: 17, y: -9}
-        - {x: 17, y: 13}
-        - {x: 15, y: 19}
-    - name: FredFlintstoneSprite2_104
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_104
       rect:
         serializedVersion: 2
         x: 187
@@ -1765,7 +2781,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_105
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_105
       rect:
         serializedVersion: 2
         x: 272
@@ -1775,14 +2801,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 21}
-        - {x: -16, y: -21}
-        - {x: 12, y: -21}
-        - {x: 16, y: -14}
-        - {x: 16, y: 15}
-        - {x: 15, y: 21}
-    - name: FredFlintstoneSprite2_106
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_106
       rect:
         serializedVersion: 2
         x: 29
@@ -1792,18 +2822,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 6, y: 25.5}
-        - {x: -11, y: 25.5}
-        - {x: -17, y: 17.5}
-        - {x: -17, y: -15.5}
-        - {x: -16, y: -18.5}
-        - {x: -9, y: -25.5}
-        - {x: 11, y: -25.5}
-        - {x: 15, y: -18.5}
-        - {x: 17, y: -14.5}
-        - {x: 17, y: 18.5}
-    - name: FredFlintstoneSprite2_107
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_107
       rect:
         serializedVersion: 2
         x: 77
@@ -1813,17 +2843,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7, y: 25}
-        - {x: -17, y: 12}
-        - {x: -17, y: -9}
-        - {x: -13, y: -24}
-        - {x: -9, y: -25}
-        - {x: 12, y: -25}
-        - {x: 17, y: -21}
-        - {x: 17, y: 15}
-        - {x: 13, y: 25}
-    - name: FredFlintstoneSprite2_108
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_108
       rect:
         serializedVersion: 2
         x: 120
@@ -1833,18 +2864,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 6, y: 25.5}
-        - {x: -11, y: 25.5}
-        - {x: -17, y: 17.5}
-        - {x: -17, y: -15.5}
-        - {x: -16, y: -18.5}
-        - {x: -9, y: -25.5}
-        - {x: 11, y: -25.5}
-        - {x: 15, y: -18.5}
-        - {x: 17, y: -14.5}
-        - {x: 17, y: 18.5}
-    - name: FredFlintstoneSprite2_109
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_109
       rect:
         serializedVersion: 2
         x: 165
@@ -1854,15 +2885,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 25.5}
-        - {x: -18, y: 12.5}
-        - {x: -18, y: -14.5}
-        - {x: -16, y: -25.5}
-        - {x: 18, y: -25.5}
-        - {x: 18, y: 14.5}
-        - {x: 14, y: 25.5}
-    - name: FredFlintstoneSprite2_110
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_110
       rect:
         serializedVersion: 2
         x: 29
@@ -1873,7 +2907,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_111
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_111
       rect:
         serializedVersion: 2
         x: 76
@@ -1884,7 +2928,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_112
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_112
       rect:
         serializedVersion: 2
         x: 126
@@ -1895,7 +2949,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_113
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_113
       rect:
         serializedVersion: 2
         x: 169
@@ -1906,7 +2970,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_114
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_114
       rect:
         serializedVersion: 2
         x: 30
@@ -1917,7 +2991,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_115
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_115
       rect:
         serializedVersion: 2
         x: 99
@@ -1928,7 +3012,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_116
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_116
       rect:
         serializedVersion: 2
         x: 100
@@ -1938,20 +3032,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -21.5, y: 17.5}
-        - {x: -25.5, y: 8.5}
-        - {x: -25.5, y: -12.5}
-        - {x: -22.5, y: -11.5}
-        - {x: -21.5, y: -8.5}
-        - {x: -22.5, y: -11.5}
-        - {x: -23.5, y: -16.5}
-        - {x: -21.5, y: -17.5}
-        - {x: 10.5, y: -17.5}
-        - {x: 25.5, y: -9.5}
-        - {x: 25.5, y: 14.5}
-        - {x: 24.5, y: 17.5}
-    - name: FredFlintstoneSprite2_117
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_117
       rect:
         serializedVersion: 2
         x: 165
@@ -1962,7 +3054,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_118
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_118
       rect:
         serializedVersion: 2
         x: 227
@@ -1973,7 +3075,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_119
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_119
       rect:
         serializedVersion: 2
         x: 230
@@ -1983,22 +3095,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21, y: 16.5}
-        - {x: -16, y: 16.5}
-        - {x: -22, y: 11.5}
-        - {x: -26, y: 7.5}
-        - {x: -26, y: -16.5}
-        - {x: 12, y: -16.5}
-        - {x: 24, y: -14.5}
-        - {x: 26, y: -11.5}
-        - {x: 26, y: 13.5}
-      - - {x: -24, y: 6.5}
-        - {x: -21, y: 7.5}
-        - {x: -21, y: 10.5}
-        - {x: -24, y: 11.5}
-        - {x: -26, y: 9.5}
-    - name: FredFlintstoneSprite2_120
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_120
       rect:
         serializedVersion: 2
         x: 27
@@ -2008,14 +3116,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 21.5}
-        - {x: -18, y: -3.5}
-        - {x: -7, y: -21.5}
-        - {x: 9, y: -21.5}
-        - {x: 18, y: -17.5}
-        - {x: 18, y: 21.5}
-    - name: FredFlintstoneSprite2_121
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_121
       rect:
         serializedVersion: 2
         x: 74
@@ -2025,13 +3137,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 21.5}
-        - {x: -18, y: -21.5}
-        - {x: 15, y: -21.5}
-        - {x: 18, y: -20.5}
-        - {x: 18, y: 21.5}
-    - name: FredFlintstoneSprite2_122
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_122
       rect:
         serializedVersion: 2
         x: 118
@@ -2041,15 +3158,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: 19.5}
-        - {x: -19.5, y: 15.5}
-        - {x: -19.5, y: -15.5}
-        - {x: -18.5, y: -19.5}
-        - {x: 18.5, y: -19.5}
-        - {x: 19.5, y: -16.5}
-        - {x: 19.5, y: 19.5}
-    - name: FredFlintstoneSprite2_123
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_123
       rect:
         serializedVersion: 2
         x: 170
@@ -2059,13 +3179,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.5, y: 19.5}
-        - {x: -19.5, y: -19.5}
-        - {x: 18.5, y: -19.5}
-        - {x: 19.5, y: -18.5}
-        - {x: 19.5, y: 19.5}
-    - name: FredFlintstoneSprite2_124
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_124
       rect:
         serializedVersion: 2
         x: 221
@@ -2075,13 +3200,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 20}
-        - {x: -18.5, y: -1}
-        - {x: -11.5, y: -20}
-        - {x: 18.5, y: -20}
-        - {x: 18.5, y: 20}
-    - name: FredFlintstoneSprite2_125
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_125
       rect:
         serializedVersion: 2
         x: 273
@@ -2091,14 +3221,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 20}
-        - {x: -18.5, y: -7}
-        - {x: -11.5, y: -20}
-        - {x: 18.5, y: -20}
-        - {x: 18.5, y: 19}
-        - {x: 16.5, y: 20}
-    - name: FredFlintstoneSprite2_126
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_126
       rect:
         serializedVersion: 2
         x: 323
@@ -2108,16 +3242,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15, y: 21.5}
-        - {x: -18, y: 18.5}
-        - {x: -18, y: -4.5}
-        - {x: -9, y: -21.5}
-        - {x: 8, y: -21.5}
-        - {x: 12, y: -17.5}
-        - {x: 18, y: 5.5}
-        - {x: 18, y: 21.5}
-    - name: FredFlintstoneSprite2_127
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_127
       rect:
         serializedVersion: 2
         x: 373
@@ -2127,16 +3263,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 21.5}
-        - {x: -18, y: 16.5}
-        - {x: -18, y: -1.5}
-        - {x: -9, y: -21.5}
-        - {x: 11, y: -21.5}
-        - {x: 18, y: 3.5}
-        - {x: 18, y: 19.5}
-        - {x: 16, y: 21.5}
-    - name: FredFlintstoneSprite2_128
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_128
       rect:
         serializedVersion: 2
         x: 421
@@ -2146,15 +3284,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 19}
-        - {x: -18, y: 14}
-        - {x: -18, y: -11}
-        - {x: -15, y: -19}
-        - {x: 16, y: -19}
-        - {x: 18, y: -15}
-        - {x: 18, y: 19}
-    - name: FredFlintstoneSprite2_129
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_129
       rect:
         serializedVersion: 2
         x: 468
@@ -2164,13 +3305,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 19}
-        - {x: -18, y: -7}
-        - {x: -10, y: -19}
-        - {x: 18, y: -19}
-        - {x: 18, y: 19}
-    - name: FredFlintstoneSprite2_130
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_130
       rect:
         serializedVersion: 2
         x: 517
@@ -2180,13 +3326,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 20}
-        - {x: -18, y: -14}
-        - {x: -10, y: -20}
-        - {x: 18, y: -20}
-        - {x: 18, y: 20}
-    - name: FredFlintstoneSprite2_131
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_131
       rect:
         serializedVersion: 2
         x: 564
@@ -2196,14 +3347,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 20}
-        - {x: -18, y: -8}
-        - {x: -9, y: -20}
-        - {x: 12, y: -20}
-        - {x: 18, y: -10}
-        - {x: 18, y: 20}
-    - name: FredFlintstoneSprite2_132
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_132
       rect:
         serializedVersion: 2
         x: 30
@@ -2213,14 +3368,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16.5, y: 19.5}
-        - {x: -16.5, y: -19.5}
-        - {x: 10.5, y: -19.5}
-        - {x: 16.5, y: -17.5}
-        - {x: 16.5, y: 16.5}
-        - {x: 11.5, y: 19.5}
-    - name: FredFlintstoneSprite2_133
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_133
       rect:
         serializedVersion: 2
         x: 76
@@ -2231,7 +3390,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_134
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_134
       rect:
         serializedVersion: 2
         x: 120
@@ -2242,7 +3411,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_135
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_135
       rect:
         serializedVersion: 2
         x: 159
@@ -2253,7 +3432,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_136
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_136
       rect:
         serializedVersion: 2
         x: 199
@@ -2264,7 +3453,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_137
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_137
       rect:
         serializedVersion: 2
         x: 237
@@ -2275,7 +3474,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_138
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_138
       rect:
         serializedVersion: 2
         x: 273
@@ -2286,7 +3495,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_139
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_139
       rect:
         serializedVersion: 2
         x: 312
@@ -2297,7 +3516,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_140
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_140
       rect:
         serializedVersion: 2
         x: 350
@@ -2308,7 +3537,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_141
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_141
       rect:
         serializedVersion: 2
         x: 390
@@ -2319,7 +3558,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_142
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_142
       rect:
         serializedVersion: 2
         x: 430
@@ -2330,7 +3579,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_143
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_143
       rect:
         serializedVersion: 2
         x: 472
@@ -2341,7 +3600,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_144
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_144
       rect:
         serializedVersion: 2
         x: 512
@@ -2352,7 +3621,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_145
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_145
       rect:
         serializedVersion: 2
         x: 561
@@ -2363,7 +3642,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_146
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_146
       rect:
         serializedVersion: 2
         x: 31
@@ -2374,7 +3663,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_147
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_147
       rect:
         serializedVersion: 2
         x: 36
@@ -2385,7 +3684,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_148
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_148
       rect:
         serializedVersion: 2
         x: 86
@@ -2396,7 +3705,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_149
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_149
       rect:
         serializedVersion: 2
         x: 163
@@ -2407,7 +3726,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_150
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_150
       rect:
         serializedVersion: 2
         x: 65
@@ -2418,7 +3747,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_151
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_151
       rect:
         serializedVersion: 2
         x: 107
@@ -2429,7 +3768,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_152
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_152
       rect:
         serializedVersion: 2
         x: 251
@@ -2439,16 +3788,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 14, y: 17}
-        - {x: -12, y: 17}
-        - {x: -15, y: 13}
-        - {x: -18, y: -1}
-        - {x: -18, y: -17}
-        - {x: 12, y: -17}
-        - {x: 18, y: -12}
-        - {x: 18, y: 7}
-    - name: FredFlintstoneSprite2_153
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_153
       rect:
         serializedVersion: 2
         x: 299
@@ -2458,16 +3809,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 14, y: 17}
-        - {x: -12, y: 17}
-        - {x: -15, y: 13}
-        - {x: -18, y: -1}
-        - {x: -18, y: -17}
-        - {x: 12, y: -17}
-        - {x: 18, y: -12}
-        - {x: 18, y: 7}
-    - name: FredFlintstoneSprite2_154
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_154
       rect:
         serializedVersion: 2
         x: 348
@@ -2477,15 +3830,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13, y: 17}
-        - {x: -16, y: 13}
-        - {x: -18, y: -3}
-        - {x: -18, y: -17}
-        - {x: 15, y: -17}
-        - {x: 18, y: -7}
-        - {x: 18, y: 17}
-    - name: FredFlintstoneSprite2_155
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_155
       rect:
         serializedVersion: 2
         x: 484
@@ -2496,7 +3852,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_156
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_156
       rect:
         serializedVersion: 2
         x: 525
@@ -2507,7 +3873,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_157
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_157
       rect:
         serializedVersion: 2
         x: 36
@@ -2518,7 +3894,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_158
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_158
       rect:
         serializedVersion: 2
         x: 68
@@ -2529,7 +3915,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_159
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_159
       rect:
         serializedVersion: 2
         x: 101
@@ -2540,7 +3936,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_160
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_160
       rect:
         serializedVersion: 2
         x: 139
@@ -2550,16 +3956,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7, y: 18.5}
-        - {x: -15, y: 18.5}
-        - {x: -16, y: 17.5}
-        - {x: -16, y: -6.5}
-        - {x: -9, y: -18.5}
-        - {x: 14, y: -18.5}
-        - {x: 16, y: -15.5}
-        - {x: 16, y: -2.5}
-    - name: FredFlintstoneSprite2_161
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_161
       rect:
         serializedVersion: 2
         x: 250
@@ -2570,7 +3978,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_162
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_162
       rect:
         serializedVersion: 2
         x: 286
@@ -2581,7 +3999,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_163
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_163
       rect:
         serializedVersion: 2
         x: 320
@@ -2592,7 +4020,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_164
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_164
       rect:
         serializedVersion: 2
         x: 352
@@ -2603,7 +4041,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_165
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_165
       rect:
         serializedVersion: 2
         x: 448
@@ -2614,7 +4062,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_166
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_166
       rect:
         serializedVersion: 2
         x: 487
@@ -2625,7 +4083,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_167
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_167
       rect:
         serializedVersion: 2
         x: 530
@@ -2636,7 +4104,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: FredFlintstoneSprite2_168
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredFlintstoneSprite2_168
       rect:
         serializedVersion: 2
         x: 567
@@ -2647,8 +4125,28 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

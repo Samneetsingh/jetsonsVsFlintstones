@@ -1,229 +1,654 @@
 fileFormatVersion: 2
 guid: eac846d25eb714c4e98c1efc1afaf035
-timeCreated: 1460767442
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: GeorgeJetsonSprite_0
-    21300002: GeorgeJetsonSprite_1
-    21300004: GeorgeJetsonSprite_2
-    21300006: GeorgeJetsonSprite_3
-    21300008: GeorgeJetsonSprite_4
-    21300010: GeorgeJetsonSprite_5
-    21300012: GeorgeJetsonSprite_6
-    21300014: GeorgeJetsonSprite_7
-    21300016: GeorgeJetsonSprite_8
-    21300018: GeorgeJetsonSprite_9
-    21300020: GeorgeJetsonSprite_10
-    21300022: GeorgeJetsonSprite_11
-    21300024: GeorgeJetsonSprite_12
-    21300026: GeorgeJetsonSprite_13
-    21300028: GeorgeJetsonSprite_14
-    21300030: GeorgeJetsonSprite_15
-    21300032: GeorgeJetsonSprite_16
-    21300034: GeorgeJetsonSprite_17
-    21300036: GeorgeJetsonSprite_18
-    21300038: GeorgeJetsonSprite_19
-    21300040: GeorgeJetsonSprite_20
-    21300042: GeorgeJetsonSprite_21
-    21300044: GeorgeJetsonSprite_22
-    21300046: GeorgeJetsonSprite_23
-    21300048: GeorgeJetsonSprite_24
-    21300050: GeorgeJetsonSprite_25
-    21300052: GeorgeJetsonSprite_26
-    21300054: GeorgeJetsonSprite_27
-    21300056: GeorgeJetsonSprite_28
-    21300058: GeorgeJetsonSprite_29
-    21300060: GeorgeJetsonSprite_30
-    21300062: GeorgeJetsonSprite_31
-    21300064: GeorgeJetsonSprite_32
-    21300066: GeorgeJetsonSprite_33
-    21300068: GeorgeJetsonSprite_34
-    21300070: GeorgeJetsonSprite_35
-    21300072: GeorgeJetsonSprite_36
-    21300074: GeorgeJetsonSprite_37
-    21300076: GeorgeJetsonSprite_38
-    21300078: GeorgeJetsonSprite_39
-    21300080: GeorgeJetsonSprite_40
-    21300082: GeorgeJetsonSprite_41
-    21300084: GeorgeJetsonSprite_42
-    21300086: GeorgeJetsonSprite_43
-    21300088: GeorgeJetsonSprite_44
-    21300090: GeorgeJetsonSprite_45
-    21300092: GeorgeJetsonSprite_46
-    21300094: GeorgeJetsonSprite_47
-    21300096: GeorgeJetsonSprite_48
-    21300098: GeorgeJetsonSprite_49
-    21300100: GeorgeJetsonSprite_50
-    21300102: GeorgeJetsonSprite_51
-    21300104: GeorgeJetsonSprite_52
-    21300106: GeorgeJetsonSprite_53
-    21300108: GeorgeJetsonSprite_54
-    21300110: GeorgeJetsonSprite_55
-    21300112: GeorgeJetsonSprite_56
-    21300114: GeorgeJetsonSprite_57
-    21300116: GeorgeJetsonSprite_58
-    21300118: GeorgeJetsonSprite_59
-    21300120: GeorgeJetsonSprite_60
-    21300122: GeorgeJetsonSprite_61
-    21300124: GeorgeJetsonSprite_62
-    21300126: GeorgeJetsonSprite_63
-    21300128: GeorgeJetsonSprite_64
-    21300130: GeorgeJetsonSprite_65
-    21300132: GeorgeJetsonSprite_66
-    21300134: GeorgeJetsonSprite_67
-    21300136: GeorgeJetsonSprite_68
-    21300138: GeorgeJetsonSprite_69
-    21300140: GeorgeJetsonSprite_70
-    21300142: GeorgeJetsonSprite_71
-    21300144: GeorgeJetsonSprite_72
-    21300146: GeorgeJetsonSprite_73
-    21300148: GeorgeJetsonSprite_74
-    21300150: GeorgeJetsonSprite_75
-    21300152: GeorgeJetsonSprite_76
-    21300154: GeorgeJetsonSprite_77
-    21300156: GeorgeJetsonSprite_78
-    21300158: GeorgeJetsonSprite_79
-    21300160: GeorgeJetsonSprite_80
-    21300162: GeorgeJetsonSprite_81
-    21300164: GeorgeJetsonSprite_82
-    21300166: GeorgeJetsonSprite_83
-    21300168: GeorgeJetsonSprite_84
-    21300170: GeorgeJetsonSprite_85
-    21300172: GeorgeJetsonSprite_86
-    21300174: GeorgeJetsonSprite_87
-    21300176: GeorgeJetsonSprite_88
-    21300178: GeorgeJetsonSprite_89
-    21300180: GeorgeJetsonSprite_90
-    21300182: GeorgeJetsonSprite_91
-    21300184: GeorgeJetsonSprite_92
-    21300186: GeorgeJetsonSprite_93
-    21300188: GeorgeJetsonSprite_94
-    21300190: GeorgeJetsonSprite_95
-    21300192: GeorgeJetsonSprite_96
-    21300194: GeorgeJetsonSprite_97
-    21300196: GeorgeJetsonSprite_98
-    21300198: GeorgeJetsonSprite_99
-    21300200: GeorgeJetsonSprite_100
-    21300202: GeorgeJetsonSprite_101
-    21300204: GeorgeJetsonSprite_102
-    21300206: GeorgeJetsonSprite_103
-    21300208: GeorgeJetsonSprite_104
-    21300210: GeorgeJetsonSprite_105
-    21300212: GeorgeJetsonSprite_106
-    21300214: GeorgeJetsonSprite_107
-    21300216: GeorgeJetsonSprite_108
-    21300218: GeorgeJetsonSprite_109
-    21300220: GeorgeJetsonSprite_110
-    21300222: GeorgeJetsonSprite_111
-    21300224: GeorgeJetsonSprite_112
-    21300226: GeorgeJetsonSprite_113
-    21300228: GeorgeJetsonSprite_114
-    21300230: GeorgeJetsonSprite_115
-    21300232: GeorgeJetsonSprite_116
-    21300234: GeorgeJetsonSprite_117
-    21300236: GeorgeJetsonSprite_118
-    21300238: GeorgeJetsonSprite_119
-    21300240: GeorgeJetsonSprite_120
-    21300242: GeorgeJetsonSprite_121
-    21300244: GeorgeJetsonSprite_122
-    21300246: GeorgeJetsonSprite_123
-    21300248: GeorgeJetsonSprite_124
-    21300250: GeorgeJetsonSprite_125
-    21300252: GeorgeJetsonSprite_126
-    21300254: GeorgeJetsonSprite_127
-    21300256: GeorgeJetsonSprite_128
-    21300258: GeorgeJetsonSprite_129
-    21300260: GeorgeJetsonSprite_130
-    21300262: GeorgeJetsonSprite_131
-    21300264: GeorgeJetsonSprite_132
-    21300266: GeorgeJetsonSprite_133
-    21300268: GeorgeJetsonSprite_134
-    21300270: GeorgeJetsonSprite_135
-    21300272: GeorgeJetsonSprite_136
-    21300274: GeorgeJetsonSprite_137
-    21300276: GeorgeJetsonSprite_138
-    21300278: GeorgeJetsonSprite_139
-    21300280: GeorgeJetsonSprite_140
-    21300282: GeorgeJetsonSprite_141
-    21300284: GeorgeJetsonSprite_142
-    21300286: GeorgeJetsonSprite_143
-    21300288: GeorgeJetsonSprite_144
-    21300290: GeorgeJetsonSprite_145
-    21300292: GeorgeJetsonSprite_146
-    21300294: GeorgeJetsonSprite_147
-    21300296: GeorgeJetsonSprite_148
-    21300298: GeorgeJetsonSprite_149
-    21300300: GeorgeJetsonSprite_150
-    21300302: GeorgeJetsonSprite_151
-    21300304: GeorgeJetsonSprite_152
-    21300306: GeorgeJetsonSprite_153
-    21300308: GeorgeJetsonSprite_154
-    21300310: GeorgeJetsonSprite_155
-    21300312: GeorgeJetsonSprite_156
-    21300314: GeorgeJetsonSprite_157
-    21300316: GeorgeJetsonSprite_158
-    21300318: GeorgeJetsonSprite_159
-    21300320: GeorgeJetsonSprite_160
-    21300322: GeorgeJetsonSprite_161
-    21300324: GeorgeJetsonSprite_162
-    21300326: GeorgeJetsonSprite_163
-    21300328: GeorgeJetsonSprite_164
-    21300330: GeorgeJetsonSprite_165
-    21300332: GeorgeJetsonSprite_166
-    21300334: GeorgeJetsonSprite_167
-    21300336: GeorgeJetsonSprite_168
-    21300338: GeorgeJetsonSprite_169
-    21300340: GeorgeJetsonSprite_170
-    21300342: GeorgeJetsonSprite_171
-    21300344: GeorgeJetsonSprite_172
-    21300346: GeorgeJetsonSprite_173
-    21300348: GeorgeJetsonSprite_174
-    21300350: GeorgeJetsonSprite_175
-    21300352: GeorgeJetsonSprite_176
-    21300354: GeorgeJetsonSprite_177
-    21300356: GeorgeJetsonSprite_178
-    21300358: GeorgeJetsonSprite_179
-    21300360: GeorgeJetsonSprite_180
-    21300362: GeorgeJetsonSprite_181
-    21300364: GeorgeJetsonSprite_182
-    21300366: GeorgeJetsonSprite_183
-    21300368: GeorgeJetsonSprite_184
-    21300370: GeorgeJetsonSprite_185
-    21300372: GeorgeJetsonSprite_186
-    21300374: GeorgeJetsonSprite_187
-    21300376: GeorgeJetsonSprite_188
-    21300378: GeorgeJetsonSprite_189
-    21300380: GeorgeJetsonSprite_190
-    21300382: GeorgeJetsonSprite_191
-    21300384: GeorgeJetsonSprite_192
-    21300386: GeorgeJetsonSprite_193
-    21300388: GeorgeJetsonSprite_194
-    21300390: GeorgeJetsonSprite_195
-    21300392: GeorgeJetsonSprite_196
-    21300394: GeorgeJetsonSprite_197
-    21300396: GeorgeJetsonSprite_198
-    21300398: GeorgeJetsonSprite_199
-    21300400: GeorgeJetsonSprite_200
-    21300402: GeorgeJetsonSprite_201
-    21300404: GeorgeJetsonSprite_202
-    21300406: GeorgeJetsonSprite_203
-    21300408: GeorgeJetsonSprite_204
-    21300410: GeorgeJetsonSprite_205
-    21300412: GeorgeJetsonSprite_206
-    21300414: GeorgeJetsonSprite_207
-    21300416: GeorgeJetsonSprite_208
-    21300418: GeorgeJetsonSprite_209
-    21300420: GeorgeJetsonSprite_210
-    21300422: GeorgeJetsonSprite_211
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GeorgeJetsonSprite_0
+  - first:
+      213: 21300002
+    second: GeorgeJetsonSprite_1
+  - first:
+      213: 21300004
+    second: GeorgeJetsonSprite_2
+  - first:
+      213: 21300006
+    second: GeorgeJetsonSprite_3
+  - first:
+      213: 21300008
+    second: GeorgeJetsonSprite_4
+  - first:
+      213: 21300010
+    second: GeorgeJetsonSprite_5
+  - first:
+      213: 21300012
+    second: GeorgeJetsonSprite_6
+  - first:
+      213: 21300014
+    second: GeorgeJetsonSprite_7
+  - first:
+      213: 21300016
+    second: GeorgeJetsonSprite_8
+  - first:
+      213: 21300018
+    second: GeorgeJetsonSprite_9
+  - first:
+      213: 21300020
+    second: GeorgeJetsonSprite_10
+  - first:
+      213: 21300022
+    second: GeorgeJetsonSprite_11
+  - first:
+      213: 21300024
+    second: GeorgeJetsonSprite_12
+  - first:
+      213: 21300026
+    second: GeorgeJetsonSprite_13
+  - first:
+      213: 21300028
+    second: GeorgeJetsonSprite_14
+  - first:
+      213: 21300030
+    second: GeorgeJetsonSprite_15
+  - first:
+      213: 21300032
+    second: GeorgeJetsonSprite_16
+  - first:
+      213: 21300034
+    second: GeorgeJetsonSprite_17
+  - first:
+      213: 21300036
+    second: GeorgeJetsonSprite_18
+  - first:
+      213: 21300038
+    second: GeorgeJetsonSprite_19
+  - first:
+      213: 21300040
+    second: GeorgeJetsonSprite_20
+  - first:
+      213: 21300042
+    second: GeorgeJetsonSprite_21
+  - first:
+      213: 21300044
+    second: GeorgeJetsonSprite_22
+  - first:
+      213: 21300046
+    second: GeorgeJetsonSprite_23
+  - first:
+      213: 21300048
+    second: GeorgeJetsonSprite_24
+  - first:
+      213: 21300050
+    second: GeorgeJetsonSprite_25
+  - first:
+      213: 21300052
+    second: GeorgeJetsonSprite_26
+  - first:
+      213: 21300054
+    second: GeorgeJetsonSprite_27
+  - first:
+      213: 21300056
+    second: GeorgeJetsonSprite_28
+  - first:
+      213: 21300058
+    second: GeorgeJetsonSprite_29
+  - first:
+      213: 21300060
+    second: GeorgeJetsonSprite_30
+  - first:
+      213: 21300062
+    second: GeorgeJetsonSprite_31
+  - first:
+      213: 21300064
+    second: GeorgeJetsonSprite_32
+  - first:
+      213: 21300066
+    second: GeorgeJetsonSprite_33
+  - first:
+      213: 21300068
+    second: GeorgeJetsonSprite_34
+  - first:
+      213: 21300070
+    second: GeorgeJetsonSprite_35
+  - first:
+      213: 21300072
+    second: GeorgeJetsonSprite_36
+  - first:
+      213: 21300074
+    second: GeorgeJetsonSprite_37
+  - first:
+      213: 21300076
+    second: GeorgeJetsonSprite_38
+  - first:
+      213: 21300078
+    second: GeorgeJetsonSprite_39
+  - first:
+      213: 21300080
+    second: GeorgeJetsonSprite_40
+  - first:
+      213: 21300082
+    second: GeorgeJetsonSprite_41
+  - first:
+      213: 21300084
+    second: GeorgeJetsonSprite_42
+  - first:
+      213: 21300086
+    second: GeorgeJetsonSprite_43
+  - first:
+      213: 21300088
+    second: GeorgeJetsonSprite_44
+  - first:
+      213: 21300090
+    second: GeorgeJetsonSprite_45
+  - first:
+      213: 21300092
+    second: GeorgeJetsonSprite_46
+  - first:
+      213: 21300094
+    second: GeorgeJetsonSprite_47
+  - first:
+      213: 21300096
+    second: GeorgeJetsonSprite_48
+  - first:
+      213: 21300098
+    second: GeorgeJetsonSprite_49
+  - first:
+      213: 21300100
+    second: GeorgeJetsonSprite_50
+  - first:
+      213: 21300102
+    second: GeorgeJetsonSprite_51
+  - first:
+      213: 21300104
+    second: GeorgeJetsonSprite_52
+  - first:
+      213: 21300106
+    second: GeorgeJetsonSprite_53
+  - first:
+      213: 21300108
+    second: GeorgeJetsonSprite_54
+  - first:
+      213: 21300110
+    second: GeorgeJetsonSprite_55
+  - first:
+      213: 21300112
+    second: GeorgeJetsonSprite_56
+  - first:
+      213: 21300114
+    second: GeorgeJetsonSprite_57
+  - first:
+      213: 21300116
+    second: GeorgeJetsonSprite_58
+  - first:
+      213: 21300118
+    second: GeorgeJetsonSprite_59
+  - first:
+      213: 21300120
+    second: GeorgeJetsonSprite_60
+  - first:
+      213: 21300122
+    second: GeorgeJetsonSprite_61
+  - first:
+      213: 21300124
+    second: GeorgeJetsonSprite_62
+  - first:
+      213: 21300126
+    second: GeorgeJetsonSprite_63
+  - first:
+      213: 21300128
+    second: GeorgeJetsonSprite_64
+  - first:
+      213: 21300130
+    second: GeorgeJetsonSprite_65
+  - first:
+      213: 21300132
+    second: GeorgeJetsonSprite_66
+  - first:
+      213: 21300134
+    second: GeorgeJetsonSprite_67
+  - first:
+      213: 21300136
+    second: GeorgeJetsonSprite_68
+  - first:
+      213: 21300138
+    second: GeorgeJetsonSprite_69
+  - first:
+      213: 21300140
+    second: GeorgeJetsonSprite_70
+  - first:
+      213: 21300142
+    second: GeorgeJetsonSprite_71
+  - first:
+      213: 21300144
+    second: GeorgeJetsonSprite_72
+  - first:
+      213: 21300146
+    second: GeorgeJetsonSprite_73
+  - first:
+      213: 21300148
+    second: GeorgeJetsonSprite_74
+  - first:
+      213: 21300150
+    second: GeorgeJetsonSprite_75
+  - first:
+      213: 21300152
+    second: GeorgeJetsonSprite_76
+  - first:
+      213: 21300154
+    second: GeorgeJetsonSprite_77
+  - first:
+      213: 21300156
+    second: GeorgeJetsonSprite_78
+  - first:
+      213: 21300158
+    second: GeorgeJetsonSprite_79
+  - first:
+      213: 21300160
+    second: GeorgeJetsonSprite_80
+  - first:
+      213: 21300162
+    second: GeorgeJetsonSprite_81
+  - first:
+      213: 21300164
+    second: GeorgeJetsonSprite_82
+  - first:
+      213: 21300166
+    second: GeorgeJetsonSprite_83
+  - first:
+      213: 21300168
+    second: GeorgeJetsonSprite_84
+  - first:
+      213: 21300170
+    second: GeorgeJetsonSprite_85
+  - first:
+      213: 21300172
+    second: GeorgeJetsonSprite_86
+  - first:
+      213: 21300174
+    second: GeorgeJetsonSprite_87
+  - first:
+      213: 21300176
+    second: GeorgeJetsonSprite_88
+  - first:
+      213: 21300178
+    second: GeorgeJetsonSprite_89
+  - first:
+      213: 21300180
+    second: GeorgeJetsonSprite_90
+  - first:
+      213: 21300182
+    second: GeorgeJetsonSprite_91
+  - first:
+      213: 21300184
+    second: GeorgeJetsonSprite_92
+  - first:
+      213: 21300186
+    second: GeorgeJetsonSprite_93
+  - first:
+      213: 21300188
+    second: GeorgeJetsonSprite_94
+  - first:
+      213: 21300190
+    second: GeorgeJetsonSprite_95
+  - first:
+      213: 21300192
+    second: GeorgeJetsonSprite_96
+  - first:
+      213: 21300194
+    second: GeorgeJetsonSprite_97
+  - first:
+      213: 21300196
+    second: GeorgeJetsonSprite_98
+  - first:
+      213: 21300198
+    second: GeorgeJetsonSprite_99
+  - first:
+      213: 21300200
+    second: GeorgeJetsonSprite_100
+  - first:
+      213: 21300202
+    second: GeorgeJetsonSprite_101
+  - first:
+      213: 21300204
+    second: GeorgeJetsonSprite_102
+  - first:
+      213: 21300206
+    second: GeorgeJetsonSprite_103
+  - first:
+      213: 21300208
+    second: GeorgeJetsonSprite_104
+  - first:
+      213: 21300210
+    second: GeorgeJetsonSprite_105
+  - first:
+      213: 21300212
+    second: GeorgeJetsonSprite_106
+  - first:
+      213: 21300214
+    second: GeorgeJetsonSprite_107
+  - first:
+      213: 21300216
+    second: GeorgeJetsonSprite_108
+  - first:
+      213: 21300218
+    second: GeorgeJetsonSprite_109
+  - first:
+      213: 21300220
+    second: GeorgeJetsonSprite_110
+  - first:
+      213: 21300222
+    second: GeorgeJetsonSprite_111
+  - first:
+      213: 21300224
+    second: GeorgeJetsonSprite_112
+  - first:
+      213: 21300226
+    second: GeorgeJetsonSprite_113
+  - first:
+      213: 21300228
+    second: GeorgeJetsonSprite_114
+  - first:
+      213: 21300230
+    second: GeorgeJetsonSprite_115
+  - first:
+      213: 21300232
+    second: GeorgeJetsonSprite_116
+  - first:
+      213: 21300234
+    second: GeorgeJetsonSprite_117
+  - first:
+      213: 21300236
+    second: GeorgeJetsonSprite_118
+  - first:
+      213: 21300238
+    second: GeorgeJetsonSprite_119
+  - first:
+      213: 21300240
+    second: GeorgeJetsonSprite_120
+  - first:
+      213: 21300242
+    second: GeorgeJetsonSprite_121
+  - first:
+      213: 21300244
+    second: GeorgeJetsonSprite_122
+  - first:
+      213: 21300246
+    second: GeorgeJetsonSprite_123
+  - first:
+      213: 21300248
+    second: GeorgeJetsonSprite_124
+  - first:
+      213: 21300250
+    second: GeorgeJetsonSprite_125
+  - first:
+      213: 21300252
+    second: GeorgeJetsonSprite_126
+  - first:
+      213: 21300254
+    second: GeorgeJetsonSprite_127
+  - first:
+      213: 21300256
+    second: GeorgeJetsonSprite_128
+  - first:
+      213: 21300258
+    second: GeorgeJetsonSprite_129
+  - first:
+      213: 21300260
+    second: GeorgeJetsonSprite_130
+  - first:
+      213: 21300262
+    second: GeorgeJetsonSprite_131
+  - first:
+      213: 21300264
+    second: GeorgeJetsonSprite_132
+  - first:
+      213: 21300266
+    second: GeorgeJetsonSprite_133
+  - first:
+      213: 21300268
+    second: GeorgeJetsonSprite_134
+  - first:
+      213: 21300270
+    second: GeorgeJetsonSprite_135
+  - first:
+      213: 21300272
+    second: GeorgeJetsonSprite_136
+  - first:
+      213: 21300274
+    second: GeorgeJetsonSprite_137
+  - first:
+      213: 21300276
+    second: GeorgeJetsonSprite_138
+  - first:
+      213: 21300278
+    second: GeorgeJetsonSprite_139
+  - first:
+      213: 21300280
+    second: GeorgeJetsonSprite_140
+  - first:
+      213: 21300282
+    second: GeorgeJetsonSprite_141
+  - first:
+      213: 21300284
+    second: GeorgeJetsonSprite_142
+  - first:
+      213: 21300286
+    second: GeorgeJetsonSprite_143
+  - first:
+      213: 21300288
+    second: GeorgeJetsonSprite_144
+  - first:
+      213: 21300290
+    second: GeorgeJetsonSprite_145
+  - first:
+      213: 21300292
+    second: GeorgeJetsonSprite_146
+  - first:
+      213: 21300294
+    second: GeorgeJetsonSprite_147
+  - first:
+      213: 21300296
+    second: GeorgeJetsonSprite_148
+  - first:
+      213: 21300298
+    second: GeorgeJetsonSprite_149
+  - first:
+      213: 21300300
+    second: GeorgeJetsonSprite_150
+  - first:
+      213: 21300302
+    second: GeorgeJetsonSprite_151
+  - first:
+      213: 21300304
+    second: GeorgeJetsonSprite_152
+  - first:
+      213: 21300306
+    second: GeorgeJetsonSprite_153
+  - first:
+      213: 21300308
+    second: GeorgeJetsonSprite_154
+  - first:
+      213: 21300310
+    second: GeorgeJetsonSprite_155
+  - first:
+      213: 21300312
+    second: GeorgeJetsonSprite_156
+  - first:
+      213: 21300314
+    second: GeorgeJetsonSprite_157
+  - first:
+      213: 21300316
+    second: GeorgeJetsonSprite_158
+  - first:
+      213: 21300318
+    second: GeorgeJetsonSprite_159
+  - first:
+      213: 21300320
+    second: GeorgeJetsonSprite_160
+  - first:
+      213: 21300322
+    second: GeorgeJetsonSprite_161
+  - first:
+      213: 21300324
+    second: GeorgeJetsonSprite_162
+  - first:
+      213: 21300326
+    second: GeorgeJetsonSprite_163
+  - first:
+      213: 21300328
+    second: GeorgeJetsonSprite_164
+  - first:
+      213: 21300330
+    second: GeorgeJetsonSprite_165
+  - first:
+      213: 21300332
+    second: GeorgeJetsonSprite_166
+  - first:
+      213: 21300334
+    second: GeorgeJetsonSprite_167
+  - first:
+      213: 21300336
+    second: GeorgeJetsonSprite_168
+  - first:
+      213: 21300338
+    second: GeorgeJetsonSprite_169
+  - first:
+      213: 21300340
+    second: GeorgeJetsonSprite_170
+  - first:
+      213: 21300342
+    second: GeorgeJetsonSprite_171
+  - first:
+      213: 21300344
+    second: GeorgeJetsonSprite_172
+  - first:
+      213: 21300346
+    second: GeorgeJetsonSprite_173
+  - first:
+      213: 21300348
+    second: GeorgeJetsonSprite_174
+  - first:
+      213: 21300350
+    second: GeorgeJetsonSprite_175
+  - first:
+      213: 21300352
+    second: GeorgeJetsonSprite_176
+  - first:
+      213: 21300354
+    second: GeorgeJetsonSprite_177
+  - first:
+      213: 21300356
+    second: GeorgeJetsonSprite_178
+  - first:
+      213: 21300358
+    second: GeorgeJetsonSprite_179
+  - first:
+      213: 21300360
+    second: GeorgeJetsonSprite_180
+  - first:
+      213: 21300362
+    second: GeorgeJetsonSprite_181
+  - first:
+      213: 21300364
+    second: GeorgeJetsonSprite_182
+  - first:
+      213: 21300366
+    second: GeorgeJetsonSprite_183
+  - first:
+      213: 21300368
+    second: GeorgeJetsonSprite_184
+  - first:
+      213: 21300370
+    second: GeorgeJetsonSprite_185
+  - first:
+      213: 21300372
+    second: GeorgeJetsonSprite_186
+  - first:
+      213: 21300374
+    second: GeorgeJetsonSprite_187
+  - first:
+      213: 21300376
+    second: GeorgeJetsonSprite_188
+  - first:
+      213: 21300378
+    second: GeorgeJetsonSprite_189
+  - first:
+      213: 21300380
+    second: GeorgeJetsonSprite_190
+  - first:
+      213: 21300382
+    second: GeorgeJetsonSprite_191
+  - first:
+      213: 21300384
+    second: GeorgeJetsonSprite_192
+  - first:
+      213: 21300386
+    second: GeorgeJetsonSprite_193
+  - first:
+      213: 21300388
+    second: GeorgeJetsonSprite_194
+  - first:
+      213: 21300390
+    second: GeorgeJetsonSprite_195
+  - first:
+      213: 21300392
+    second: GeorgeJetsonSprite_196
+  - first:
+      213: 21300394
+    second: GeorgeJetsonSprite_197
+  - first:
+      213: 21300396
+    second: GeorgeJetsonSprite_198
+  - first:
+      213: 21300398
+    second: GeorgeJetsonSprite_199
+  - first:
+      213: 21300400
+    second: GeorgeJetsonSprite_200
+  - first:
+      213: 21300402
+    second: GeorgeJetsonSprite_201
+  - first:
+      213: 21300404
+    second: GeorgeJetsonSprite_202
+  - first:
+      213: 21300406
+    second: GeorgeJetsonSprite_203
+  - first:
+      213: 21300408
+    second: GeorgeJetsonSprite_204
+  - first:
+      213: 21300410
+    second: GeorgeJetsonSprite_205
+  - first:
+      213: 21300412
+    second: GeorgeJetsonSprite_206
+  - first:
+      213: 21300414
+    second: GeorgeJetsonSprite_207
+  - first:
+      213: 21300416
+    second: GeorgeJetsonSprite_208
+  - first:
+      213: 21300418
+    second: GeorgeJetsonSprite_209
+  - first:
+      213: 21300420
+    second: GeorgeJetsonSprite_210
+  - first:
+      213: 21300422
+    second: GeorgeJetsonSprite_211
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -232,37 +657,65 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: GeorgeJetsonSprite_0
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_0
       rect:
         serializedVersion: 2
         x: 196
@@ -273,7 +726,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_1
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_1
       rect:
         serializedVersion: 2
         x: 230
@@ -284,7 +747,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_2
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_2
       rect:
         serializedVersion: 2
         x: 264
@@ -294,16 +767,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 21}
-        - {x: -16, y: 7}
-        - {x: -16, y: -17}
-        - {x: -14, y: -21}
-        - {x: 1, y: -21}
-        - {x: 16, y: -14}
-        - {x: 16, y: 2}
-        - {x: 6, y: 21}
-    - name: GeorgeJetsonSprite_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_3
       rect:
         serializedVersion: 2
         x: 301
@@ -314,7 +789,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_4
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_4
       rect:
         serializedVersion: 2
         x: 336
@@ -325,7 +810,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_5
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_5
       rect:
         serializedVersion: 2
         x: 370
@@ -336,7 +831,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_6
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_6
       rect:
         serializedVersion: 2
         x: 405
@@ -347,7 +852,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_7
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_7
       rect:
         serializedVersion: 2
         x: 4
@@ -358,7 +873,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_8
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_8
       rect:
         serializedVersion: 2
         x: 38
@@ -369,7 +894,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_9
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_9
       rect:
         serializedVersion: 2
         x: 114
@@ -380,7 +915,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_10
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_10
       rect:
         serializedVersion: 2
         x: 306
@@ -391,7 +936,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_11
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_11
       rect:
         serializedVersion: 2
         x: 341
@@ -402,7 +957,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_12
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_12
       rect:
         serializedVersion: 2
         x: 366
@@ -413,7 +978,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_13
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_13
       rect:
         serializedVersion: 2
         x: 439
@@ -424,7 +999,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_14
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_14
       rect:
         serializedVersion: 2
         x: 468
@@ -434,15 +1019,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15, y: 24}
-        - {x: -16, y: 21}
-        - {x: -16, y: -24}
-        - {x: 15, y: -24}
-        - {x: 16, y: -23}
-        - {x: 16, y: 1}
-        - {x: 7, y: 24}
-    - name: GeorgeJetsonSprite_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_15
       rect:
         serializedVersion: 2
         x: 506
@@ -453,7 +1041,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_16
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_16
       rect:
         serializedVersion: 2
         x: 541
@@ -464,7 +1062,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_17
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_17
       rect:
         serializedVersion: 2
         x: 572
@@ -475,7 +1083,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_18
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_18
       rect:
         serializedVersion: 2
         x: 604
@@ -485,13 +1103,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13, y: 25}
-        - {x: -16, y: 8}
-        - {x: -16, y: -25}
-        - {x: 16, y: -25}
-        - {x: 16, y: 25}
-    - name: GeorgeJetsonSprite_19
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_19
       rect:
         serializedVersion: 2
         x: 639
@@ -502,7 +1125,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_20
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_20
       rect:
         serializedVersion: 2
         x: 677
@@ -513,7 +1146,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_21
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_21
       rect:
         serializedVersion: 2
         x: 71
@@ -523,17 +1166,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 3.5, y: 10}
-        - {x: -2.5, y: 21}
-        - {x: -3.5, y: 22}
-        - {x: -18.5, y: 22}
-        - {x: -18.5, y: -12}
-        - {x: -11.5, y: -22}
-        - {x: 18.5, y: -22}
-        - {x: 18.5, y: 15}
-        - {x: 6.5, y: 13}
-    - name: GeorgeJetsonSprite_22
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_22
       rect:
         serializedVersion: 2
         x: 150
@@ -544,7 +1188,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_23
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_23
       rect:
         serializedVersion: 2
         x: 199
@@ -555,7 +1209,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_24
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_24
       rect:
         serializedVersion: 2
         x: 233
@@ -566,7 +1230,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_25
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_25
       rect:
         serializedVersion: 2
         x: 267
@@ -577,7 +1251,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_26
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_26
       rect:
         serializedVersion: 2
         x: 304
@@ -588,7 +1272,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_27
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_27
       rect:
         serializedVersion: 2
         x: 341
@@ -599,7 +1293,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_28
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_28
       rect:
         serializedVersion: 2
         x: 366
@@ -610,7 +1314,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_29
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_29
       rect:
         serializedVersion: 2
         x: 9
@@ -620,21 +1334,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 23}
-        - {x: -20.5, y: 12}
-        - {x: -20.5, y: -23}
-        - {x: 6.5, y: -23}
-        - {x: 20.5, y: -5}
-        - {x: 20.5, y: 17}
-        - {x: 14.5, y: 23}
-      - - {x: -10.5, y: -21}
-        - {x: -10.5, y: -23}
-        - {x: -3.5, y: -23}
-        - {x: -2.5, y: -22}
-        - {x: -2.5, y: -20}
-        - {x: -5.5, y: -19}
-    - name: GeorgeJetsonSprite_30
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_30
       rect:
         serializedVersion: 2
         x: 52
@@ -644,17 +1355,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 24, y: -5.5}
-        - {x: 24, y: 22.5}
-        - {x: -11, y: 22.5}
-        - {x: -24, y: -8.5}
-        - {x: -24, y: -22.5}
-        - {x: -10, y: -22.5}
-        - {x: -11, y: -19.5}
-        - {x: -4, y: -22.5}
-        - {x: 5, y: -22.5}
-    - name: GeorgeJetsonSprite_31
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_31
       rect:
         serializedVersion: 2
         x: 103
@@ -664,21 +1376,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: -21.5}
-        - {x: -15.5, y: -23.5}
-        - {x: 7.5, y: -23.5}
-        - {x: 23.5, y: -10.5}
-        - {x: 23.5, y: 20.5}
-        - {x: 20.5, y: 23.5}
-        - {x: -5.5, y: 23.5}
-        - {x: -23.5, y: -11.5}
-        - {x: -23.5, y: -23.5}
-        - {x: -15.5, y: -23.5}
-        - {x: -15.5, y: -22.5}
-        - {x: -14.5, y: -15.5}
-        - {x: -11.5, y: -15.5}
-    - name: GeorgeJetsonSprite_32
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_32
       rect:
         serializedVersion: 2
         x: 156
@@ -688,14 +1397,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 18.5}
-        - {x: -22, y: -10.5}
-        - {x: -22, y: -18.5}
-        - {x: 8, y: -18.5}
-        - {x: 22, y: -13.5}
-        - {x: 22, y: 18.5}
-    - name: GeorgeJetsonSprite_33
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_33
       rect:
         serializedVersion: 2
         x: 202
@@ -706,7 +1419,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_34
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_34
       rect:
         serializedVersion: 2
         x: 238
@@ -717,7 +1440,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_35
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_35
       rect:
         serializedVersion: 2
         x: 272
@@ -727,14 +1460,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.5, y: 23.5}
-        - {x: -17.5, y: -19.5}
-        - {x: -4.5, y: -23.5}
-        - {x: 17.5, y: -23.5}
-        - {x: 17.5, y: 15.5}
-        - {x: 13.5, y: 23.5}
-    - name: GeorgeJetsonSprite_36
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_36
       rect:
         serializedVersion: 2
         x: 314
@@ -745,7 +1482,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_37
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_37
       rect:
         serializedVersion: 2
         x: 340
@@ -755,13 +1502,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17, y: 22.5}
-        - {x: -17, y: -22.5}
-        - {x: -2, y: -22.5}
-        - {x: 17, y: -4.5}
-        - {x: 17, y: 22.5}
-    - name: GeorgeJetsonSprite_38
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_38
       rect:
         serializedVersion: 2
         x: 381
@@ -772,7 +1524,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_39
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_39
       rect:
         serializedVersion: 2
         x: 415
@@ -783,7 +1545,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_40
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_40
       rect:
         serializedVersion: 2
         x: 450
@@ -794,7 +1566,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_41
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_41
       rect:
         serializedVersion: 2
         x: 483
@@ -805,7 +1587,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_42
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_42
       rect:
         serializedVersion: 2
         x: 519
@@ -816,7 +1608,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_43
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_43
       rect:
         serializedVersion: 2
         x: 550
@@ -826,18 +1628,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20, y: 8.5}
-        - {x: 12, y: 23.5}
-        - {x: -11, y: 23.5}
-        - {x: -20, y: 11.5}
-        - {x: -20, y: -1.5}
-        - {x: -3, y: -23.5}
-        - {x: 10, y: -23.5}
-        - {x: 11, y: -19.5}
-        - {x: 19, y: -10.5}
-        - {x: 20, y: -8.5}
-    - name: GeorgeJetsonSprite_44
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_44
       rect:
         serializedVersion: 2
         x: 595
@@ -848,7 +1650,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_45
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_45
       rect:
         serializedVersion: 2
         x: 628
@@ -858,15 +1670,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 24}
-        - {x: -18, y: -14}
-        - {x: -15, y: -24}
-        - {x: 9, y: -24}
-        - {x: 18, y: -13}
-        - {x: 18, y: 13}
-        - {x: 15, y: 24}
-    - name: GeorgeJetsonSprite_46
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_46
       rect:
         serializedVersion: 2
         x: 668
@@ -877,7 +1692,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_47
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_47
       rect:
         serializedVersion: 2
         x: 694
@@ -888,7 +1713,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_48
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_48
       rect:
         serializedVersion: 2
         x: 2
@@ -899,7 +1734,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_49
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_49
       rect:
         serializedVersion: 2
         x: 113
@@ -910,7 +1755,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_50
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_50
       rect:
         serializedVersion: 2
         x: 155
@@ -921,7 +1776,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_51
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_51
       rect:
         serializedVersion: 2
         x: 383
@@ -932,7 +1797,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_52
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_52
       rect:
         serializedVersion: 2
         x: 417
@@ -943,7 +1818,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_53
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_53
       rect:
         serializedVersion: 2
         x: 451
@@ -954,7 +1839,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_54
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_54
       rect:
         serializedVersion: 2
         x: 4
@@ -965,7 +1860,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_55
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_55
       rect:
         serializedVersion: 2
         x: 38
@@ -976,7 +1881,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_56
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_56
       rect:
         serializedVersion: 2
         x: 72
@@ -987,7 +1902,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_57
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_57
       rect:
         serializedVersion: 2
         x: 104
@@ -998,7 +1923,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_58
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_58
       rect:
         serializedVersion: 2
         x: 143
@@ -1009,7 +1944,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_59
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_59
       rect:
         serializedVersion: 2
         x: 181
@@ -1019,16 +1964,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9.5, y: 21.5}
-        - {x: -9.5, y: 21.5}
-        - {x: -9.5, y: 20.5}
-        - {x: -30.5, y: -10.5}
-        - {x: -30.5, y: -21.5}
-        - {x: -0.5, y: -21.5}
-        - {x: 30.5, y: -4.5}
-        - {x: 30.5, y: 14.5}
-    - name: GeorgeJetsonSprite_60
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_60
       rect:
         serializedVersion: 2
         x: 246
@@ -1038,13 +1985,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 22.5}
-        - {x: -16, y: -22.5}
-        - {x: 16, y: -22.5}
-        - {x: 16, y: 19.5}
-        - {x: 9, y: 22.5}
-    - name: GeorgeJetsonSprite_61
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_61
       rect:
         serializedVersion: 2
         x: 281
@@ -1055,7 +2007,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_62
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_62
       rect:
         serializedVersion: 2
         x: 318
@@ -1066,7 +2028,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_63
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_63
       rect:
         serializedVersion: 2
         x: 352
@@ -1077,7 +2049,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_64
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_64
       rect:
         serializedVersion: 2
         x: 386
@@ -1088,7 +2070,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_65
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_65
       rect:
         serializedVersion: 2
         x: 417
@@ -1099,7 +2091,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_66
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_66
       rect:
         serializedVersion: 2
         x: 451
@@ -1109,15 +2111,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 23.5}
-        - {x: -17, y: 19.5}
-        - {x: -17, y: -21.5}
-        - {x: -10, y: -23.5}
-        - {x: 17, y: -23.5}
-        - {x: 17, y: -5.5}
-        - {x: 13, y: 23.5}
-    - name: GeorgeJetsonSprite_67
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_67
       rect:
         serializedVersion: 2
         x: 493
@@ -1128,7 +2133,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_68
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_68
       rect:
         serializedVersion: 2
         x: 532
@@ -1138,15 +2153,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 23.5}
-        - {x: -14, y: 22.5}
-        - {x: -19, y: 4.5}
-        - {x: -19, y: -23.5}
-        - {x: 6, y: -23.5}
-        - {x: 19, y: 2.5}
-        - {x: 19, y: 23.5}
-    - name: GeorgeJetsonSprite_69
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_69
       rect:
         serializedVersion: 2
         x: 578
@@ -1156,14 +2174,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 20}
-        - {x: -18.5, y: -11}
-        - {x: -6.5, y: -20}
-        - {x: 18.5, y: -20}
-        - {x: 18.5, y: 16}
-        - {x: 11.5, y: 20}
-    - name: GeorgeJetsonSprite_70
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_70
       rect:
         serializedVersion: 2
         x: 619
@@ -1173,15 +2195,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11.5, y: 19.5}
-        - {x: -21.5, y: 9.5}
-        - {x: -21.5, y: -19.5}
-        - {x: -5.5, y: -19.5}
-        - {x: 3.5, y: -17.5}
-        - {x: 21.5, y: -4.5}
-        - {x: 21.5, y: 19.5}
-    - name: GeorgeJetsonSprite_71
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_71
       rect:
         serializedVersion: 2
         x: 668
@@ -1192,7 +2217,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_72
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_72
       rect:
         serializedVersion: 2
         x: 688
@@ -1203,7 +2238,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_73
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_73
       rect:
         serializedVersion: 2
         x: 4
@@ -1213,14 +2258,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: -17.5}
-        - {x: 18, y: -17.5}
-        - {x: 18, y: 10.5}
-        - {x: 16, y: 17.5}
-        - {x: -16, y: 17.5}
-        - {x: -18, y: 13.5}
-    - name: GeorgeJetsonSprite_74
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_74
       rect:
         serializedVersion: 2
         x: 46
@@ -1230,16 +2279,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19, y: 23.5}
-        - {x: -19, y: 8.5}
-        - {x: -14, y: -7.5}
-        - {x: -11, y: -14.5}
-        - {x: -3, y: -23.5}
-        - {x: 13, y: -23.5}
-        - {x: 19, y: -15.5}
-        - {x: 19, y: 23.5}
-    - name: GeorgeJetsonSprite_75
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_75
       rect:
         serializedVersion: 2
         x: 86
@@ -1250,7 +2301,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_76
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_76
       rect:
         serializedVersion: 2
         x: 123
@@ -1261,7 +2322,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_77
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_77
       rect:
         serializedVersion: 2
         x: 154
@@ -1272,7 +2343,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_78
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_78
       rect:
         serializedVersion: 2
         x: 188
@@ -1283,7 +2364,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_79
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_79
       rect:
         serializedVersion: 2
         x: 223
@@ -1294,7 +2385,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_80
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_80
       rect:
         serializedVersion: 2
         x: 257
@@ -1305,7 +2406,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_81
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_81
       rect:
         serializedVersion: 2
         x: 290
@@ -1316,7 +2427,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_82
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_82
       rect:
         serializedVersion: 2
         x: 324
@@ -1327,7 +2448,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_83
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_83
       rect:
         serializedVersion: 2
         x: 358
@@ -1337,17 +2468,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 6, y: 16}
-        - {x: 2, y: 23}
-        - {x: -14, y: 23}
-        - {x: -17, y: 19}
-        - {x: -17, y: -21}
-        - {x: -16, y: -23}
-        - {x: 17, y: -23}
-        - {x: 17, y: -5}
-        - {x: 14, y: -2}
-    - name: GeorgeJetsonSprite_84
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_84
       rect:
         serializedVersion: 2
         x: 404
@@ -1358,7 +2490,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_85
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_85
       rect:
         serializedVersion: 2
         x: 454
@@ -1369,7 +2511,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_86
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_86
       rect:
         serializedVersion: 2
         x: 512
@@ -1380,7 +2532,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_87
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_87
       rect:
         serializedVersion: 2
         x: 570
@@ -1391,7 +2553,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_88
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_88
       rect:
         serializedVersion: 2
         x: 629
@@ -1402,7 +2574,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_89
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_89
       rect:
         serializedVersion: 2
         x: 662
@@ -1413,7 +2595,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_90
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_90
       rect:
         serializedVersion: 2
         x: 695
@@ -1424,7 +2616,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_91
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_91
       rect:
         serializedVersion: 2
         x: 5
@@ -1435,7 +2637,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_92
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_92
       rect:
         serializedVersion: 2
         x: 41
@@ -1446,7 +2658,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_93
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_93
       rect:
         serializedVersion: 2
         x: 76
@@ -1457,7 +2679,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_94
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_94
       rect:
         serializedVersion: 2
         x: 109
@@ -1468,7 +2700,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_95
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_95
       rect:
         serializedVersion: 2
         x: 139
@@ -1479,7 +2721,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_96
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_96
       rect:
         serializedVersion: 2
         x: 172
@@ -1490,7 +2742,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_97
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_97
       rect:
         serializedVersion: 2
         x: 211
@@ -1501,7 +2763,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_98
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_98
       rect:
         serializedVersion: 2
         x: 243
@@ -1511,14 +2783,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: 26.5}
-        - {x: -22.5, y: 7.5}
-        - {x: -10.5, y: -26.5}
-        - {x: 7.5, y: -26.5}
-        - {x: 22.5, y: -10.5}
-        - {x: 22.5, y: 26.5}
-    - name: GeorgeJetsonSprite_99
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_99
       rect:
         serializedVersion: 2
         x: 293
@@ -1528,19 +2804,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 12.5, y: 26.5}
-        - {x: -17.5, y: 26.5}
-        - {x: -22.5, y: 24.5}
-        - {x: -22.5, y: 6.5}
-        - {x: -18.5, y: -11.5}
-        - {x: -12.5, y: -24.5}
-        - {x: -9.5, y: -26.5}
-        - {x: 4.5, y: -26.5}
-        - {x: 17.5, y: -14.5}
-        - {x: 22.5, y: -2.5}
-        - {x: 22.5, y: 24.5}
-    - name: GeorgeJetsonSprite_100
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_100
       rect:
         serializedVersion: 2
         x: 342
@@ -1551,7 +2826,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_101
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_101
       rect:
         serializedVersion: 2
         x: 378
@@ -1562,7 +2847,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_102
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_102
       rect:
         serializedVersion: 2
         x: 408
@@ -1572,13 +2867,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 20.5}
-        - {x: -16, y: -20.5}
-        - {x: 13, y: -20.5}
-        - {x: 16, y: -15.5}
-        - {x: 16, y: 20.5}
-    - name: GeorgeJetsonSprite_103
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_103
       rect:
         serializedVersion: 2
         x: 443
@@ -1589,7 +2889,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_104
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_104
       rect:
         serializedVersion: 2
         x: 482
@@ -1600,7 +2910,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_105
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_105
       rect:
         serializedVersion: 2
         x: 516
@@ -1611,7 +2931,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_106
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_106
       rect:
         serializedVersion: 2
         x: 549
@@ -1622,7 +2952,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_107
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_107
       rect:
         serializedVersion: 2
         x: 578
@@ -1632,15 +2972,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 38.5}
-        - {x: -16, y: 34.5}
-        - {x: -16, y: -36.5}
-        - {x: -14, y: -38.5}
-        - {x: 15, y: -38.5}
-        - {x: 16, y: -4.5}
-        - {x: 16, y: 38.5}
-    - name: GeorgeJetsonSprite_108
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_108
       rect:
         serializedVersion: 2
         x: 614
@@ -1650,16 +2993,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0, y: 35.5}
-        - {x: -8, y: 29.5}
-        - {x: -22, y: 11.5}
-        - {x: -22, y: -30.5}
-        - {x: -21, y: -35.5}
-        - {x: 16, y: -35.5}
-        - {x: 22, y: -0.5}
-        - {x: 22, y: 35.5}
-    - name: GeorgeJetsonSprite_109
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_109
       rect:
         serializedVersion: 2
         x: 671
@@ -1669,17 +3014,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 23.5, y: 21.5}
-        - {x: 21.5, y: 25.5}
-        - {x: -0.5, y: 25.5}
-        - {x: -23.5, y: 17.5}
-        - {x: -23.5, y: -25.5}
-        - {x: -12.5, y: -25.5}
-        - {x: -10.5, y: -17.5}
-        - {x: 16.5, y: -0.5}
-        - {x: 23.5, y: 9.5}
-    - name: GeorgeJetsonSprite_110
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_110
       rect:
         serializedVersion: 2
         x: 3
@@ -1690,7 +3036,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_111
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_111
       rect:
         serializedVersion: 2
         x: 77
@@ -1700,14 +3056,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -34, y: -17}
-        - {x: 25, y: -17}
-        - {x: 34, y: -9}
-        - {x: 34, y: 17}
-        - {x: 3, y: 17}
-        - {x: -34, y: 7}
-    - name: GeorgeJetsonSprite_112
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_112
       rect:
         serializedVersion: 2
         x: 151
@@ -1717,14 +3077,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -1, y: 20}
-        - {x: -30, y: -5}
-        - {x: -30, y: -20}
-        - {x: 26, y: -20}
-        - {x: 30, y: -17}
-        - {x: 30, y: 20}
-    - name: GeorgeJetsonSprite_113
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_113
       rect:
         serializedVersion: 2
         x: 217
@@ -1734,13 +3098,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 27.5}
-        - {x: -18, y: -5.5}
-        - {x: -18, y: -27.5}
-        - {x: 18, y: -27.5}
-        - {x: 18, y: 27.5}
-    - name: GeorgeJetsonSprite_114
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_114
       rect:
         serializedVersion: 2
         x: 255
@@ -1751,7 +3120,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_115
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_115
       rect:
         serializedVersion: 2
         x: 289
@@ -1762,7 +3141,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_116
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_116
       rect:
         serializedVersion: 2
         x: 323
@@ -1772,16 +3161,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 21}
-        - {x: -16, y: 7}
-        - {x: -16, y: -17}
-        - {x: -14, y: -21}
-        - {x: 1, y: -21}
-        - {x: 16, y: -14}
-        - {x: 16, y: 2}
-        - {x: 6, y: 21}
-    - name: GeorgeJetsonSprite_117
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_117
       rect:
         serializedVersion: 2
         x: 360
@@ -1792,7 +3183,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_118
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_118
       rect:
         serializedVersion: 2
         x: 391
@@ -1803,7 +3204,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_119
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_119
       rect:
         serializedVersion: 2
         x: 457
@@ -1813,25 +3224,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9, y: 12.5}
-        - {x: 9, y: 11.5}
-        - {x: 8, y: 16.5}
-        - {x: 4, y: 23.5}
-        - {x: -1, y: 23.5}
-        - {x: -8, y: 16.5}
-        - {x: -9, y: 10.5}
-        - {x: -9, y: 7.5}
-        - {x: -9, y: 12.5}
-        - {x: -11, y: 16.5}
-        - {x: -19, y: 19.5}
-        - {x: -24, y: 19.5}
-        - {x: -24, y: -23.5}
-        - {x: 24, y: -23.5}
-        - {x: 24, y: 23.5}
-        - {x: 23, y: 23.5}
-        - {x: 10, y: 18.5}
-    - name: GeorgeJetsonSprite_120
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_120
       rect:
         serializedVersion: 2
         x: 507
@@ -1841,17 +3245,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -20, y: -10}
-        - {x: -13, y: -20}
-        - {x: 5, y: -20}
-        - {x: 20, y: -13}
-        - {x: 20, y: 13}
-        - {x: 19, y: 16}
-        - {x: 5, y: 20}
-        - {x: -9, y: 20}
-        - {x: -20, y: 5}
-    - name: GeorgeJetsonSprite_121
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_121
       rect:
         serializedVersion: 2
         x: 554
@@ -1862,7 +3267,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_122
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_122
       rect:
         serializedVersion: 2
         x: 584
@@ -1873,7 +3288,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_123
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_123
       rect:
         serializedVersion: 2
         x: 624
@@ -1884,7 +3309,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_124
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_124
       rect:
         serializedVersion: 2
         x: 640
@@ -1895,7 +3330,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_125
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_125
       rect:
         serializedVersion: 2
         x: 258
@@ -1906,7 +3351,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_126
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_126
       rect:
         serializedVersion: 2
         x: 292
@@ -1917,7 +3372,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_127
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_127
       rect:
         serializedVersion: 2
         x: 326
@@ -1928,7 +3393,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_128
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_128
       rect:
         serializedVersion: 2
         x: 631
@@ -1939,7 +3414,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_129
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_129
       rect:
         serializedVersion: 2
         x: 641
@@ -1950,7 +3435,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_130
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_130
       rect:
         serializedVersion: 2
         x: 646
@@ -1961,7 +3456,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_131
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_131
       rect:
         serializedVersion: 2
         x: 654
@@ -1972,7 +3477,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_132
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_132
       rect:
         serializedVersion: 2
         x: 660
@@ -1983,7 +3498,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_133
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_133
       rect:
         serializedVersion: 2
         x: 666
@@ -1994,7 +3519,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_134
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_134
       rect:
         serializedVersion: 2
         x: 679
@@ -2005,7 +3540,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_135
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_135
       rect:
         serializedVersion: 2
         x: 685
@@ -2016,7 +3561,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_136
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_136
       rect:
         serializedVersion: 2
         x: 691
@@ -2027,7 +3582,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_137
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_137
       rect:
         serializedVersion: 2
         x: 699
@@ -2038,7 +3603,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_138
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_138
       rect:
         serializedVersion: 2
         x: 705
@@ -2049,7 +3624,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_139
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_139
       rect:
         serializedVersion: 2
         x: 517
@@ -2060,7 +3645,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_140
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_140
       rect:
         serializedVersion: 2
         x: 551
@@ -2071,7 +3666,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_141
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_141
       rect:
         serializedVersion: 2
         x: 586
@@ -2082,7 +3687,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_142
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_142
       rect:
         serializedVersion: 2
         x: 632
@@ -2093,7 +3708,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_143
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_143
       rect:
         serializedVersion: 2
         x: 648
@@ -2104,7 +3729,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_144
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_144
       rect:
         serializedVersion: 2
         x: 682
@@ -2115,7 +3750,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_145
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_145
       rect:
         serializedVersion: 2
         x: 3
@@ -2125,16 +3770,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7.5, y: 21.5}
-        - {x: -15.5, y: 4.5}
-        - {x: -18.5, y: -5.5}
-        - {x: -18.5, y: -21.5}
-        - {x: 9.5, y: -21.5}
-        - {x: 18.5, y: -16.5}
-        - {x: 18.5, y: 12.5}
-        - {x: 10.5, y: 21.5}
-    - name: GeorgeJetsonSprite_146
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_146
       rect:
         serializedVersion: 2
         x: 53
@@ -2144,15 +3791,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8.5, y: 24}
-        - {x: -18.5, y: -4}
-        - {x: -18.5, y: -24}
-        - {x: -4.5, y: -24}
-        - {x: 18.5, y: -8}
-        - {x: 18.5, y: 15}
-        - {x: 15.5, y: 24}
-    - name: GeorgeJetsonSprite_147
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_147
       rect:
         serializedVersion: 2
         x: 96
@@ -2162,15 +3812,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6, y: 23.5}
-        - {x: -23, y: 13.5}
-        - {x: -23, y: -23.5}
-        - {x: -10, y: -23.5}
-        - {x: 23, y: -11.5}
-        - {x: 23, y: 17.5}
-        - {x: 17, y: 23.5}
-    - name: GeorgeJetsonSprite_148
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_148
       rect:
         serializedVersion: 2
         x: 149
@@ -2181,7 +3834,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_149
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_149
       rect:
         serializedVersion: 2
         x: 178
@@ -2191,14 +3854,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 24}
-        - {x: -16, y: -23}
-        - {x: -14, y: -24}
-        - {x: 16, y: -24}
-        - {x: 16, y: 14}
-        - {x: 7, y: 24}
-    - name: GeorgeJetsonSprite_150
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_150
       rect:
         serializedVersion: 2
         x: 217
@@ -2209,7 +3876,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_151
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_151
       rect:
         serializedVersion: 2
         x: 252
@@ -2220,7 +3897,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_152
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_152
       rect:
         serializedVersion: 2
         x: 282
@@ -2231,7 +3918,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_153
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_153
       rect:
         serializedVersion: 2
         x: 314
@@ -2241,15 +3938,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 25}
-        - {x: -16, y: 5}
-        - {x: -16, y: -24}
-        - {x: -8, y: -25}
-        - {x: 16, y: -25}
-        - {x: 16, y: 19}
-        - {x: 4, y: 25}
-    - name: GeorgeJetsonSprite_154
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_154
       rect:
         serializedVersion: 2
         x: 349
@@ -2260,7 +3960,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_155
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_155
       rect:
         serializedVersion: 2
         x: 387
@@ -2271,7 +3981,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_156
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_156
       rect:
         serializedVersion: 2
         x: 417
@@ -2281,15 +4001,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15, y: 18.5}
-        - {x: -22, y: 2.5}
-        - {x: -22, y: -18.5}
-        - {x: 12, y: -18.5}
-        - {x: 22, y: -9.5}
-        - {x: 22, y: 12.5}
-        - {x: 8, y: 18.5}
-    - name: GeorgeJetsonSprite_157
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_157
       rect:
         serializedVersion: 2
         x: 470
@@ -2300,7 +4023,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_158
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_158
       rect:
         serializedVersion: 2
         x: 519
@@ -2311,7 +4044,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_159
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_159
       rect:
         serializedVersion: 2
         x: 553
@@ -2322,7 +4065,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_160
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_160
       rect:
         serializedVersion: 2
         x: 587
@@ -2333,7 +4086,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_161
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_161
       rect:
         serializedVersion: 2
         x: 218
@@ -2343,13 +4106,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -24, y: 35}
-        - {x: -24, y: -35}
-        - {x: 8, y: -35}
-        - {x: 24, y: -27}
-        - {x: 24, y: 35}
-    - name: GeorgeJetsonSprite_162
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_162
       rect:
         serializedVersion: 2
         x: 273
@@ -2360,7 +4128,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_163
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_163
       rect:
         serializedVersion: 2
         x: 282
@@ -2371,7 +4149,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_164
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_164
       rect:
         serializedVersion: 2
         x: 288
@@ -2382,7 +4170,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_165
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_165
       rect:
         serializedVersion: 2
         x: 300
@@ -2393,7 +4191,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_166
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_166
       rect:
         serializedVersion: 2
         x: 306
@@ -2404,7 +4212,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_167
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_167
       rect:
         serializedVersion: 2
         x: 314
@@ -2415,7 +4233,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_168
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_168
       rect:
         serializedVersion: 2
         x: 324
@@ -2426,7 +4254,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_169
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_169
       rect:
         serializedVersion: 2
         x: 334
@@ -2437,7 +4275,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_170
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_170
       rect:
         serializedVersion: 2
         x: 339
@@ -2448,7 +4296,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_171
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_171
       rect:
         serializedVersion: 2
         x: 346
@@ -2459,7 +4317,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_172
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_172
       rect:
         serializedVersion: 2
         x: 351
@@ -2470,7 +4338,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_173
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_173
       rect:
         serializedVersion: 2
         x: 361
@@ -2481,7 +4359,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_174
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_174
       rect:
         serializedVersion: 2
         x: 370
@@ -2492,7 +4380,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_175
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_175
       rect:
         serializedVersion: 2
         x: 378
@@ -2503,7 +4401,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_176
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_176
       rect:
         serializedVersion: 2
         x: 385
@@ -2514,7 +4422,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_177
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_177
       rect:
         serializedVersion: 2
         x: 390
@@ -2525,7 +4443,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_178
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_178
       rect:
         serializedVersion: 2
         x: 395
@@ -2536,7 +4464,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_179
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_179
       rect:
         serializedVersion: 2
         x: 403
@@ -2547,7 +4485,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_180
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_180
       rect:
         serializedVersion: 2
         x: 412
@@ -2558,7 +4506,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_181
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_181
       rect:
         serializedVersion: 2
         x: 421
@@ -2569,7 +4527,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_182
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_182
       rect:
         serializedVersion: 2
         x: 2
@@ -2579,14 +4547,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22, y: 30}
-        - {x: -24, y: 25}
-        - {x: -24, y: -30}
-        - {x: 24, y: -30}
-        - {x: 24, y: 19}
-        - {x: 10, y: 30}
-    - name: GeorgeJetsonSprite_183
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_183
       rect:
         serializedVersion: 2
         x: 57
@@ -2596,19 +4568,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 23.5, y: -2.5}
-        - {x: 23.5, y: 5.5}
-        - {x: 19.5, y: 14.5}
-        - {x: 4.5, y: 30.5}
-        - {x: -25.5, y: 30.5}
-        - {x: -25.5, y: -26.5}
-        - {x: -17.5, y: -30.5}
-        - {x: -3.5, y: -30.5}
-        - {x: 10.5, y: -23.5}
-        - {x: 25.5, y: -15.5}
-        - {x: 25.5, y: -6.5}
-    - name: GeorgeJetsonSprite_184
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_184
       rect:
         serializedVersion: 2
         x: 118
@@ -2618,16 +4589,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 31.5}
-        - {x: -18, y: 27.5}
-        - {x: -24, y: 15.5}
-        - {x: -24, y: -31.5}
-        - {x: 20, y: -31.5}
-        - {x: 24, y: -30.5}
-        - {x: 24, y: 5.5}
-        - {x: 10, y: 31.5}
-    - name: GeorgeJetsonSprite_185
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_185
       rect:
         serializedVersion: 2
         x: 168
@@ -2637,14 +4610,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23, y: 30}
-        - {x: -24, y: 27}
-        - {x: -24, y: -30}
-        - {x: 24, y: -30}
-        - {x: 24, y: 6}
-        - {x: 9, y: 30}
-    - name: GeorgeJetsonSprite_186
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_186
       rect:
         serializedVersion: 2
         x: 277
@@ -2655,7 +4632,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_187
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_187
       rect:
         serializedVersion: 2
         x: 282
@@ -2666,7 +4653,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_188
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_188
       rect:
         serializedVersion: 2
         x: 287
@@ -2677,7 +4674,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_189
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_189
       rect:
         serializedVersion: 2
         x: 295
@@ -2688,7 +4695,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_190
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_190
       rect:
         serializedVersion: 2
         x: 300
@@ -2699,7 +4716,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_191
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_191
       rect:
         serializedVersion: 2
         x: 308
@@ -2710,7 +4737,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_192
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_192
       rect:
         serializedVersion: 2
         x: 314
@@ -2721,7 +4758,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_193
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_193
       rect:
         serializedVersion: 2
         x: 326
@@ -2732,7 +4779,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_194
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_194
       rect:
         serializedVersion: 2
         x: 335
@@ -2743,7 +4800,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_195
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_195
       rect:
         serializedVersion: 2
         x: 340
@@ -2754,7 +4821,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_196
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_196
       rect:
         serializedVersion: 2
         x: 345
@@ -2765,7 +4842,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_197
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_197
       rect:
         serializedVersion: 2
         x: 352
@@ -2776,7 +4863,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_198
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_198
       rect:
         serializedVersion: 2
         x: 357
@@ -2787,7 +4884,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_199
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_199
       rect:
         serializedVersion: 2
         x: 364
@@ -2798,7 +4905,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_200
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_200
       rect:
         serializedVersion: 2
         x: 369
@@ -2809,7 +4926,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_201
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_201
       rect:
         serializedVersion: 2
         x: 374
@@ -2820,7 +4947,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_202
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_202
       rect:
         serializedVersion: 2
         x: 388
@@ -2831,7 +4968,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_203
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_203
       rect:
         serializedVersion: 2
         x: 397
@@ -2842,7 +4989,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_204
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_204
       rect:
         serializedVersion: 2
         x: 402
@@ -2853,7 +5010,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_205
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_205
       rect:
         serializedVersion: 2
         x: 410
@@ -2864,7 +5031,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_206
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_206
       rect:
         serializedVersion: 2
         x: 444
@@ -2874,12 +5051,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -140.5, y: 31.5}
-        - {x: -140.5, y: -31.5}
-        - {x: 140.5, y: -31.5}
-        - {x: 140.5, y: 31.5}
-    - name: GeorgeJetsonSprite_207
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_207
       rect:
         serializedVersion: 2
         x: 327
@@ -2890,7 +5073,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_208
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_208
       rect:
         serializedVersion: 2
         x: 294
@@ -2901,7 +5094,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_209
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_209
       rect:
         serializedVersion: 2
         x: 320
@@ -2912,7 +5115,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_210
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_210
       rect:
         serializedVersion: 2
         x: 346
@@ -2923,7 +5136,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: GeorgeJetsonSprite_211
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgeJetsonSprite_211
       rect:
         serializedVersion: 2
         x: 372
@@ -2934,8 +5157,28 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

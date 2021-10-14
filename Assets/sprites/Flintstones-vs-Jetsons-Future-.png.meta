@@ -1,21 +1,30 @@
 fileFormatVersion: 2
 guid: af372617ce8ca4d059583accacc018af
-timeCreated: 1461816448
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Flintstones-vs-Jetsons-Future-_0
-    21300002: Flintstones-vs-Jetsons-Future-_1
-    21300004: Flintstones-vs-Jetsons-Future-_2
-    21300006: Flintstones-vs-Jetsons-Future-_3
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Flintstones-vs-Jetsons-Future-_0
+  - first:
+      213: 21300002
+    second: Flintstones-vs-Jetsons-Future-_1
+  - first:
+      213: 21300004
+    second: Flintstones-vs-Jetsons-Future-_2
+  - first:
+      213: 21300006
+    second: Flintstones-vs-Jetsons-Future-_3
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -24,37 +33,65 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Flintstones-vs-Jetsons-Future-_0
+    - serializedVersion: 2
+      name: Flintstones-vs-Jetsons-Future-_0
       rect:
         serializedVersion: 2
         x: 24
@@ -64,42 +101,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 45, y: 55}
-        - {x: 40, y: 58}
-        - {x: 51, y: 53}
-        - {x: 75, y: 78}
-        - {x: 77, y: 96}
-        - {x: 69, y: 101}
-        - {x: -119, y: 101}
-        - {x: -119, y: -31}
-        - {x: -95, y: -38}
-        - {x: -92, y: -37}
-        - {x: -110, y: -43}
-        - {x: -119, y: -69}
-        - {x: -119, y: -97}
-        - {x: -109, y: -101}
-        - {x: 100, y: -101}
-        - {x: 119, y: -89}
-        - {x: 119, y: -2}
-        - {x: 47, y: 55}
-      - - {x: 94, y: -93}
-        - {x: 97, y: -92}
-        - {x: 97, y: -89}
-        - {x: 94, y: -88}
-        - {x: 92, y: -90}
-      - - {x: 54, y: 51}
-        - {x: 57, y: 52}
-        - {x: 57, y: 55}
-        - {x: 54, y: 56}
-        - {x: 52, y: 54}
-      - - {x: -107, y: 101}
-        - {x: -107, y: 100}
-        - {x: -104, y: 97}
-        - {x: -103, y: 97}
-        - {x: -100, y: 100}
-        - {x: -100, y: 101}
-    - name: Flintstones-vs-Jetsons-Future-_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintstones-vs-Jetsons-Future-_1
       rect:
         serializedVersion: 2
         x: 316
@@ -110,7 +123,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Flintstones-vs-Jetsons-Future-_2
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintstones-vs-Jetsons-Future-_2
       rect:
         serializedVersion: 2
         x: 343
@@ -121,7 +144,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Flintstones-vs-Jetsons-Future-_3
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintstones-vs-Jetsons-Future-_3
       rect:
         serializedVersion: 2
         x: 396
@@ -131,40 +164,29 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 59.5, y: -89.5}
-        - {x: 108.5, y: -71.5}
-        - {x: 139.5, y: -18.5}
-        - {x: 139.5, y: 48.5}
-        - {x: 136.5, y: 54.5}
-        - {x: 105.5, y: 54.5}
-        - {x: 69.5, y: 110.5}
-        - {x: -37.5, y: 110.5}
-        - {x: -70.5, y: 93.5}
-        - {x: -111.5, y: 35.5}
-        - {x: -139.5, y: -23.5}
-        - {x: -139.5, y: -65.5}
-        - {x: -95.5, y: -103.5}
-        - {x: -12.5, y: -110.5}
-        - {x: 55.5, y: -110.5}
-        - {x: 65.5, y: -100.5}
-        - {x: 67.5, y: -91.5}
-        - {x: 64.5, y: -90.5}
-      - - {x: -131.5, y: -18.5}
-        - {x: -128.5, y: -17.5}
-        - {x: -128.5, y: -14.5}
-        - {x: -131.5, y: -13.5}
-        - {x: -133.5, y: -15.5}
-      - - {x: 106.5, y: 33.5}
-        - {x: 104.5, y: 31.5}
-        - {x: 104.5, y: 29.5}
-        - {x: 106.5, y: 27.5}
-        - {x: 108.5, y: 27.5}
-        - {x: 110.5, y: 29.5}
-        - {x: 110.5, y: 31.5}
-        - {x: 108.5, y: 33.5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
